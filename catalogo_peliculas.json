@@ -1,5 +1,32 @@
 [
   {
+  "id": "serie_prueba_1",
+  "titulo": "RÁPIDO Y FURIOSO (SERIE)",
+  "genero": "BÉLICA",
+  "plataforma": "TAD",
+  "sinopsis": "Esta es una prueba para ver si los numeritos de los capítulos aparecen bien. Elegí un capítulo para reproducir.",
+  "puntuacion": 9.2,
+  "year": "2024",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/12%20Citas%20de%20Navidad/poster.jpg",
+  "backdrop": "/ve7FpSa7v796YpA6AdpORQ9mIPz.jpg",
+  "video": "",
+  "esSerie": true,
+  "capitulos": [
+    {
+      "numero": 1,
+      "url": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4"
+    },
+    {
+      "numero": 2,
+      "url": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4"
+    },
+    {
+      "numero": 3,
+      "url": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/2.mp4"
+    }
+  ]
+  },
+  {
     "id": 81393,
     "titulo": "12 Citas de Navidad",
     "genero": "Romance",

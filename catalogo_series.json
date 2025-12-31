@@ -77,8 +77,8 @@
     "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
     "puntuacion": 8,
     "year": "2025",
-    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/pluribus%20T1.jpgg",
-    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series//pluribus%20T1_bg.jpg",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1.jpgg",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1_bg.jpg",
     "capitulos": [
       {
         "nombre": "1",
@@ -93,27 +93,27 @@
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x03.mp4"
       },
        {
-        "nombre": "3",
+        "nombre": "4",
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x04.mp4"
       },
        {
-        "nombre": "3",
+        "nombre": "5",
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x05.mp4"
       },
        {
-        "nombre": "3",
+        "nombre": "6",
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x06.mp4"
       },
        {
-        "nombre": "3",
+        "nombre": "7",
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x07.mp4"
       },
        {
-        "nombre": "3",
+        "nombre": "8",
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x08.mp4"
       },
        {
-        "nombre": "3",
+        "nombre": "9",
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x09.mp4"
       }
     ]

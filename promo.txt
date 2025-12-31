@@ -1,1 +1,1 @@
-https://github.com/Ikaromachine/tad-assets/blob/main/promos/bienvenida.png?raw=true
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/promos/bienvenida.png

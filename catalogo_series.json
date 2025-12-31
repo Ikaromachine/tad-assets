@@ -158,5 +158,58 @@
       "url": "https://tad-series.b-cdn.net/Task/Task%201x07.mp4"
     }
   ]
+},
+  {
+  "id": "the_studio",
+  "titulo": "The Studio",
+  "genero": "Comedia | Estrenos | TOP 10",
+  "plataforma": "Apple TV",
+  "sinopsis": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
+  "puntuacion": 8.1,
+  "year": "2025",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x10.mp4"
+    }
+  ]
 }
 ]

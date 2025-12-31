@@ -38,5 +38,33 @@
         "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x07.mp4"
       }
     ]
+  },
+  {
+    "titulo": "Adolescencia",
+    "genero": "Drama | Estrenos | TOP 10",
+    "plataforma": "Netflix",
+    "sinopsis": "El mundo de una familia se pone patas arriba cuando Jamie Miller, de 13 años, es arrestado y acusado de asesinar a una compañera de clase. Los cargos contra su hijo les obliga a enfrentarse a la peor pesadilla de cualquier padre.",
+    "puntuacion": 7.8,
+    "year": "2025",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/adolescencia.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/adolescencia_bd.jpg",
+    "capitulos": [
+      {
+        "nombre": "1",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x01.mp4"
+      },
+      {
+        "nombre": "2",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x02.mp4"
+      },
+      {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x03.mp4"
+      },
+      {
+        "nombre": "4",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x04.mp4"
+      },
+    ]
   }
 ]

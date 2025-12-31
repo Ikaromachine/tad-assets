@@ -117,5 +117,46 @@
         "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x09.mp4"
       }
     ]
-  }
+  },
+  {
+  "id": "task",
+  "titulo": "Task",
+  "genero": "Thriller | Drama | Estrenos | TOP 10",
+  "plataforma": "HBO Max",
+  "sinopsis": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
+  "puntuacion": 8.0,
+  "year": "2025",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Task.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Task_bg.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x07.mp4"
+    }
+  ]
+}
 ]

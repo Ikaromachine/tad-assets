@@ -211,5 +211,127 @@
       "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x10.mp4"
     }
   ]
+},
+{
+  "id": "andor_t1",
+  "titulo": "Andor, temporada 1",
+  "genero": "Ciencia Ficcion | Aventura | Accion | Estrenos | TOP 10",
+  "plataforma": "Disney +",
+  "sinopsis": "Andor Stern, único sobreviviente brasileño del Holocausto, revive su deportación a Auschwitz a los 16 años. Regresó al campo y a su barrio en Budapest, y ahora vive con su familia en São Paulo.",
+  "puntuacion": 8.0,
+  "year": "2022",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andor.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andor_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x10.mp4"
+    },
+    {
+      "nombre": "11",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x11.mp4"
+    },
+    {
+      "nombre": "12",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x12.mp4"
+    }
+  ]
+},
+{
+  "id": "andor_t2",
+  "titulo": "Andor, temporada 2",
+  "genero": "Ciencia Ficcion | Aventura | Accion | Estrenos | TOP 10",
+  "plataforma": "Netflix",
+  "sinopsis": "Precuela de Rogue One: Una historia de Star Wars, con las aventuras de Cassian Andor durante sus años de formación con La Rebelión.",
+  "puntuacion": 8.6,
+  "year": "2025",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andort2.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andort2_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x10.mp4"
+    },
+    {
+      "nombre": "11",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x11.mp4"
+    },
+    {
+      "nombre": "12",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x12.mp4"
+    }
+  ]
 }
 ]

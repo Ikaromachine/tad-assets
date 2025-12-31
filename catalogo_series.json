@@ -1,5 +1,5 @@
 [
- {
+  {
     "titulo": "Stranger Things 5",
     "genero": "Ciencia Ficción",
     "plataforma": "Netflix",
@@ -17,26 +17,26 @@
         "nombre": "Capítulo 2: La Oscuridad se Extiende",
         "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x02.mp4"
       },
-       {
+      {
         "nombre": "Capítulo 3: El Plan de Dustin",
         "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x03.mp4"
       },
-       {
+      {
         "nombre": "Capítulo 4: El Código de Vecna",
         "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x04.mp4"
       },
-       {
+      {
         "nombre": "Capítulo 5: El Laboratorio",
         "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x05.mp4"
       },
-       {
+      {
         "nombre": "Capítulo 6: La Batalla por Hawkins",
         "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x06.mp4"
       },
-       {
+      {
         "nombre": "Capítulo 7: El Final del Camino",
         "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x07.mp4"
       }
     ]
-  }  
+  }
 ]

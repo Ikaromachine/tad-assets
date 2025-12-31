@@ -1,5 +1,6 @@
 [
   {
+    "id": "stranger_things_5",
     "titulo": "Stranger Things 5",
     "genero": "Ciencia Ficción | Estrenos | TOP 10",
     "plataforma": "Netflix",
@@ -40,6 +41,7 @@
     ]
   },
   {
+    "id": "adolescencia_serie",
     "titulo": "Adolescencia",
     "genero": "Drama | Estrenos | TOP 10",
     "plataforma": "Netflix",
@@ -64,7 +66,7 @@
       {
         "nombre": "4",
         "url": "https://tad-series.b-cdn.net/Adolescencia%201x04.mp4"
-      },
+      }
     ]
   }
 ]

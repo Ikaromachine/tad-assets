@@ -1,7 +1,7 @@
 [
   {
     "id": "stranger_things_5",
-    "titulo": "Stranger Things 5",
+    "titulo": "Stranger Things, temporada 5",
     "genero": "Ciencia Ficción | Estrenos | TOP 10",
     "plataforma": "Netflix",
     "sinopsis": "Otoño de 1987. Hawkins está marcado por la apertura de las Grietas, y nuestros héroes están unidos por un solo objetivo: encontrar y matar a Vecna. Pero él desapareció; su paradero y sus planes son un misterio. Para complicar más las cosas, el gobierno puso a la ciudad bajo cuarentena militar e intensificó la cacería de Once, obligándola a esconderse otra vez. A medida que se acerca el aniversario de la desaparición de Will, también lo hace un terror pesado y familiar. La batalla final acecha, y con ella, una oscuridad más poderosa y letal que cualquier cosa que hayan enfrentado antes. Para terminar con esta pesadilla, van a necesitar a todos, al equipo completo, unidos por última vez.",
@@ -66,6 +66,55 @@
       {
         "nombre": "4",
         "url": "https://tad-series.b-cdn.net/Adolescencia%201x04.mp4"
+      }
+    ]
+  },
+  {
+    "id": "pluribus_1",
+    "titulo": "Pluribus, temporada 1",
+    "genero": "Drama | Estrenos | TOP 10",
+    "plataforma": "Apple TV",
+    "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+    "puntuacion": 8,
+    "year": "2025",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/pluribus%20T1.jpgg",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series//pluribus%20T1_bg.jpg",
+    "capitulos": [
+      {
+        "nombre": "1",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x01.mp4"
+      },
+      {
+        "nombre": "2",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x02.mp4"
+      },
+      {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x03.mp4"
+      },
+       {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x04.mp4"
+      },
+       {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x05.mp4"
+      },
+       {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x06.mp4"
+      },
+       {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x07.mp4"
+      },
+       {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x08.mp4"
+      },
+       {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x09.mp4"
       }
     ]
   }

@@ -2111,6 +2111,18 @@
     "video": "https://grrfff66me7t.objectstorage.sa-saopaulo-1.oci.customer-oci.com/n/grrfff66me7t/b/Cubojoselyn/o/reset%2Fpeliculas%2Fdiciembre%2FVer%20Familia%20revuelta%20online%20HD%20-%20Cuevana%202.mp4",
     "backdrop": "/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg"
   },
+   {
+    "id": 110301,
+    "titulo": "Fast & Furious",
+    "genero": "Acción",
+    "plataforma": "Apple TV",
+    "sinopsis": "Una misteriosa banda de delincuentes se dedica a robar camiones en plena marcha desde vehículos deportivos. La policía decide infiltrar a un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tuning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso número uno, pero todo se complica cuando se enamora de la hermana de éste.",
+    "puntuacion": 7.024,
+    "year": "2001",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/fastandfurious1",
+    "video": "https://tad-series.b-cdn.net/Rapido%20y%20Furioso/fastandfurious1.mkv",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/fastandfurious1_bd.jpg"
+  },
   {
     "id": 385128,
     "titulo": "Fast & Furious 9",

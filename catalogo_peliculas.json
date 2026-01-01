@@ -2117,11 +2117,23 @@
     "genero": "Acción",
     "plataforma": "Apple TV",
     "sinopsis": "Una misteriosa banda de delincuentes se dedica a robar camiones en plena marcha desde vehículos deportivos. La policía decide infiltrar a un hombre en el mundo de las carreras ilegales para descubrir posibles sospechosos. El joven y apuesto Brian entra en el mundo del tuning donde conoce a Dominic, rey indiscutible de este mundo y sospechoso número uno, pero todo se complica cuando se enamora de la hermana de éste.",
-    "puntuacion": 7.024,
+    "puntuacion": 8.0,
     "year": "2001",
-    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/fastandfurious1",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/fastandfurious1.jpg",
     "video": "https://tad-series.b-cdn.net/Rapido%20y%20Furioso/fastandfurious1.mkv",
     "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/fastandfurious1_bd.jpg"
+  },
+   {
+    "id": 110305,
+    "titulo": "2Fast 2Furious",
+    "genero": "Acción",
+    "plataforma": "Apple TV",
+    "sinopsis": "El agente del FBI Brian O'Conner cayó en desgracia al ver su lealtad puesta a prueba en su anterior trabajo en el mundo de las carreras ilegales de Los Angeles. La decisión de O’Conner le permitió conservar su honor, pero le hizo perder su insignia. Ahora ha pasado el tiempo, está en otra ciudad y tiene una última oportunidad. A los federales de Miami les está costando mucho detener a Carter Verone, un empresario que utiliza su negocio como tapadera para un cartel internacional de blanqueo de dinero. Aduanas sabe de su relación con las carreras callejeras ilegales, así que deciden llamar a O’Conner para vuelva a infiltrarse. Pero antes pone algunas condiciones para aceptar la misión. La primera: trabajar con su amigo de infancia y antiguo delincuente Roman Pearce, otro adicto a la velocidad.",
+    "puntuacion": 7.0,
+    "year": "2005",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/2fast2furious.jpg",
+    "video": "https://tad-series.b-cdn.net/Rapido%20y%20Furioso/2fast2furious.mp4",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/2fast2furious_bd.jpg"
   },
   {
     "id": 385128,

@@ -2436,40 +2436,16 @@
     "backdrop": "/g0JyeAe7kcsXyFWEv8Axa49yBRJ.jpg"
   },
   {
-    "id": 674,
-    "titulo": "Harry Potter y el cáliz de fuego",
+    "id": 671,
+    "titulo": "Harry Potter y la piedra filosofal",
     "genero": "Aventura",
     "plataforma": "HBO Max",
-    "sinopsis": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
-    "puntuacion": 7.801,
-    "year": "2005",
-    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20el%20c%C3%A1liz%20de%20fuego/poster.jpg",
-    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4",
-    "backdrop": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg"
-  },
-  {
-    "id": 767,
-    "titulo": "Harry Potter y el misterio del príncipe",
-    "genero": "Aventura",
-    "plataforma": "HBO Max",
-    "sinopsis": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
-    "puntuacion": 7.682,
-    "year": "2009",
-    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20el%20misterio%20del%20pr%C3%ADncipe/poster.jpg",
-    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4",
-    "backdrop": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
-  },
-  {
-    "id": 673,
-    "titulo": "Harry Potter y el prisionero de Azkaban",
-    "genero": "Aventura",
-    "plataforma": "HBO Max",
-    "sinopsis": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
-    "puntuacion": 8.01,
-    "year": "2004",
-    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20el%20prisionero%20de%20Azkaban/poster.jpg",
-    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4",
-    "backdrop": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg"
+    "sinopsis": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
+    "puntuacion": 7.899,
+    "year": "2001",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20la%20piedra%20filosofal/poster.jpg",
+    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4",
+    "backdrop": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg"
   },
   {
     "id": 672,
@@ -2484,6 +2460,30 @@
     "backdrop": "/7tbeoSTWW2cWPecjQo9fcdf0Hzv.jpg"
   },
   {
+    "id": 673,
+    "titulo": "Harry Potter y el prisionero de Azkaban",
+    "genero": "Aventura",
+    "plataforma": "HBO Max",
+    "sinopsis": "Harry está deseando que termine el verano para comenzar un nuevo curso en Hogwarts, y abandonar lo antes posible la casa de sus despreciables tíos, los Dursley. Lo que desconoce Harry es que va a tener que abandonar Privet Drive antes de tiempo e inesperadamente después de convertir a su tía Marge en un globo gigante. Un autobús noctámbulo, y encantado por supuesto, le llevará a la taberna El Caldero Chorreante, donde le espera nada menos que Cornelius Fudge, el Ministro de Magia.",
+    "puntuacion": 8.01,
+    "year": "2004",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20el%20prisionero%20de%20Azkaban/poster.jpg",
+    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/3.mp4",
+    "backdrop": "/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg"
+  },
+  {
+    "id": 674,
+    "titulo": "Harry Potter y el cáliz de fuego",
+    "genero": "Aventura",
+    "plataforma": "HBO Max",
+    "sinopsis": "En el cuarto año en Hogwarts, Harry se enfrenta al mayor de los desafíos y peligros de la saga. Cuando es elegido bajo misteriosas circunstancias como el competidor que representará a Hogwarts en el Torneo Triwizard, Harry deberá competir contra los mejores jóvenes magos de toda Europa. Pero mientras se prepara, aparecen pruebas que manifiestan que Lord Voldemort ha regresado. Antes de darse cuenta, Harry no solo estará luchando por el campeonato sino también por su vida",
+    "puntuacion": 7.801,
+    "year": "2005",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20el%20c%C3%A1liz%20de%20fuego/poster.jpg",
+    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/4.mp4",
+    "backdrop": "/5rrGVmRUuCKVbqUu41XIWTXJmNA.jpg"
+  },
+  {
     "id": 675,
     "titulo": "Harry Potter y la Orden del Fénix",
     "genero": "Aventura",
@@ -2496,16 +2496,16 @@
     "backdrop": "/jLbpgkxA5PSgzmcszT8yCOyPkgf.jpg"
   },
   {
-    "id": 671,
-    "titulo": "Harry Potter y la piedra filosofal",
+    "id": 767,
+    "titulo": "Harry Potter y el misterio del príncipe",
     "genero": "Aventura",
     "plataforma": "HBO Max",
-    "sinopsis": "Harry Potter es un huérfano que vive con sus desagradables tíos, los Dursley, y su repelente primo Dudley. Se acerca su undécimo cumpleaños y tiene pocas esperanzas de recibir algún regalo, ya que nunca nadie se acuerda de él. Sin embargo, pocos días antes de su cumpleaños, una serie de misteriosas cartas dirigidas a él y escritas con una estridente tinta verde rompen la monotonía de su vida: Harry es un mago y sus padres también lo eran.",
-    "puntuacion": 7.899,
-    "year": "2001",
-    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20la%20piedra%20filosofal/poster.jpg",
-    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/1.mp4",
-    "backdrop": "/bfh9Z3Ghz4FOJAfLOAhmc3ccnHU.jpg"
+    "sinopsis": "En medio de los desastres que azotan a Inglaterra, Harry y sus compañeros vuelven a Hogwarts para cursar su sexto año de estudios; y aunque las medidas de seguridad han convertido al colegio en una fortaleza, algunos estudiantes son víctimas de ataques inexplicables. Harry sospecha que Draco Malfoy es el responsable de los mismos y decide averiguar la razón. Mientras tanto, Albus Dumbledore y el protagonista exploran el pasado de Lord Voldemort mediante recuerdos que el director ha recolectado. Con esto, Dumbledore planea preparar al muchacho para el día de la batalla final.",
+    "puntuacion": 7.682,
+    "year": "2009",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/catalogo_tmdb/Harry%20Potter%20y%20el%20misterio%20del%20pr%C3%ADncipe/poster.jpg",
+    "video": "http://archive.org/download/ezra_2_201904/subid0_p4r4_stre4m1ng_a85/6.mp4",
+    "backdrop": "/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg"
   },
   {
     "id": 12444,

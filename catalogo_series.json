@@ -1,1 +1,341 @@
-[]
+[
+  {
+    "id": "stranger_things_5",
+    "titulo": "Stranger Things, temporada 5",
+    "genero": "Ciencia Ficción | Estrenos | TOP 10",
+    "plataforma": "Netflix",
+    "sinopsis": "Otoño de 1987. Hawkins está marcado por la apertura de las Grietas, y nuestros héroes están unidos por un solo objetivo: encontrar y matar a Vecna. Pero él desapareció; su paradero y sus planes son un misterio. Para complicar más las cosas, el gobierno puso a la ciudad bajo cuarentena militar e intensificó la cacería de Once, obligándola a esconderse otra vez. A medida que se acerca el aniversario de la desaparición de Will, también lo hace un terror pesado y familiar. La batalla final acecha, y con ella, una oscuridad más poderosa y letal que cualquier cosa que hayan enfrentado antes. Para terminar con esta pesadilla, van a necesitar a todos, al equipo completo, unidos por última vez.",
+    "puntuacion": 9.8,
+    "year": "2025",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5_bd.jpg",
+    "capitulos": [
+      {
+        "nombre": "1",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x01.mp4"
+      },
+      {
+        "nombre": "2",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x02.mp4"
+      },
+      {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x03.mp4"
+      },
+      {
+        "nombre": "4",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x04.mp4"
+      },
+      {
+        "nombre": "5",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x05.mp4"
+      },
+      {
+        "nombre": "6",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x06.mp4"
+      },
+      {
+        "nombre": "7",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x07.mp4"
+      },
+      {
+        "nombre": "8",
+        "url": "https://tad-series.b-cdn.net/Stranger%20Things%205x08.mp4"
+      }
+    ]
+  },
+  {
+    "id": "adolescencia_serie",
+    "titulo": "Adolescencia",
+    "genero": "Drama | Estrenos | TOP 10",
+    "plataforma": "Netflix",
+    "sinopsis": "El mundo de una familia se pone patas arriba cuando Jamie Miller, de 13 años, es arrestado y acusado de asesinar a una compañera de clase. Los cargos contra su hijo les obliga a enfrentarse a la peor pesadilla de cualquier padre.",
+    "puntuacion": 7.8,
+    "year": "2025",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/adolescencia.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/adolescencia_bd.jpg",
+    "capitulos": [
+      {
+        "nombre": "1",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x01.mp4"
+      },
+      {
+        "nombre": "2",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x02.mp4"
+      },
+      {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x03.mp4"
+      },
+      {
+        "nombre": "4",
+        "url": "https://tad-series.b-cdn.net/Adolescencia%201x04.mp4"
+      }
+    ]
+  },
+  {
+    "id": "pluribus_1",
+    "titulo": "Pluribus, temporada 1",
+    "genero": "Drama | Ciencia Ficción | Intriga | Estrenos | TOP 10",
+    "plataforma": "Apple TV",
+    "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+    "puntuacion": 8,
+    "year": "2025",
+    "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1.jpg",
+    "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1_bg.jpg",
+    "capitulos": [
+      {
+        "nombre": "1",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x01.mp4"
+      },
+      {
+        "nombre": "2",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x02.mp4"
+      },
+      {
+        "nombre": "3",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x03.mp4"
+      },
+       {
+        "nombre": "4",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x04.mp4"
+      },
+       {
+        "nombre": "5",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x05.mp4"
+      },
+       {
+        "nombre": "6",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x06.mp4"
+      },
+       {
+        "nombre": "7",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x07.mp4"
+      },
+       {
+        "nombre": "8",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x08.mp4"
+      },
+       {
+        "nombre": "9",
+        "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x09.mp4"
+      }
+    ]
+  },
+  {
+  "id": "task",
+  "titulo": "Task",
+  "genero": "Thriller | Drama | Estrenos | TOP 10",
+  "plataforma": "HBO Max",
+  "sinopsis": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
+  "puntuacion": 8.0,
+  "year": "2025",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Task/Task%201x07.mp4"
+    }
+  ]
+},
+  {
+  "id": "the_studio",
+  "titulo": "The Studio",
+  "genero": "Comedia | Estrenos | TOP 10",
+  "plataforma": "Apple TV",
+  "sinopsis": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
+  "puntuacion": 8.1,
+  "year": "2025",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x10.mp4"
+    }
+  ]
+},
+{
+  "id": "andor_t1",
+  "titulo": "Andor, temporada 1",
+  "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
+  "plataforma": "Disney+",
+  "sinopsis": "Andor Stern, único sobreviviente brasileño del Holocausto, revive su deportación a Auschwitz a los 16 años. Regresó al campo y a su barrio en Budapest, y ahora vive con su familia en São Paulo.",
+  "puntuacion": 8.0,
+  "year": "2022",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andor.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andor_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x10.mp4"
+    },
+    {
+      "nombre": "11",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x11.mp4"
+    },
+    {
+      "nombre": "12",
+      "url": "https://tad-series.b-cdn.net/Andor%20T1/Andor%201x12.mp4"
+    }
+  ]
+},
+{
+  "id": "andor_t2",
+  "titulo": "Andor, temporada 2",
+  "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
+  "plataforma": "Disney+",
+  "sinopsis": "Precuela de Rogue One: Una historia de Star Wars, con las aventuras de Cassian Andor durante sus años de formación con La Rebelión.",
+  "puntuacion": 8.6,
+  "year": "2025",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andort2.jpg",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andort2_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x10.mp4"
+    },
+    {
+      "nombre": "11",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x11.mp4"
+    },
+    {
+      "nombre": "12",
+      "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x12.mp4"
+    }
+  ]
+}
+]

@@ -1,7 +1,7 @@
 [
   {
     "id": "stranger_things_5",
-    "titulo": "Stranger Things, temporada 5",
+    "titulo": "Stranger Things. temporada 5",
     "genero": "Ciencia Ficción | Estrenos | TOP 10",
     "plataforma": "Netflix",
     "sinopsis": "Otoño de 1987. Hawkins está marcado por la apertura de las Grietas, y nuestros héroes están unidos por un solo objetivo: encontrar y matar a Vecna. Pero él desapareció; su paradero y sus planes son un misterio. Para complicar más las cosas, el gobierno puso a la ciudad bajo cuarentena militar e intensificó la cacería de Once, obligándola a esconderse otra vez. A medida que se acerca el aniversario de la desaparición de Will, también lo hace un terror pesado y familiar. La batalla final acecha, y con ella, una oscuridad más poderosa y letal que cualquier cosa que hayan enfrentado antes. Para terminar con esta pesadilla, van a necesitar a todos, al equipo completo, unidos por última vez.",
@@ -75,7 +75,7 @@
   },
   {
     "id": "pluribus_1",
-    "titulo": "Pluribus, temporada 1",
+    "titulo": "Pluribus. temporada 1",
     "genero": "Drama | Ciencia Ficción | Intriga | Estrenos | TOP 10",
     "plataforma": "Apple TV",
     "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
@@ -218,7 +218,7 @@
 },
 {
   "id": "andor_t1",
-  "titulo": "Andor, temporada 1",
+  "titulo": "Andor. temporada 1",
   "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
   "plataforma": "Disney+",
   "sinopsis": "Andor Stern, único sobreviviente brasileño del Holocausto, revive su deportación a Auschwitz a los 16 años. Regresó al campo y a su barrio en Budapest, y ahora vive con su familia en São Paulo.",
@@ -279,7 +279,7 @@
 },
 {
   "id": "andor_t2",
-  "titulo": "Andor, temporada 2",
+  "titulo": "Andor. temporada 2",
   "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
   "plataforma": "Disney+",
   "sinopsis": "Precuela de Rogue One: Una historia de Star Wars, con las aventuras de Cassian Andor durante sus años de formación con La Rebelión.",
@@ -346,8 +346,8 @@
   "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
   "puntuacion": 6.0,
   "year": "2024",
-  "poster": "/en8cVOlW0pk7VrSyFf4Gih834K0.jpg",
-  "backdrop": "/uXlxoe3ef5h2SlDlnLCOkizXq0B.jpg",
+  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Adios%2C%20tierra%20T1.png",
+  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Adios%2C%20tierra%20T1_bd.png",
   "capitulos": [
     {
       "nombre": "1",

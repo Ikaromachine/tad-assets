@@ -1,7 +1,7 @@
 [
   {
     "id": "stranger_things_5",
-    "titulo": "Stranger Things, temporada 5",
+    "titulo": "Stranger Things. temporada 5",
     "genero": "Ciencia Ficción | Estrenos | TOP 10",
     "plataforma": "Netflix",
     "sinopsis": "Otoño de 1987. Hawkins está marcado por la apertura de las Grietas, y nuestros héroes están unidos por un solo objetivo: encontrar y matar a Vecna. Pero él desapareció; su paradero y sus planes son un misterio. Para complicar más las cosas, el gobierno puso a la ciudad bajo cuarentena militar e intensificó la cacería de Once, obligándola a esconderse otra vez. A medida que se acerca el aniversario de la desaparición de Will, también lo hace un terror pesado y familiar. La batalla final acecha, y con ella, una oscuridad más poderosa y letal que cualquier cosa que hayan enfrentado antes. Para terminar con esta pesadilla, van a necesitar a todos, al equipo completo, unidos por última vez.",
@@ -75,7 +75,7 @@
   },
   {
     "id": "pluribus_1",
-    "titulo": "Pluribus, temporada 1",
+    "titulo": "Pluribus. temporada 1",
     "genero": "Drama | Ciencia Ficción | Intriga | Estrenos | TOP 10",
     "plataforma": "Apple TV",
     "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
@@ -218,7 +218,7 @@
 },
 {
   "id": "andor_t1",
-  "titulo": "Andor, temporada 1",
+  "titulo": "Andor. temporada 1",
   "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
   "plataforma": "Disney+",
   "sinopsis": "Andor Stern, único sobreviviente brasileño del Holocausto, revive su deportación a Auschwitz a los 16 años. Regresó al campo y a su barrio en Budapest, y ahora vive con su familia en São Paulo.",
@@ -279,7 +279,7 @@
 },
 {
   "id": "andor_t2",
-  "titulo": "Andor, temporada 2",
+  "titulo": "Andor. temporada 2",
   "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
   "plataforma": "Disney+",
   "sinopsis": "Precuela de Rogue One: Una historia de Star Wars, con las aventuras de Cassian Andor durante sus años de formación con La Rebelión.",
@@ -337,5 +337,262 @@
       "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x12.mp4"
     }
   ]
-}
+},
+{
+  "id": "adios,_tierra_t1",
+  "titulo": "Adios, Tierra. Temporada 1",
+  "genero": "Ciencia Ficción | Drama | Thriller",
+  "plataforma": "Netflix",
+  "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
+  "puntuacion": 6.0,
+  "year": "2024",
+  "poster": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%2C%20tierra%20T1.png",
+  "backdrop": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%2C%20tierra%20T1_bd.png",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x10.mp4"
+    },
+    {
+      "nombre": "11",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x11.mp4"
+    },
+    {
+      "nombre": "12",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x12.mp4"
+    }
+  ]
+},
+ {
+  "id": "bienvenidos_a_derry_t1",
+  "titulo": "It: Bienvenidos a Derry. Temporada 1",
+  "genero": "Terror | Estrenos",
+  "plataforma": "HBO Max",
+  "sinopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+  "puntuacion": 8.2,
+  "year": "2025",
+  "poster": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/Bienvenidos%20a%20Derry%20T1.jpg",
+  "backdrop": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/Bienvenidos%20a%20Derry%20T1_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x08.mp4"
+    }
+  ]
+},
+ {
+  "id": "black_rabbit_t1",
+  "titulo": "Black Rabbit. Temporada 1",
+  "genero": "Thriller | Drama | Estrenos",
+  "plataforma": "Netflix",
+  "sinopsis": "El dueño de un restaurante de moda se ve arrastrado al hampa neoyorquina cuando su hermano, un imán para los problemas, vuelve a la ciudad con unos usureros pisándole los talones.",
+  "puntuacion": 7.0,
+  "year": "2025",
+  "poster": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%20T1.jpg",
+  "backdrop": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%20T1_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x08.mp4"
+    }
+  ]
+},
+ {
+  "id": "tony_y_ziva_t1",
+  "titulo": "NCIS: Tony & Ziva",
+  "genero": "Acción | Intriga | Thriller | Estrenos",
+  "plataforma": "Paramount+",
+  "sinopsis": "Tras la aparente muerte de Ziva, Tony cría a la hija de ambos, Tali. Años después, Ziva regresa y se reúne con Tony. La empresa de Tony es atacada y la familia viaja a Europa, intentando averiguar quién les persigue y volver a confiar el uno en el otro.",
+  "puntuacion": 7.9,
+  "year": "2025",
+  "poster": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20y%20Zina%20T1.jpg",
+  "backdrop": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20y%20Zina%20T1_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x10.mp4"
+    }
+  ]
+},
+ {
+  "id": "tulsa_king_t3",
+  "titulo": "Tulsa King. Temporada 3",
+  "genero": "Drama | Estrenos",
+  "plataforma": "Paramount+",
+  "sinopsis": "Tulsa King: Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Dwight construye lentamente un nuevo imperio criminal en Tulsa.",
+  "puntuacion": 8.3,
+  "year": "2025",
+  "poster": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%20T3.jpg",
+  "backdrop": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%20T3_bd.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x10.mp4"
+    }
+  ]
+} 
 ]

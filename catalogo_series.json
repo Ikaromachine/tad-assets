@@ -337,5 +337,66 @@
       "url": "https://tad-series.b-cdn.net/Andor%20T2/Andor%202x12.mp4"
     }
   ]
-}
+},
+{
+  "id": "adios,_tierra_t1",
+  "titulo": "Adios, Tierra. Temporada 1",
+  "genero": "Ciencia Ficcion | Drama | Thriller",
+  "plataforma": "Netflix",
+  "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
+  "puntuacion": 6.0,
+  "year": "2024",
+  "poster": "/en8cVOlW0pk7VrSyFf4Gih834K0.jpg",
+  "backdrop": "/uXlxoe3ef5h2SlDlnLCOkizXq0B.jpg",
+  "capitulos": [
+    {
+      "nombre": "1",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x01.mp4"
+    },
+    {
+      "nombre": "2",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x02.mp4"
+    },
+    {
+      "nombre": "3",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x03.mp4"
+    },
+    {
+      "nombre": "4",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x04.mp4"
+    },
+    {
+      "nombre": "5",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x05.mp4"
+    },
+    {
+      "nombre": "6",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x06.mp4"
+    },
+    {
+      "nombre": "7",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x07.mp4"
+    },
+    {
+      "nombre": "8",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x08.mp4"
+    },
+    {
+      "nombre": "9",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x09.mp4"
+    },
+    {
+      "nombre": "10",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x10.mp4"
+    },
+    {
+      "nombre": "11",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x11.mp4"
+    },
+    {
+      "nombre": "12",
+      "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x12.mp4"
+    }
+  ]
+}   
 ]

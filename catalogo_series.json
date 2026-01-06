@@ -346,8 +346,8 @@
   "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
   "puntuacion": 6.0,
   "year": "2024",
-  "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Adios%2C%20tierra%20T1.png",
-  "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Adios%2C%20tierra%20T1_bd.png",
+  "poster": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%2C%20tierra%20T1.png",
+  "backdrop": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%2C%20tierra%20T1_bd.png",
   "capitulos": [
     {
       "nombre": "1",

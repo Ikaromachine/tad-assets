@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/strangerthings5.jpg
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/strangerthingst5.jpg
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tulsaking3.jpg
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tonyyziva.jpg
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/thestudio.jpg
@@ -7,3 +7,4 @@ https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/pluribus.j
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/itbienvenido.jpg
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/blackrabbir.jpg
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/andor.jpg
+

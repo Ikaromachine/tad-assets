@@ -1,4 +1,56 @@
 [
+  {
+  "id": "el_padre_del_año",
+  "titulo": "El Padre Del Año",
+  "genero": "Drama | Comedia",
+  "plataforma": "Apple TV",
+  "sinopsis": "La vida de Andy Goodrich (Michael Keaton) da un vuelco cuando su mujer ingresa en un centro de rehabilitación, dejándolo al cargo de sus hijos gemelos de 9 años. Sobrepasado por sus nuevas responsabilidades, Goodrich acudirá a su hija mayor (Mila Kunis) para que le ayude a convertirse en el padre que ella jamás tuvo.",
+  "puntuacion": 6.489,
+  "year": "2024",
+  "poster": "https://image.tmdb.org/t/p/w500/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg",
+   "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20del%20A%C3%B1o/El%20Padre%20del%20A%C3%B1o.mkv",
+  "backdrop": "https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg",
+  "trailer": ""
+},
+{
+  "id": "goal",
+  "titulo": "Gol 1",
+  "genero": "Drama",
+  "plataforma": "TAD Origins",
+  "sinopsis": "Como millones de niños de todo el mundo, Santiago tiene el sueño de ser un jugador de fútbol profesional. Sin embargo, viviendo en una barriada de Los Angeles, piensa que es un sueño difícil de cumplirse. Cuando el pequeño Santiago Munez (Kuno Becker) cruza la frontera de México y se traslada a América con su familia, sólo tiene dos posesiones: su balón de fútbol y una foto de la Copa del Mundo hecha jirones.",
+  "puntuacion": 6.76,
+  "year": "2005",
+  "video": "https://tad-peliculas.b-cdn.net/Goal/Goal.mkv",
+  "poster": "https://image.tmdb.org/t/p/w500/zHnOKBeu71MAs89QSp0v0giRmra.jpg",
+  "backdrop": "/hpuWR2rfcjRMni6HLtxPet4o4P4.jpg",
+  "trailer": ""
+},
+{
+  "id": "goal_2",
+  "titulo": "Gol 2. Viviendo el sueño",
+  "genero": "Drama",
+  "plataforma": "TAD Origins",
+  "sinopsis": "Secuela de ¡Gol!. El Real Madrid se fija en Santiago Munez (Kuno Becker), el jugador favorito de la la afición del Newcastle. Mientras su prometida (Anna Friel) organiza la boda, él cumple el sueño de vestir la legendaria camiseta blanca junto a David Beckham, Zinedine Zidane y Raúl. Munez alcanza la gloria, pero, cuando la ambiciosa y hermosa Jordana, sedienta de fama, lo seduce, su vida está a punto de desmoronarse. Descubre entonces la cara más oscura del éxito que lo llevará a poner en peligro su carrera, sus amistades y su boda.",
+  "puntuacion": 6.00,
+  "year": "2007",
+  "video": "https://tad-peliculas.b-cdn.net/Goal%202/Goal%202.mkv",
+  "poster": "https://image.tmdb.org/t/p/w1280/ptGaYLmcEs0xLN4Yk3Fb3lqvGqf.jpg",
+  "backdrop": "/shAACS2zagtqRc2hn8RqPASEImp.jpg",
+  "trailer": ""
+},
+{
+  "id": "goal_3",
+  "titulo": "Gol 3",
+  "genero": "Drama",
+  "plataforma": "TAD Origins",
+  "sinopsis": "Con la Copa del Mundo de Alemania 2006 como telón de fondo, este cierre de la saga se centra en dos jugadores que la disputan para Inglaterra: Liam Adams y su mejor amigo y compañero de equipo Charlie Braithwaite.",
+  "puntuacion": 4.00,
+  "year": "2009",
+  "video": "https://tad-peliculas.b-cdn.net/Goal%203/Goal%203.mkv",
+  "poster": "/6vjGTXpV1ehu3ng5ZnH0tI26Xpd.jpg",
+  "backdrop": "/833Hjmr9rK4Kzdwj9egjrEvoE4k.jpg",
+  "trailer": ""
+},
     {
         "id": 81393,
         "titulo": "12 Citas de Navidad",

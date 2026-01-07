@@ -1,10 +1,11 @@
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/strangerthingst5.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tulsaking3.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tonyyziva.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/thestudio.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/task.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/pluribus.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/itbienvenido.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/blackrabbir.jpg
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/andor.jpg
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/strangerthingst5.jpg|Stranger Things. temporada 5
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tulsaking3.jpg|Tulsa King. Temporada 3
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tonyyziva.jpg|NCIS: Tony & Ziva
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/thestudio.jpg|The Studio
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/task.jpg|Task
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/pluribus.jpg|Pluribus. temporada 1
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/itbienvenido.jpg|It: Bienvenidos a Derry. Temporada 1
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/blackrabbir.jpg|Black Rabbit. Temporada 1
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/andor.jpg|Andor. temporada 1
+
 

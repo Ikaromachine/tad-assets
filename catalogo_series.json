@@ -57,19 +57,19 @@
     "capitulos": [
       {
         "nombre": "1",
-        "url": "https://tad-series.b-cdn.net/Adolescencia%201x01.mp4"
+        "url": "https://tad-series.b-cdn.net/Adolescencia/Adolescencia%201x01.mp4" 
       },
       {
         "nombre": "2",
-        "url": "https://tad-series.b-cdn.net/Adolescencia%201x02.mp4"
+        "url": "https://tad-series.b-cdn.net/Adolescencia/Adolescencia%201x02.mp4"
       },
       {
         "nombre": "3",
-        "url": "https://tad-series.b-cdn.net/Adolescencia%201x03.mp4"
+        "url": "https://tad-series.b-cdn.net/Adolescencia/Adolescencia%201x03.mp4"
       },
       {
         "nombre": "4",
-        "url": "https://tad-series.b-cdn.net/Adolescencia%201x04.mp4"
+        "url": "https://tad-series.b-cdn.net/Adolescencia/Adolescencia%201x04.mp4"
       }
     ]
   },

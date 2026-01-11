@@ -1,5 +1,18 @@
 [
     {
+  "id": "avatar_fuego_y_ceniza",
+  "titulo": "Avatar: Fuego y ceniza",
+  "genero": "Ciencia Ficcion | Aventura | Fantasia | Estrenos",
+  "plataforma": "Disney+",
+  "sinopsis": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
+  "puntuacion": 7.4,
+  "year": "2025",
+  "poster": "https://image.tmdb.org/t/p/w500/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/vm4H1DivjQoNIm0Vs6i3CTzFxQ0.jpg",
+  "trailer": "https://tad-trailers.b-cdn.net/avatar_fuego_y_ceniza.mp4",
+  "video": "https://tad-peliculas.b-cdn.net/Avatar%20-%20fire%20and%20ash/Avatar%20-%20Fire%20and%20Ash.mkv"
+},
+    {
         "id": 1001311,
         "titulo": "En las profundidades del Sena",
         "genero": "Acción",

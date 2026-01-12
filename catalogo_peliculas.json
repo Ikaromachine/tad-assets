@@ -62,7 +62,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/jO3VGQi5sHIj2BGS963g1F74yCq.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/fH7kYS9qEOkhFQZc0Dcoa9MFjje.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/820525.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/After%20Aqu%C3%AD%20acaba%20todo/After%20Aqu%C3%AD%20acaba%20todo.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/After%20Aqu%C3%AD%20acaba%20todo/After%20Aqu%C3%AD%20acaba%20todo.ts"
     },
     {
         "id": "724209",
@@ -88,7 +88,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/1VHcx9WJnxvWs0ykefawnhGU55B.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/gcW8rMiA9OKbetpjAVAAdbGrDd8.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/831815.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Al%20rescate%20de%20Fondo%20de%20Bikini%20La%20pel%C3%ADcula%20de%20Arenita%20Mejillas/Al%20rescate%20de%20Fondo%20de%20Bikini%20La%20pel%C3%ADcula%20de%20Arenita%20Mejillas.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Al%20rescate%20de%20Fondo%20de%20Bikini%20La%20pel%C3%ADcula%20de%20Arenita%20Mejillas/Al%20rescate%20de%20Fondo%20de%20Bikini%20La%20pel%C3%ADcula%20de%20Arenita%20Mejillas.mkv"
     },
     {
         "id": "945961",
@@ -114,7 +114,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/reCA39ozy3wtQ2br2Q8Dm3AhYdC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/3mpgltEMgPf8zFtPnAWdDVN8ZT1.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1056360.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/American%20Fiction/American%20Fiction.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/American%20Fiction/American%20Fiction.mkv"
     },
     {
         "id": "893297",
@@ -205,7 +205,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/odZQRpXqu8t808P1nLdss9GAFkn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/8BfXvZio7fB1FFWqB2Oz6tbi3ZX.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1244039.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Asesinos%20Sadicos%202%20Hermanos%20Hambrientos%20%282024%29/Asesinos%20Sadicos%202%20Hermanos%20Hambrientos%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Asesinos%20Sadicos%202%20Hermanos%20Hambrientos%20%282024%29/Asesinos%20Sadicos%202%20Hermanos%20Hambrientos%20%282024%29.mkv"
     },
     {
         "id": "614933",
@@ -231,7 +231,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/vm4H1DivjQoNIm0Vs6i3CTzFxQ0.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/83533.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Avatar%20-%20fire%20and%20ash/Avatar%20-%20fire%20and%20ash.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Avatar%20-%20fire%20and%20ash/Avatar%20-%20Fire%20and%20Ash.mkv"
     },
     {
         "id": "615777",
@@ -283,7 +283,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/ha1QwoYeDGYCcrJ63vOGIsHoFdD.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ce51NvJSO5ReNkm3C3YDX5jsH1V.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1094473.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Bambi%20Una%20Aventura%20En%20El%20Bosque%20%282024%29/Bambi%20Una%20Aventura%20En%20El%20Bosque%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Bambi%20Una%20Aventura%20En%20El%20Bosque%20%282024%29/Bambi%20Una%20Aventura%20En%20El%20Bosque%20%282024%29.mkv"
     },
     {
         "id": "342917",
@@ -309,7 +309,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/9X8EhbSpYrf6pGFGttWtVDAs9Hr.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/4MCKNAc6AbWjEsM2h9Xc29owo4z.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/866398.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Beekeeper%20El%20protector/Beekeeper%20El%20protector.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Beekeeper%20El%20protector/Beekeeper%20El%20protector.mkv"
     },
     {
         "id": "4011",
@@ -361,7 +361,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/2Hm5IP9lPW9DfwNSGkghCEMeUBK.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/yNeRryoPm5354Qjb27OFZskf85d.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1254896.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Beware%20The%20Boogeyman%20%282024%29/Beware%20The%20Boogeyman%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Beware%20The%20Boogeyman%20%282024%29/Beware%20The%20Boogeyman%20%282024%29.mkv"
     },
     {
         "id": "351044",
@@ -387,7 +387,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/jm2BckEhy1upr4iPpOZ6WTx1tWw.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/rogeBJK44LtWynOqzMFmEF30T80.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/812225.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Black%20Clover%20La%20espada%20del%20rey%20mago/Black%20Clover%20La%20espada%20del%20rey%20mago.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Black%20Clover%20La%20espada%20del%20rey%20mago/Black%20Clover%20La%20espada%20del%20rey%20mago.mkv"
     },
     {
         "id": "565770",
@@ -439,7 +439,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/wateX8mly9JBXM06HsmUQtwrt8T.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/AqzL3Mj6e7qEjS3gHEcccYcQXpq.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1243895.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Canta%20Y%20No%20Llores%20%282024%29/Canta%20Y%20No%20Llores%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Canta%20Y%20No%20Llores%20%282024%29/Canta%20Y%20No%20Llores%20%282024%29.mkv"
     },
     {
         "id": "299537",
@@ -452,7 +452,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/5SPa7dZ85p54xa7E9tHRmfKq5ce.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/qAzYK4YPSWDc7aa4R43LcwRIAyb.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/299537.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Capitana%20Marvel/Capitana%20Marvel.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Capitana%20Marvel/Capitana%20Marvel.avi"
     },
     {
         "id": "818511",
@@ -478,7 +478,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/xDjd2n4dheT1r6qUYAVcODC293I.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/w8OpyJ7O3Uozflzxkn0J0TmowZn.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/729120.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Cassandro/Cassandro.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Cassandro/Cassandro.mkv"
     },
     {
         "id": "1084222",
@@ -491,7 +491,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/x4hebEzPIn8WeyTEQSj2jotpYzM.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/xp6lAdlYH5DfzxTL6h4W5lTV29G.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1084222.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Caza%20Sangrienta%20%282024%29/Caza%20Sangrienta%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Caza%20Sangrienta%20%282024%29/Caza%20Sangrienta%20%282024%29.mkv"
     },
     {
         "id": "933131",
@@ -543,7 +543,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/oyJ8vixxcHKqcITAVjmMvQZYIbC.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/xWq3T9P4NU2pTdZ3hXFygsNnAq4.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/8913.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Cementerio%20viviente/Cementerio%20viviente.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Cementerio%20viviente/Cementerio%20viviente.mkv"
     },
     {
         "id": "1026659",
@@ -660,7 +660,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/6m7cWWyjlwYdpSeuDPV3Rhlpi3l.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/vzO729sITNJ1jB6Y9AJpIhlbvb2.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1213997.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Criptoestafas/Criptoestafas.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Criptoestafas/Criptoestafas.mkv"
     },
     {
         "id": "1233199",
@@ -673,7 +673,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/5wClfej4a0c3wDqJD7B2wUVk6Qd.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/lDPiNMKFZUg2d1vfBpduYmzTMfs.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1233199.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Cronicas%20De%20Exorcismo%20El%20Comienzo%20%282025%29/Cronicas%20De%20Exorcismo%20El%20Comienzo%20%282025%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Cronicas%20De%20Exorcismo%20El%20Comienzo%20%282025%29/Cronicas%20De%20Exorcismo%20El%20Comienzo%20%282025%29.mkv"
     },
     {
         "id": "654028",
@@ -712,7 +712,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/rfI5sTEgJ1ozPMnA3BhZDvxnmAD.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/i6ZQKIiQKHmcAKxbe4Tk5AcLugY.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1114901.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Cuiden%20a%20Maya/Cuiden%20a%20Maya.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Cuiden%20a%20Maya/Cuiden%20a%20Maya.mkv"
     },
     {
         "id": "763215",
@@ -738,7 +738,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/6aY3OzCIdxoBMYdiH5s17rWFFFA.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ufpeVEM64uZHPpzzeiDNIAdaeOD.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/533535.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Deadpool%20y%20Lobezno/Deadpool%20y%20Lobezno.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Deadpool%20y%20Lobezno/Deadpool%20y%20Lobezno.mkv"
     },
     {
         "id": "726209",
@@ -790,7 +790,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/mOXgCNK2PKf7xlpsZzybMscFsqm.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/cmgjr2saprHvYw6Ee7MUIqGVQHn.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/704673.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Detonantes/Detonantes.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Detonantes/Detonantes.mkv"
     },
     {
         "id": "1379963",
@@ -803,7 +803,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/dvebFZgb6HczmYkOA43bGfSrvYl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/rtv6da2U8poERiAZSAbCOePXzql.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1379963.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/D%C3%ADmelo%20Bajito%20%282025%29/D%C3%ADmelo%20Bajito%20%282025%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/D%C3%ADmelo%20Bajito%20%282025%29/D%C3%ADmelo%20Bajito%20%282025%29.mkv"
     },
     {
         "id": "453395",
@@ -842,7 +842,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/zmSHHHlsPAMcSfBpk9B0wOxDMlN.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/lzCvI5Lgrypg8Q5m45hZjlrNZDS.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1145768.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Don%20Q%20%282023%29/Don%20Q%20%282023%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Don%20Q%20%282023%29/Don%20Q%20%282023%29.mkv"
     },
     {
         "id": "693134",
@@ -946,7 +946,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/cbQWSRcMTd60fZPt4gfD9HvX23Q.jpg",
         "backdrop": "",
         "trailer": "https://tad-trailers.b-cdn.net/607781.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20bizcocho%20del%20Panadero/El%20bizcocho%20del%20Panadero.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20bizcocho%20del%20Panadero/El%20bizcocho%20del%20Panadero.mkv"
     },
     {
         "id": "1118595",
@@ -985,7 +985,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/8KqWfVuKP7aBt3XVrDUN6irqwZm.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/75nSb1fbWooipwcSU5bUttiOriI.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/508883.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20chico%20y%20la%20garza/El%20chico%20y%20la%20garza.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20chico%20y%20la%20garza/El%20chico%20y%20la%20garza.mkv"
     },
     {
         "id": "791155",
@@ -1011,7 +1011,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/foDFUrj7gm6nK6dNcbRoU9aBkPn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/7FDVhmCur4LMOfnXMteiSCtsdOb.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1116465.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20Descubridor%20De%20Leyendas%20%282024%29/El%20Descubridor%20De%20Leyendas%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20Descubridor%20De%20Leyendas%20%282024%29/El%20Descubridor%20De%20Leyendas%20%282024%29.mkv"
     },
     {
         "id": "736918",
@@ -1102,7 +1102,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/hLAek7EiM5NpLiotmQkmS8SIZw9.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/4frrYwamVG0eXhdMTy3cpNNcCBp.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1128650.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20Lado%20Oscuro%20De%20La%20Justicia%20%282024%29/El%20Lado%20Oscuro%20De%20La%20Justicia%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20Lado%20Oscuro%20De%20La%20Justicia%20%282024%29/El%20Lado%20Oscuro%20De%20La%20Justicia%20%282024%29.mkv"
     },
     {
         "id": "517320",
@@ -1141,7 +1141,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1088096.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o/El%20Padre%20Del%20A%C3%B1o.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o/El%20Padre%20Del%20A%C3%B1o.mkv"
     },
     {
         "id": "1088096",
@@ -1154,7 +1154,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1088096.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o%20%282024%29/El%20Padre%20Del%20A%C3%B1o%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o%20%282024%29/El%20Padre%20Del%20A%C3%B1o%20%282024%29.mkv"
     },
     {
         "id": "1239146",
@@ -1193,7 +1193,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/3TRqi2kAvXFS4xncx5u7GsxV8gs.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/lz6Cy1JgOR72AilU2ghDvLKbgqT.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/813.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20piloto/El%20piloto.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20piloto/El%20piloto.mkv"
     },
     {
         "id": "400650",
@@ -1245,7 +1245,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/18noUFy5uwGFovOlfbyleYkfXng.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/9kT1FOoVchaiW8AZiP3epylqKW9.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1340571.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20se%C3%B1or%20de%20los%20lobos/El%20se%C3%B1or%20de%20los%20lobos.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20se%C3%B1or%20de%20los%20lobos/El%20Se%C3%B1or%20de%20los%20Lobos.mkv"
     },
     {
         "id": "1003871",
@@ -1271,7 +1271,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/1UHp2QEBPnTrcx0i6aYw6jWtDbI.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/4ft6TR9wA6bra0RLL6G7JFDQ5t1.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/704239.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20sindicato/El%20sindicato.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20sindicato/El%20sindicato.mkv"
     },
     {
         "id": "4108",
@@ -1284,7 +1284,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/gEiyyNU0CVZBgmH08l3GMgw4BfZ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/8dXR9R0NUo4eyS4hnYOsCywmo16.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/4108.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20transportador/El%20transportador.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20transportador/El%20transportador.mkv"
     },
     {
         "id": "1115623",
@@ -1297,7 +1297,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/kql7GXTCeCoCZGYAwz1Hs7lAcv5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/g5Ha2DhXIuxsUl4gaDnbw3jOAlo.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1115623.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/El%20Ultimo%20Combate%20%282024%29/El%20Ultimo%20Combate%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/El%20Ultimo%20Combate%20%282024%29/El%20Ultimo%20Combate%20%282024%29.mkv"
     },
     {
         "id": "617653",
@@ -1323,7 +1323,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/haKaoR9bfFJLoZSYyk2lLApNbcp.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/4fLZUr1e65hKPPVw0R3PmKFKxj1.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/976573.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Elemental/Elemental.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Elemental/Elemental.mkv"
     },
     {
         "id": "1192578",
@@ -1349,7 +1349,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/Al1cL3oPBgnmzm0EqIRcOT6JHFg.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/u2eA9pqi1q3DvevT7RuDuJHxxBT.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/974950.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Emilia%20Perez%20%282024%29/Emilia%20Perez%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Emilia%20Perez%20%282024%29/Emilia%20Perez%20%282024%29.mkv"
     },
     {
         "id": "1151272",
@@ -1388,7 +1388,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/gagrb3LhpEghQUNPugocT0PdZtp.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/rc4gftC3BOULuhvE6BDrzpvVJS4.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1129508.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Escapando%20De%20Alemania%20%282024%29/Escapando%20De%20Alemania%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Escapando%20De%20Alemania%20%282024%29/Escapando%20De%20Alemania%20%282024%29.mkv"
     },
     {
         "id": "585216",
@@ -1427,7 +1427,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/r0u9l2f5ktzDmsvnXXGOkhRDjqP.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/7SVHupXElhckxx5PLP11s3yyuKz.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/23703.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Esto%20Es%20Todo%20%282009%29/Esto%20Es%20Todo%20%282009%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Esto%20Es%20Todo%20%282009%29/Esto%20Es%20Todo%20%282009%29.mkv"
     },
     {
         "id": "798021",
@@ -1596,7 +1596,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/xwIXaFbQjFMZoBdDjUvnyQE3WpF.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/liMTxzWtJPYSNbMKlCRFzBnKQKF.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1155690.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Gump%202%20Aventura%20Por%20Duplicado%20%282024%29/Gump%202%20Aventura%20Por%20Duplicado%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Gump%202%20Aventura%20Por%20Duplicado%20%282024%29/Gump%202%20Aventura%20Por%20Duplicado%20%282024%29.mkv"
     },
     {
         "id": "839787",
@@ -1609,7 +1609,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/8n8D2lmlCHRtex8rMkREc79ldW7.jpg",
         "backdrop": "",
         "trailer": "https://tad-trailers.b-cdn.net/839787.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/H%C3%A1blame/H%C3%A1blame.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/H%C3%A1blame/H%C3%A1blame.mkv"
     },
     {
         "id": "1426776",
@@ -1635,7 +1635,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/wqwDKolEd9lhrPGWwqTCpwJc2aT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/eLqQ6RleEKUBbqsxQvfJK2iOuVy.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/457332.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Hidden%20Strike/Hidden%20Strike.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Hidden%20Strike/Hidden%20Strike.mkv"
     },
     {
         "id": "1187872",
@@ -1648,7 +1648,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/hdSnhdqNE5bKa57qCwtCkWESjBA.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/2ZepzCL5PT8f7q5arcudt9g4VAV.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1187872.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Higuita%20El%20camino%20del%20Escorpi%C3%B3n/Higuita%20El%20camino%20del%20Escorpi%C3%B3n.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Higuita%20El%20camino%20del%20Escorpi%C3%B3n/Higuita%20El%20camino%20del%20Escorpi%C3%B3n.mkv"
     },
     {
         "id": "1069905",
@@ -1687,7 +1687,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/dPR5pAL8LjoO8q4rQ7knhzu0TjO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/gFp296t5gb103dLssWDYE1D5Ra3.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/604360.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/La%208.%C2%AA%20noche/La%208.%C2%AA%20noche.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/La%208.%C2%AA%20noche/La%208.%C2%AA%20noche.avi"
     },
     {
         "id": "948276",
@@ -1726,7 +1726,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/sJoOpnmMOxjj19S0HJvd82ztylI.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/pYTVwgU9YhfPeVtDoeYLdfeZx5F.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/966382.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/La%20Dama%20del%20Silencio/La%20Dama%20del%20Silencio.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/La%20Dama%20del%20Silencio/La%20Dama%20del%20Silencio.mkv"
     },
     {
         "id": "779782",
@@ -1752,7 +1752,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/hZYtGDl0LYIrxgrZchOhoJTyU7Y.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/zzbEAP5d1Ci0QKitpaA8PykHIj4.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/926008.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/La%20fiebre%20de%20los%20peluches%20Beanie/La%20fiebre%20de%20los%20peluches%20Beanie.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/La%20fiebre%20de%20los%20peluches%20Beanie/La%20fiebre%20de%20los%20peluches%20Beanie.mkv"
     },
     {
         "id": "588228",
@@ -1778,7 +1778,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/k7HUNr7kAbpDUBX3LsqkGAwCHTo.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/jorgdQ0Ows8iucGfba0Vb6Epqve.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/978090.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/La%20Huelga%20De%20Las%20Camareras%20%282024%29/La%20Huelga%20De%20Las%20Camareras%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/La%20Huelga%20De%20Las%20Camareras%20%282024%29/La%20Huelga%20De%20Las%20Camareras%20%282024%29.mkv"
     },
     {
         "id": "774531",
@@ -1804,7 +1804,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/gzuLKf3AWvV6SlXL4ZYGUn1FNdl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/xt3zBU1Ir4JGtVgbKRhi8aSQkpw.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/873967.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/La%20Trampa%20Del%20Diablo%20%282024%29/La%20Trampa%20Del%20Diablo%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/La%20Trampa%20Del%20Diablo%20%282024%29/La%20Trampa%20Del%20Diablo%20%282024%29.mkv"
     },
     {
         "id": "844069",
@@ -1817,7 +1817,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/bDmtNTmM8k6mVskmmf07JN7dJAM.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/s8ryrjpl6GjSLoEHagzmgE4Yl2f.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/844069.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Las%20Puertas%20Del%20Infierno%20%282023%29/Las%20Puertas%20Del%20Infierno%20%282023%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Las%20Puertas%20Del%20Infierno%20%282023%29/Las%20Puertas%20Del%20Infierno%20%282023%29.mkv"
     },
     {
         "id": "1330167",
@@ -1830,7 +1830,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/ovIQATc8FzEuTa3EJ3AiZ9jGuY7.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ulO1ykmCcPI05VDqJlFVNUJcucK.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1330167.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Lo%20Que%20Se%20Esconde%20Bajo%20El%20Agua%20%282024%29/Lo%20Que%20Se%20Esconde%20Bajo%20El%20Agua%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Lo%20Que%20Se%20Esconde%20Bajo%20El%20Agua%20%282024%29/Lo%20Que%20Se%20Esconde%20Bajo%20El%20Agua%20%282024%29.mkv"
     },
     {
         "id": "49367",
@@ -1843,7 +1843,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/ub8vYfI1zgW4WItWDQ5mT6q5tzQ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/fzGvBBXOKmSCMTvaUdRkrf9A5kk.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/49367.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Los%20dos%20hijos%20de%20francisco/Los%20dos%20hijos%20de%20francisco.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Los%20dos%20hijos%20de%20francisco/Los%20dos%20hijos%20de%20Francisco.mkv"
     },
     {
         "id": "695721",
@@ -1869,7 +1869,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/vmewChx3Vc2PRvltj7YCGqnK5WI.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/rMvPXy8PUjj1o8o1pzgQbdNCsvj.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/299054.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Los%20mercen4rios/Los%20mercen4rios.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Los%20mercen4rios/Los%20mercen4rios.mkv"
     },
     {
         "id": "1569999",
@@ -1973,7 +1973,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/nSAqIzuCqCQAt3HFsHwiffFSj96.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/oTmE2OqoNxpZwZOFBtQWxyZwKr0.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/843942.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Manodrome/Manodrome.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Manodrome/Manodrome.mkv"
     },
     {
         "id": "1383557",
@@ -1986,7 +1986,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/m6eO42uRd2w7NbMsp1H7susxMeN.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/pX4CA2Ul2hnuTrQuq8gaXtJc49u.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1383557.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Mas%20Alla%20De%20Los%20Limites%20De%20La%20Muerte%20%282024%29/Mas%20Alla%20De%20Los%20Limites%20De%20La%20Muerte%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Mas%20Alla%20De%20Los%20Limites%20De%20La%20Muerte%20%282024%29/Mas%20Alla%20De%20Los%20Limites%20De%20La%20Muerte%20%282024%29.mkv"
     },
     {
         "id": "459003",
@@ -2142,7 +2142,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/klVYa71WolLPhtz0k6FbE4tRidt.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/oqFdBPhutu8nbfNg1g5zTmEScbd.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1265517.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/No%20Dormir%C3%A1s%20Esta%20Noche%20%282024%29/No%20Dormir%C3%A1s%20Esta%20Noche%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/No%20Dormir%C3%A1s%20Esta%20Noche%20%282024%29/No%20Dormir%C3%A1s%20Esta%20Noche%20%282024%29.mkv"
     },
     {
         "id": "999644",
@@ -2220,7 +2220,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/uHtg9BLrmm7rq4hOoQdXtuEr73C.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/wexB0OfXJ6IK9v0jMg2j5lmfLlW.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1360780.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Nuestra%20Historia%20De%20Navidad%20%282024%29/Nuestra%20Historia%20De%20Navidad%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Nuestra%20Historia%20De%20Navidad%20%282024%29/Nuestra%20Historia%20De%20Navidad%20%282024%29.mkv"
     },
     {
         "id": "1034940",
@@ -2246,7 +2246,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/fm1UBC4HGA3INXZvdkBSIUH6T6L.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/5CPbuhVfnUAbEyuf3LJ5bKiRvx4.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/895549.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Nyad/Nyad.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Nyad/Nyad.mkv"
     },
     {
         "id": "1227816",
@@ -2259,7 +2259,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/l03Dh7DsKTSzRMgox8cfLbWJQ81.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/1AZoKXDwfbuk6B7M0bjivcrWdmd.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1227816.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Pacto%20De%20Sangre%20%282024%29/Pacto%20De%20Sangre%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Pacto%20De%20Sangre%20%282024%29/Pacto%20De%20Sangre%20%282024%29.mkv"
     },
     {
         "id": "1364992",
@@ -2272,11 +2272,11 @@
         "poster": "https://image.tmdb.org/t/p/w500/b9FLi1lsg267ki2siw4wmXtUUHT.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ym19HiZFtyCLlPIj1ZwUCoDkxCz.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1364992.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Perdoname%20Papa%20%282024%29/Perdoname%20Papa%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Perdoname%20Papa%20%282024%29/Perdoname%20Papa%20%282024%29.mkv"
     },
     {
         "id": "58",
-        "titulo": "Piratas del Caribe 2: El Cofre de la Muerte",
+        "titulo": "Piratas del Caribe: El Cofre de la Muerte",
         "genero": "Aventura",
         "plataforma": "Disney+",
         "sinopsis": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida Will tendrá que encontrar a Jack y conseguir su misteriosa brújula, que esconde un gran poder además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma El Holandés Errante.",
@@ -2285,7 +2285,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/9K7OW0q5EmagPR4OFraUXs7gVK0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/vr6n6ZFUZvedvIlhfYcbCWcaKyW.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/58.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Piratas%20del%20caribe%20-%20el%20cofre%20del%20hombre%20muerto/Piratas%20del%20caribe%20-%20el%20cofre%20del%20hombre%20muerto.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Piratas%20del%20caribe%20-%20el%20cofre%20del%20hombre%20muerto/Piratas%20del%20caribe%20-%20El%20cofre%20del%20hombre%20muerto.mp4"
     },
     {
         "id": "9799",
@@ -2376,7 +2376,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/nMaiiu0CzT77U4JZkUYV7KqdAjK.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/5aZ2PDpNhjTdk77uSAIDzrpsAUr.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1367.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Rocky%20II%20%281979%29/Rocky%20II%20%281979%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Rocky%20II%20(1979)/Rockyii%20(1979).mp4"
     },
     {
         "id": "1371",
@@ -2389,7 +2389,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/5Mn0xgB8w9mi2Ifo7WdS8aSgA7V.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ljOHSIyTbxdkQFjcJyWKfGm2i2r.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1371.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Rocky%20III%20%281982%29/Rocky%20III%20%281982%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Rocky%20III%20(1982)/Rockyiii%20(1982).mp4"
     },
     {
         "id": "1374",
@@ -2402,7 +2402,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/2MHUit4H6OK5adcOjnCN6suCKOl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/7Xvz1fjhaGh6AF33R76dwoDrfkH.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1374.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Rocky%20IV%20%281985%29/Rocky%20IV%20%281985%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Rocky%20IV%20(1985)/Rockyiv%20(1985).mp4"
     },
     {
         "id": "1375",
@@ -2415,7 +2415,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/qCARerjCFZOEeLiVdomhwRYlDSn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/kDg19JzcE8TG9fa0lqrw2UkcJes.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1375.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Rocky%20V%20%281990%29/Rocky%20V%20%281990%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Rocky%20V%20(1990)/Rockyv%20(1990).mp4"
     },
     {
         "id": "1032372",
@@ -2428,7 +2428,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/yUPuiXIcfBIl0KLViFZQS0AW6O0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/h1An6CRfuzwlUAKtnmGpKuHCW37.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1032372.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Sangre%20Fria%20%282024%29/Sangre%20Fria%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Sangre%20Fria%20%282024%29/Sangre%20Fria%20%282024%29.mkv"
     },
     {
         "id": "1400784",
@@ -2454,7 +2454,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/mM92ShBRS17LdUemUY2ca79EyMo.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/yCatt8lmp3oRFEcOZF8KHhsiASQ.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1223601.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Sisu%20Camino%20A%20La%20Vengaza%20%282025%29/Sisu%20Camino%20A%20La%20Vengaza%20%282025%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Sisu%20Camino%20A%20La%20Vengaza%20%282025%29/Sisu%20Camino%20A%20La%20Vengaza%20%282025%29.mkv"
     },
     {
         "id": "916728",
@@ -2467,7 +2467,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/bY05Rz6Ger7MMxD59DcBvveV1R2.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ptwrDEMi22n9ejCA7DIs0igF7f4.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/916728.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Slingshot%20%282024%29/Slingshot%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Slingshot%20%282024%29/Slingshot%20%282024%29.mkv"
     },
     {
         "id": "1415974",
@@ -2480,7 +2480,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/lYuHiEzoe0V4fDNzhApAdmYOs1d.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/tql3kTLmF2FFeSVIlafFJiZfcfk.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1415974.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Solitaria%20Es%20La%20Noche%20Los%20Cr%C3%ADmenes%20De%20La%20Familia%20Bansal%20%282025%29/Solitaria%20Es%20La%20Noche%20Los%20Cr%C3%ADmenes%20De%20La%20Familia%20Bansal%20%282025%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Solitaria%20Es%20La%20Noche%20Los%20Cr%C3%ADmenes%20De%20La%20Familia%20Bansal%20%282025%29/Solitaria%20Es%20La%20Noche%20Los%20Cr%C3%ADmenes%20De%20La%20Familia%20Bansal%20%282025%29.mkv"
     },
     {
         "id": "1426518",
@@ -2493,7 +2493,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/x9DGdhgLONrgp4h36DpeWTCPsTO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/9w6883OlULmjwLA0H0Zo4XYhZSR.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1426518.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Soy%20Eddie%20%282025%29/Soy%20Eddie%20%282025%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Soy%20Eddie%20%282025%29/Soy%20Eddie%20%282025%29.mkv"
     },
     {
         "id": "1109940",
@@ -2506,7 +2506,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/eNGKaVVtB8DCT5mZ6cOyjFg1IPO.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/2e50o5n6KaFP8utQHlclpTybtIv.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1109940.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Tejano%20Por%20Casualidad%20%282023%29/Tejano%20Por%20Casualidad%20%282023%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Tejano%20Por%20Casualidad%20%282023%29/Tejano%20Por%20Casualidad%20%282023%29.mkv"
     },
     {
         "id": "218",
@@ -2532,7 +2532,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/10xtoK2SFv6ADIeWxr3mcrjko72.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/ztBeLd2UCbUATJ1cXwwHev3G3xX.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/280.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Terminator%202%20el%20juicio%20final%20%281991%29/Terminator%202%20el%20juicio%20final%20%281991%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Terminator%202%20el%20juicio%20final%20(1991)/Terminator%202el%20juicio%20final%20(1991).mp4"
     },
     {
         "id": "296",
@@ -2545,7 +2545,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/ugVNhnnH3DKUZZ3JtzRkViIh4L9.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/voVkSwgFYv9GOpRNfUAwj6qYRTL.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/296.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Terminator%203%20la%20rebeli%C3%B3n%20de%20las%20m%C3%A1quinas%20%282005%29/Terminator%203%20la%20rebeli%C3%B3n%20de%20las%20m%C3%A1quinas%20%282005%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Terminator%203%20la%20rebeli%C3%B3n%20de%20las%20m%C3%A1quinas%20(2005)/Terminator3larebeli%C3%B3ndelasm%C3%A1quinas%20(2005).mp4"
     },
     {
         "id": "87101",
@@ -2597,7 +2597,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/337339.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20of%20the%20furious%20%282017%29/The%20fast%20of%20the%20furious%20%282017%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%209/Rapidos%20y%20Furiosos%209.mp4"
     },
     {
         "id": "298618",
@@ -2610,7 +2610,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/gNbZNuZ2fBferjJspfmvnskODGc.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/298618.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20Flash/The%20Flash.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/The%20Flash/The%20Flash.mkv"
     },
     {
         "id": "801071",
@@ -2623,7 +2623,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/xm6N21UjaUSK9LF7kfDSaGJU7fx.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/xHRabofjmMGoIV3mb6xgy4nwOcS.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/801071.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20Jack%20in%20the%20Box%20El%20despertar/The%20Jack%20in%20the%20Box%20El%20despertar.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/The%20Jack%20in%20the%20Box%20El%20despertar/The%20Jack%20in%20the%20Box%20El%20despertar.mkv"
     },
     {
         "id": "1167027",
@@ -2649,7 +2649,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/by5ZMxYI4RD4CzKMJhX6X74JhFl.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/6NbqvhC6oPuvXN5jta9WbaQJD2E.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1064835.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20Seven%20Deadly%20Sins%20El%20rencor%20de%20Edimburgo%20-%20Parte%202/The%20Seven%20Deadly%20Sins%20El%20rencor%20de%20Edimburgo%20-%20Parte%202.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/The%20Seven%20Deadly%20Sins%20El%20rencor%20de%20Edimburgo%20-%20Parte%202/The%20Seven%20Deadly%20Sins%20El%20rencor%20de%20Edimburgo%20-%20Parte%202.mkv"
     },
     {
         "id": "862551",
@@ -2701,7 +2701,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/tUeZeWzbw37sOIpDsuK8qq8Unor.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/tmU7GeKVybMWFButWEGl2M4GeiP.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/238.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Todo%20sobre%20mi%20padre/Todo%20sobre%20mi%20padre.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Todo%20sobre%20mi%20padre/Todo%20sobre%20mi%20padre.mkv"
     },
     {
         "id": "1187311",
@@ -2714,7 +2714,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/3Qib1rlVcT7zWSdmORPgMgw5qvn.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/bfd2UcK9iSL2JzVEuY8mNzCceHP.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1187311.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Tu%20Madre%20O%20La%20M%C3%ADa%20%282024%29/Tu%20Madre%20O%20La%20M%C3%ADa%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Tu%20Madre%20O%20La%20M%C3%ADa%20%282024%29/Tu%20Madre%20O%20La%20M%C3%ADa%20%282024%29.mkv"
     },
     {
         "id": "852096",
@@ -2753,7 +2753,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/EDJrPeEUPobpERfGZWuvV5jXbf.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/chIz6OkSMNUEy82tRBMemPTB4RM.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1372028.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Una%20Navidad%20%C3%9Anica%20%282024%29/Una%20Navidad%20%C3%9Anica%20%282024%29.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Una%20Navidad%20%C3%9Anica%20%282024%29/Una%20Navidad%20%C3%9Anica%20%282024%29.mkv"
     },
     {
         "id": "335787",

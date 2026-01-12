@@ -1583,7 +1583,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/6vjGTXpV1ehu3ng5ZnH0tI26Xpd.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/833Hjmr9rK4Kzdwj9egjrEvoE4k.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/19139.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Gol%203/Gol%203.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Gol%203/Gol%203.mkv"
     },
     {
         "id": "1155690",
@@ -2298,19 +2298,19 @@
         "poster": "https://image.tmdb.org/t/p/w500/zFR949B0hxdgi0vljf8tCJiZ65z.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/jY9ef5nqY4xIIMu3yzW3qamUCoi.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/9799.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Rapido%20y%20Furioso%201/Rapido%20y%20Furioso%201.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Rapido%20y%20Furioso%201/Rapido%20y%20Furioso%201.mkv"
     },
     {
         "id": "701675",
-        "titulo": "Rápido y feroz: carrera de la muerte",
+        "titulo": "Rapido y Furioso 2: Mas rapidos, mas furiosos",
         "genero": "Acción",
         "plataforma": "TAD Origins",
-        "sinopsis": "Jack Tyson es un joven muchacho que participa en una carrera ilegal de coches que va desde México a California cuando una mujer desesperada que huye de un novio gángster y abusador se cruza con él, rogándole que le ayude a huir. Su pareja resulta ser uno de los organizadores del torneo, y la única forma de evitar que éste decida vengarse pasa por entregar un USB con valiosa información a la policía para que las autoridades le arresten antes de que sea demasiado tarde.",
+        "sinopsis": "El agente del FBI Brian O'Conner cayó en desgracia al ver su lealtad puesta a prueba en su anterior trabajo en el mundo de las carreras ilegales de Los Angeles. La decisión de O’Conner le permitió conservar su honor, pero le hizo perder su insignia. Ahora ha pasado el tiempo, está en otra ciudad y tiene una última oportunidad. A los federales de Miami les está costando mucho detener a Carter Verone, un empresario que utiliza su negocio como tapadera para un cartel internacional de blanqueo de dinero. Aduanas sabe de su relación con las carreras callejeras ilegales, así que deciden llamar a O’Conner para vuelva a infiltrarse. Pero antes pone algunas condiciones para aceptar la misión. La primera: trabajar con su amigo de infancia y antiguo delincuente Roman Pearce, otro adicto a la velocidad.",
         "puntuacion": 5.4,
-        "year": "2020",
-        "poster": "https://image.tmdb.org/t/p/w500/v9bPKQUQtdNh1ZlAfNFaGVg8C1C.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/egUDPhBMRXtTGv13bEhqSIfsgUm.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/701675.mp4",
+        "year": "2003",
+        "poster": "https://image.tmdb.org/t/p/w1280/fZtSG5a6i5Ca39WQylLVmvWI5b.jpg",
+        "backdrop": "/90ooE5SbUEO0OVJHewNO7pgySb6.jpg",
+        "trailer": "",
         "video": "https://tad-peliculas.b-cdn.net/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso.mp4"
     },
     {
@@ -2575,7 +2575,7 @@
     },
     {
         "id": "9615",
-        "titulo": "Rápido y furioso: Reto Tokio",
+        "titulo": "Rapido y furioso 3: Reto Tokio",
         "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de «drift» (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag.",

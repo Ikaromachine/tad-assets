@@ -1,4 +1,50 @@
 [
+   {
+  "id": "operativo_lioness",
+  "titulo": "Operativo: Lioness",
+  "genero": "Drama",
+  "plataforma": "Paramount+",
+  "sinopsis": "Joe intenta equilibrar su vida personal y profesional como punta de lanza de la CIA en la guerra contra el terrorismo. El Programa Lioness recluta a Cruz para que opere de incógnito junto a Joe entre los poderosos del terrorismo de Estado.",
+  "puntuacion": 8.0,
+  "year": "2023",
+  "poster": "https://image.tmdb.org/t/p/w500/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+  "backdrop": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+  "trailer": "https://tad-trailers.b-cdn.net/operativo_lioness.mp4",
+  "capitulos": [
+    {
+      "nombre": "Capítulo 1",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E01.mp4"
+    },
+    {
+      "nombre": "Capítulo 2",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E02.mp4"
+    },
+    {
+      "nombre": "Capítulo 3",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E03.mp4"
+    },
+    {
+      "nombre": "Capítulo 4",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E04.mp4"
+    },
+    {
+      "nombre": "Capítulo 5",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E05.mp4"
+    },
+    {
+      "nombre": "Capítulo 6",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E06.mp4"
+    },
+    {
+      "nombre": "Capítulo 7",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E07.mp4"
+    },
+    {
+      "nombre": "Capítulo 8",
+      "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E08.mp4"
+    }
+  ]
+},
   {
     "id": "stranger_things_5",
     "titulo": "Stranger Things. temporada 5",

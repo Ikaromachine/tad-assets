@@ -2,12 +2,7 @@
     {
         "id": "772272",
         "titulo": "A mi altura 2",
-        "genero": [
-            "Comedia",
-            "Romance",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Después de que Jodi Kreyman ganara popularidad, sus problemas de comunicación comienzan a causar rupturas con quienes la rodean y ahora realmente necesita 'mantenerse firme'.",
         "puntuacion": 5.7,
@@ -20,12 +15,7 @@
     {
         "id": "14590",
         "titulo": "La sombra de los acusados",
-        "genero": [
-            "Comedia",
-            "Crimen",
-            "Misterio",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "TAD Origins",
         "sinopsis": "Un jinete es asesinado en los vestuarios, tras retirarse de una carrera a la que habían acudido Nora (Miran Loy) y su marido Nick (William Powell). A pesar de ello, la pareja vuelve a las carreras precisamente el día en que se comete otro asesinato.",
         "puntuacion": 7.0,
@@ -38,11 +28,7 @@
     {
         "id": "419704",
         "titulo": "Ad Astra: Hacia las estrellas",
-        "genero": [
-            "Ciencia Ficción",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Disney+",
         "sinopsis": "El futuro cercano, un tiempo en el que tanto la esperanza como la adversidad impulsan a la humanidad a mirar hacia las estrellas y más allá. Mientras un misterioso fenómeno amenaza con destruir la vida en el planeta Tierra, el astronauta Roy McBride emprende una misión a través de la inmensidad del espacio y sus muchos peligros para descubrir la verdad sobre una expedición perdida que décadas antes afrontó audazmente el vacío y el silencio en busca de lo desconocido.",
         "puntuacion": 6.1,
@@ -55,11 +41,7 @@
     {
         "id": "744275",
         "titulo": "After: Almas Perdidas",
-        "genero": [
-            "Romance",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Romance",
         "plataforma": "Amazon Prime",
         "sinopsis": "Cuando Tessa toma la decisión más importante de su vida, todo cambia. Los secretos que salen a la luz sobre su familia, y también sobre la de Hardin, ponen en peligro su relación y su futuro juntos. La vida de Tessa empieza a desmoronarse, nada es como ella creía que sería. Nunca ha sentido algo así por nadie, pero empieza a cuestionarse si vale la pena. Antes el amor bastaba para mantenerlos juntos, pero ahora ya no está claro lo que dictan sus corazones...",
         "puntuacion": 7.0,
@@ -72,11 +54,7 @@
     {
         "id": "820525",
         "titulo": "After: Para siempre",
-        "genero": [
-            "Romance",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Romance",
         "plataforma": "Amazon Prime",
         "sinopsis": "After llega a su fin. Por fin conoceremos cómo acaba la historia de Hardin y Tessa, dos almas gemelas que no pueden estar separadas, pero que no saben cómo estar juntas.",
         "puntuacion": 6.9,
@@ -89,12 +67,7 @@
     {
         "id": "724209",
         "titulo": "Agente Stone",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Rachel Stone es una agente de inteligencia, la única mujer que se interpone entre su poderosa organización mundial de mantenimiento de la paz y la pérdida de su activo más valioso y peligroso.",
         "puntuacion": 6.8,
@@ -107,13 +80,7 @@
     {
         "id": "831815",
         "titulo": "Al rescate de Fondo de Bikini: La película de Arenita Mejillas",
-        "genero": [
-            "Familia",
-            "Comedia",
-            "Aventura",
-            "Animación",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Netflix",
         "sinopsis": "Cuando de pronto sacan a Fondo de Bikini del océano, la ardilla científica Arenita Mejillas y su amigo Bob Esponja emprenden un viaje a Texas para salvar su hogar.",
         "puntuacion": 6.1,
@@ -126,11 +93,7 @@
     {
         "id": "945961",
         "titulo": "Alien: Romulus",
-        "genero": [
-            "Terror",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Disney+",
         "sinopsis": "Mientras exploran en las profundidades de una estación espacial abandonada, un grupo de jóvenes colonizadores del espacio se encuentran cara a cara con la forma de vida más aterradora del universo.",
         "puntuacion": 7.2,
@@ -143,11 +106,7 @@
     {
         "id": "1056360",
         "titulo": "Ficción Estadounidense",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "TAD Origins",
         "sinopsis": "El profesor de inglés y escritor Thelonious 'Monk' Ellison escribe una novela satírica bajo seudónimo, con la intención de denunciar la hipocresía de la industria editorial.",
         "puntuacion": 7.3,
@@ -160,11 +119,7 @@
     {
         "id": "893297",
         "titulo": "American Sicario",
-        "genero": [
-            "Crimen",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Crimen",
         "plataforma": "Amazon Prime",
         "sinopsis": "El gangster norteamericano Erik Vasquez planea convertirse en el mandamás del submundo mexicano, pero en su camino se interponen una serie de enemigos de los cárteles y de su grupo de aliados.",
         "puntuacion": 5.9,
@@ -177,10 +132,7 @@
     {
         "id": "32622",
         "titulo": "Angela",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 5.5,
@@ -193,11 +145,7 @@
     {
         "id": "259316",
         "titulo": "Animales Fantásticos: Y Dónde Encontrarlos",
-        "genero": [
-            "Fantasía",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "HBO Max",
         "sinopsis": "“Animales fantásticos y dónde encontrarlos” comienza en 1926 a medida que Newt Scamander acaba de terminar una excursión por todo el mundo para encontrar y documentar una extraordinaria variedad de creaturas mágicas. Al llegar a Nueva York para una breve escala, quizás pudo haber llegado y partido sin incidente... si no fuera por un No-Maj (término estadounidense para Muggle) llamado Jacob, un caso mágico perdido y la escapada de algunas de las bestias fantásticas de Newt, lo que podría significar problemas para los mundos tanto de los magos como de los No-Maj.",
         "puntuacion": 7.3,
@@ -210,12 +158,7 @@
     {
         "id": "640146",
         "titulo": "Ant-Man and the Wasp: Quantumania",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Disney+",
         "sinopsis": "Los superhéroes Scott Lang y Hope van Dyne regresan para continuar sus aventuras como Ant-Man y Wasp. Con los padres de Hope, Hank Pym y Janet van Dyne, y con la hija de Scott, Cassie Lang, la familia explora el Reino Quántico, interactúa con extrañas criaturas y se embarca en una aventura que los hará ir más allá de lo que creían posible.",
         "puntuacion": 6.2,
@@ -228,13 +171,7 @@
     {
         "id": "502345",
         "titulo": "Scary girl",
-        "genero": [
-            "Animación",
-            "Aventura",
-            "Familia",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "HBO Max",
         "sinopsis": "Mientras su mundo está envuelto en oscuridad, una joven debe superar sus miedos y viajar a una misteriosa ciudad de luz, salvar a su padre de un científico peligroso y evitar la destrucción de su planeta.",
         "puntuacion": 6.9,
@@ -247,11 +184,7 @@
     {
         "id": "49012",
         "titulo": "Arthur",
-        "genero": [
-            "Comedia",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Apple TV",
         "sinopsis": "",
         "puntuacion": 5.6,
@@ -264,10 +197,7 @@
     {
         "id": "1244039",
         "titulo": "Asesinos Sadicos 2 Hermanos Hambrientos",
-        "genero": [
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Amazon Prime",
         "sinopsis": "Tras sufrir un accidente automovilístico, un grupo de secuestradores es capturado por dos hermanos caníbales, que planean descuartizarlos para comerse su carne.",
         "puntuacion": 4.8,
@@ -280,11 +210,7 @@
     {
         "id": "614933",
         "titulo": "Atlas",
-        "genero": [
-            "Ciencia Ficción",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Netflix",
         "sinopsis": "Una analista antiterrorista que no confía en la inteligencia artificial descubre que esta puede ser su única esperanza cuando una misión para capturar a un robot rebelde sale mal.",
         "puntuacion": 6.7,
@@ -297,12 +223,7 @@
     {
         "id": "83533",
         "titulo": "Avatar: Fuego y ceniza",
-        "genero": [
-            "Ciencia Ficción",
-            "Aventura",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Disney+",
         "sinopsis": "Devastados por la guerra contra la RDA y la perdida de su hijo mayor, Jake Sully y Neytiri se enfrentan a una nueva amenaza en Pandora: el pueblo de la ceniza, una violenta tribu Na'vi ávida de poder liderada por los despiadados Varang.",
         "puntuacion": 7.4,
@@ -315,11 +236,7 @@
     {
         "id": "615777",
         "titulo": "Babylon",
-        "genero": [
-            "Drama",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Una historia de ambición descomunal y exceso escandaloso, que rastrea el ascenso y la caída de múltiples personajes en una era de decadencia y depravación desenfrenada durante la transición de Hollywood del cine mudo al cine sonoro a fines de la década de 1920.",
         "puntuacion": 7.4,
@@ -332,14 +249,7 @@
     {
         "id": "573435",
         "titulo": "Bad Boys: Hasta la muerte",
-        "genero": [
-            "Acción",
-            "Comedia",
-            "Crimen",
-            "Suspenso",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Tras escuchar falsas acusaciones sobre su excapitán y mentor Mike y Marcus deciden investigar el asunto incluso volverse los más buscados de ser necesarios",
         "puntuacion": 7.3,
@@ -352,10 +262,7 @@
     {
         "id": "845783",
         "titulo": "Baghead: Contacto Con La Muerte",
-        "genero": [
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Amazon Prime",
         "sinopsis": "Tras la muerte de su padre, Iris descubre que ha heredado un antiguo bar en ruinas. Viaja a Berlín para identificar el cuerpo de su padre y reunirse con el abogado para hablar sobre su herencia. Lo que ella no sabe es que, cuando firme las escrituras, quedará ligada a una entidad indescriptible que habita en el sótano del bar: Baghead, una criatura que cambia de forma y puede tomar la forma de cualquier persona que haya muerto. Dos mil dólares en efectivo por dos minutos con la criatura es todo lo que necesita la gente para hablar con sus seres queridos y calmar su dolor. Neil, quien ha perdido a su esposa, es el primer cliente de Iris. Al igual que lo hizo su padre, Iris se siente tentada a explotar los poderes de la criatura ayudando a personas desesperadas por algo de dinero. Pero pronto descubre que romper la regla de los dos minutos puede tener consecuencias aterradoras.",
         "puntuacion": 6.5,
@@ -368,12 +275,7 @@
     {
         "id": "1094473",
         "titulo": "Bambi: Una Aventura en el Bosque",
-        "genero": [
-            "Documental",
-            "Familia",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Amazon Prime",
         "sinopsis": "La vida de Bambi, un corzo macho, desde su nacimiento hasta su infancia, la pérdida de su madre, la búsqueda de una pareja, las lecciones que aprende de su padre y la experiencia que adquiere sobre los peligros que plantean los cazadores humanos en el bosque.",
         "puntuacion": 6.3,
@@ -386,12 +288,7 @@
     {
         "id": "342917",
         "titulo": "Batman Ilimitado: Caos de Monstruos",
-        "genero": [
-            "Acción",
-            "Animación",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "HBO Max",
         "sinopsis": "Es la noche de Halloween en Gotham y una ola de delitos misteriosos causa que Batman esté tras los villanos más fantasmagóricos de la ciudad como Scarecrow, Clayface, Silver Banshee y Solomon Grundy. El líder de estos inadaptados es nada más y nada menos que el mismo príncipe payaso del delito ¡Joker! Armado con un virus informático y un plan diabólico para desatar una “risa digital” en la tecnología de Gotham, solo el Dark Knight puede detener esta pandilla espantosa. Uniendo fuerzas con Green Arrow, Cyborg, Nightwing y Red Robin, es una carrera llena de acción para detener a Joker y salvar la ciudad. ¿Amanecerá sobre Gotham o Jokertown?",
         "puntuacion": 6.3,
@@ -404,12 +301,7 @@
     {
         "id": "866398",
         "titulo": "Beekeeper: Sentencia de muerte",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "La brutal campaña de venganza de un hombre adquiere dimensiones nacionales cuando se descubre que es un antiguo agente de una poderosa organización clandestina conocida como \"Los apicultores\".",
         "puntuacion": 7.3,
@@ -422,11 +314,7 @@
     {
         "id": "4011",
         "titulo": "Beetlejuice, el Superfantasma",
-        "genero": [
-            "Fantasía",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "HBO Max",
         "sinopsis": "Una pareja de fantasmas contratan a un \"bio-exorcista\" a sueldo para asustar a los intrusos que usurparon su hogar en Nueva Inglaterra.",
         "puntuacion": 7.4,
@@ -439,10 +327,7 @@
     {
         "id": "1263920",
         "titulo": "Makihara Noriyuki Concert Tour 2017 “Believer\"",
-        "genero": [
-            "Música",
-            "Estrenos"
-        ],
+        "genero": "Música",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 0.0,
@@ -455,13 +340,7 @@
     {
         "id": "271969",
         "titulo": "Ben-Hur",
-        "genero": [
-            "Acción",
-            "Historia",
-            "Aventura",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Ben Hur narra la historia de un Judah, un príncipe injustamente acusado de traición por su propio hermano  y quien después tras años de ser convertido en esclavo, regresa a Roma en busca de venganza.",
         "puntuacion": 5.8,
@@ -474,11 +353,7 @@
     {
         "id": "1254896",
         "titulo": "Beware the Boogeyman",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "TAD Origins",
         "sinopsis": "En su primer día de orientación, la doctora Tristian Mackenzie se dirige al hospital psiquiátrico para criminales dementes de Silverdale, donde se entera de la extraña serie de casos del también extraño doctor Moon.",
         "puntuacion": 3.4,
@@ -491,11 +366,7 @@
     {
         "id": "351044",
         "titulo": "Bienvenidos a Marwen",
-        "genero": [
-            "Drama",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Un hombre que tras sufrir un terrible asalto estuvo en coma nueve días, tras el cual se despertó con una amnesia completa. Su única terapia fue construir en su jardín unas maquetas con figuras de soldados de II Guerra Mundial...",
         "puntuacion": 6.5,
@@ -508,13 +379,7 @@
     {
         "id": "812225",
         "titulo": "Black Clover: La espada del rey mago",
-        "genero": [
-            "Animación",
-            "Fantasía",
-            "Acción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Netflix",
         "sinopsis": "Un niño que no tiene el poder de hacer magia lucha por obtener el título de Rey Mago, mientras cuatro antiguos Reyes Magos reaparecen para destruir el Reino del Trébol.",
         "puntuacion": 8.1,
@@ -527,12 +392,7 @@
     {
         "id": "565770",
         "titulo": "Blue Beetle",
-        "genero": [
-            "Acción",
-            "Ciencia Ficción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un adolescente mexicano encuentra un escarabajo alienígena que le proporciona una armadura superpoderosa.",
         "puntuacion": 6.7,
@@ -545,12 +405,7 @@
     {
         "id": "802219",
         "titulo": "Bob Marley: La leyenda",
-        "genero": [
-            "Música",
-            "Historia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Música",
         "plataforma": "Amazon Prime",
         "sinopsis": "Celebra la vida y la música de un ícono que inspiró a generaciones a través de su mensaje de amor y unidad. Descubra la poderosa historia de Bob Marley sobre la superación de la adversidad y el viaje detrás de su música revolucionaria.",
         "puntuacion": 6.6,
@@ -563,11 +418,7 @@
     {
         "id": "701387",
         "titulo": "Bugonia",
-        "genero": [
-            "Ciencia Ficción",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "TAD Origins",
         "sinopsis": "Dos jóvenes, obsesionados con las conspiraciones, secuestran a la poderosa directora ejecutiva de una importante empresa, convencidos de que es una extraterrestre que pretende destruir el planeta Tierra.",
         "puntuacion": 7.4,
@@ -580,10 +431,7 @@
     {
         "id": "1243895",
         "titulo": "Canta y no llores",
-        "genero": [
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Disney+",
         "sinopsis": "Una familia de mujeres compuesta por Pepa, la matriarca, Beli, la artista y su hija Lucía, viven junto a Toni, hijo de Pepa y hermanastro de Beli. La familia maneja un food truck de tacos para ganarse la vida, donde van cocinando inquietudes artísticas y frustraciones cotidianas.",
         "puntuacion": 6.9,
@@ -596,12 +444,7 @@
     {
         "id": "299537",
         "titulo": "Capitana Marvel",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Disney+",
         "sinopsis": "Capitana Marvel es, en sus orígenes, Carol Susan Jane Danvers, la hermana mayor de tres hermanos criados en una familia tradicional de Boston. Durante años tuvo que soportar el machismo de su padre hasta cumplir los 18, donde se alistó en la Fuerza Aérea de Estados Unidos, para convertirse en piloto.",
         "puntuacion": 6.8,
@@ -614,12 +457,7 @@
     {
         "id": "818511",
         "titulo": "Carga Máxima",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Rainha (Sheron Menezes) y Roger (Thiago Martins) son dos pilotos de carreras de camiones que compiten entre sí en las pistas. Rainha termina ganando la mayoría de las carreras, mientras que el equipo de Roger comienza a obtener malos resultados, lo que lo lleva a trabajar como piloto para una banda de ladrones de carga con el fin de recaudar fondos para mantener a su equipo.",
         "puntuacion": 6.8,
@@ -632,10 +470,7 @@
     {
         "id": "729120",
         "titulo": "Cassandro",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Amazon Prime",
         "sinopsis": "Saúl Armendáriz, un luchador aficionado gay de El Paso, salta al estrellato internacional después de crear el personaje de Cassandro, el “Liberace of Lucha Libre”. En el proceso, no sólo trastoca el mundo de la lucha machista sino también su propia vida.",
         "puntuacion": 6.6,
@@ -648,12 +483,7 @@
     {
         "id": "1084222",
         "titulo": "Operation Blood Hunt",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "",
         "puntuacion": 6.7,
@@ -666,13 +496,7 @@
     {
         "id": "933131",
         "titulo": "Cazadores en tierra inhóspita",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Suspenso",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Cuando Seúl se vuelve un lugar yermo y sin ley tras un terremoto, un cazador entra en acción para rescatar a una adolescente que fue secuestrada por un médico trastornado.",
         "puntuacion": 6.7,
@@ -685,12 +509,7 @@
     {
         "id": "967847",
         "titulo": "Ghostbusters: Apocalipsis fantasma",
-        "genero": [
-            "Fantasía",
-            "Aventura",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "Amazon Prime",
         "sinopsis": "La familia Spengler regresa al lugar donde empezó todo, la icónica estación de bomberos de la ciudad de Nueva York, para formar equipo con los Cazafantasmas originales, quienes han desarrollado un laboratorio de investigación ultrasecreto para llevar la caza de fantasmas al siguiente nivel. Pero cuando el descubrimiento de un antiguo artefacto desata una fuerza maligna, los Cazafantasmas nuevos y antiguos deben unir fuerzas para proteger su hogar y salvar al mundo de una segunda Edad de Hielo.",
         "puntuacion": 6.5,
@@ -703,13 +522,7 @@
     {
         "id": "425909",
         "titulo": "Ghostbusters: El Legado",
-        "genero": [
-            "Fantasía",
-            "Comedia",
-            "Aventura",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "Apple TV",
         "sinopsis": "Cuando una madre soltera y dos niños llegan a un pequeño pueblo, ellos comienzan a descubrir la conexión entre los cazafantasmas originales y el legado secreto que dejó su abuelo.",
         "puntuacion": 7.3,
@@ -722,10 +535,7 @@
     {
         "id": "8913",
         "titulo": "Cementerio de mascotas",
-        "genero": [
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Apple TV",
         "sinopsis": "Louis Creed, su esposa y sus dos niños se instalan en una vivienda próxima a una carretera con mucho tráfico. Cerca de la casa hay un sendero que lleva a un cementerio de animales y también a un antiguo cementerio indio; según la leyenda, los que sean enterrados allí volverán a la vida. Cuando uno de los niños muere atropellado por un camión, Louis decide enterrarlo en el cementerio indio.",
         "puntuacion": 6.6,
@@ -738,10 +548,7 @@
     {
         "id": "1026659",
         "titulo": "Chicas Malasaña en tierras gallegas",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 0.0,
@@ -754,13 +561,7 @@
     {
         "id": "520758",
         "titulo": "Pollitos en fuga: El origen de los nuggets",
-        "genero": [
-            "Familia",
-            "Animación",
-            "Aventura",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Netflix",
         "sinopsis": "Una intrépida banda de pollos sale aleteando al rescate de su especie cuando surge una nueva amenaza en una granja cercana, donde se están cocinando negocios turbios.",
         "puntuacion": 6.9,
@@ -773,14 +574,7 @@
     {
         "id": "420821",
         "titulo": "Chip y Dale: Al rescate",
-        "genero": [
-            "Animación",
-            "Familia",
-            "Comedia",
-            "Aventura",
-            "Misterio",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Disney+",
         "sinopsis": "Treinta años después de sus aventuras originales, Chip y Chop viven en Los Ángeles entre dibujos animados y humanos. Chip lleva una vida rutinaria y hogareña como vendedor de seguros, mientras que Chop se ha hecho la cirugía 3D y se dedica a explotar la nostalgia de convención en convención, desesperado por revivir sus días de gloria. Cuando un antiguo compañero de reparto desaparece misteriosamente, Chip y Chop se ven obligados a recuperar la amistad perdida y a hacer de detectives una vez más como Guardianes Rescatadores para salvar a su amigo.",
         "puntuacion": 7.0,
@@ -793,13 +587,7 @@
     {
         "id": "585245",
         "titulo": "Clifford: El Gran Perro Rojo",
-        "genero": [
-            "Familia",
-            "Aventura",
-            "Comedia",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Netflix",
         "sinopsis": "Cuando Emily Elizabeth conoce a un rescatador mágico de animales que le regala un pequeño cachorro rojo, nunca se hubiera imaginado que al despertarse se encontraría un sabueso gigante de tres metros en su pequeño apartamento de Nueva York. Mientras su madre soltera se encuentra de viaje de negocios, Emily y su divertido pero impulsivo tío Casey se embarcan en una gran aventura.",
         "puntuacion": 7.2,
@@ -812,12 +600,7 @@
     {
         "id": "932420",
         "titulo": "Código 8: Renegados (Parte II)",
-        "genero": [
-            "Ciencia Ficción",
-            "Acción",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Netflix",
         "sinopsis": "Una chica que lucha por buscar justicia para su hermano asesinado por policías corruptos. Ella solicita la ayuda de un ex convicto y su ex pareja, pero deben enfrentar a un sargento de policía muy respetado y bien protegido.",
         "puntuacion": 6.4,
@@ -830,13 +613,7 @@
     {
         "id": "9972",
         "titulo": "Condena brutal",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Drama",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "TAD Origins",
         "sinopsis": "Frank Leone está a punto de cumplir su condena de reclusión por un delito menor. Sin embargo a punto de ser liberado, Warden Drumgoole se hace cargo de la prisión. Drumgoole fue reasignado a tan infernal presidio después de que su administración fuera públicamente puesta en entredicho por Leone, y ahora él se encargará de que nunca vuelva a ver la luz del día.",
         "puntuacion": 6.8,
@@ -849,11 +626,7 @@
     {
         "id": "312221",
         "titulo": "Creed. Corazón de campeón",
-        "genero": [
-            "Drama",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Adonis Johnson nunca conoció a su padre famoso, el campeón mundial de peso pesado Apollo Creed, quien murió antes de que él naciera. Sin embargo, no se puede negar que el boxeo corre por sus venas; así que Adonis se dirige a Filadelfia, el lugar de la legendaria pelea donde Apollo Creed enfrentó a un rudo advenedizo llamado Rocky Balboa. Una vez en la Ciudad del Amor Fraternal, Adonis rastrea a Rocky y le pide que sea su entrenador.",
         "puntuacion": 7.4,
@@ -866,11 +639,7 @@
     {
         "id": "677179",
         "titulo": "Creed III",
-        "genero": [
-            "Drama",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo de juventud, Damián, acaba de salir de la cárcel y desea demostrar todo lo que ha aprendido de boxeo estos años. Por ello, querrá enfrentarse en el cuadrilátero con su antiguo amigo.  Adonis Creed tendrá que enfrentarse a este adversario, que no solo quiere quitarle su título de boxeador, sino que desea acabar con él.",
         "puntuacion": 7.1,
@@ -883,11 +652,7 @@
     {
         "id": "1213997",
         "titulo": "Criptoestafas",
-        "genero": [
-            "Documental",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "Un documental sobre tres hombres que aprovecharon el caótico criptomercado para estafar a los inversionistas y darse la gran vida con sus millones.",
         "puntuacion": 6.4,
@@ -900,13 +665,7 @@
     {
         "id": "1233199",
         "titulo": "Crónicas de Exorcismo: El Comienzo",
-        "genero": [
-            "Animación",
-            "Fantasía",
-            "Terror",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Amazon Prime",
         "sinopsis": "El padre Park es un médico convertido en sacerdote que fue excomulgado por realizar exorcismos para una iglesia que negaba la existencia de males sobrenaturales. Cuando su viejo amigo, un monje de un templo secreto y lleno de magia, lo llama para proteger a un niño ingenuo, pero poderoso, de su malvado maestro, el padre Park deberá enfrentarse a su pasado.",
         "puntuacion": 6.0,
@@ -919,13 +678,7 @@
     {
         "id": "654028",
         "titulo": "Las Crónicas de Navidad 2",
-        "genero": [
-            "Familia",
-            "Fantasía",
-            "Aventura",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Netflix",
         "sinopsis": "Kate Pierce (Darby Camp), que ahora es una cínica adolescente, se reúne inesperadamente con Santa Claus (Kurt Russell) cuando un misterioso malhechor amenaza con destruir la Navidad para siempre.",
         "puntuacion": 6.5,
@@ -938,12 +691,7 @@
     {
         "id": "337404",
         "titulo": "Cruella",
-        "genero": [
-            "Comedia",
-            "Crimen",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Disney+",
         "sinopsis": "\"Cruella\" se sumerge en la juventud rebelde de uno de los villanos más conocidos -y más de moda-, nada menos que la legendaria Cruella de Vil. Emma Stone encarna a Estella, alias Cruella, junto a Emma Thompson como la Baronesa, la directora de una prestigiosa firma de moda que convierte a Estella en una incipiente diseñadora. La cinta está ambientada en el contexto del punk-rock londinense de los 70.",
         "puntuacion": 8.0,
@@ -956,10 +704,7 @@
     {
         "id": "1114901",
         "titulo": "Cuiden a Maya",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "En este documental, una angustiada pareja de Florida lucha contra las autoridades por la custodia de su hija enferma tras ser acusados de maltrato infantil.",
         "puntuacion": 7.7,
@@ -972,12 +717,7 @@
     {
         "id": "763215",
         "titulo": "Damsel",
-        "genero": [
-            "Fantasía",
-            "Acción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "Netflix",
         "sinopsis": "Una damisela se casa con un encantador príncipe, pero el matrimonio se convierte en una odisea por la supervivencia cuando la entregan como ofrenda a un feroz dragón.",
         "puntuacion": 7.0,
@@ -990,12 +730,7 @@
     {
         "id": "533535",
         "titulo": "Deadpool & Wolverine",
-        "genero": [
-            "Acción",
-            "Comedia",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Disney+",
         "sinopsis": "Un Wade Wilson apático se esfuerza en la vida civil. Sus días como el mercenario moralmente flexible Deadpool quedaron atrás. Cuando su mundo natal se enfrenta a una amenaza existencial, Wade debe, a regañadientes, volver a la acción junto a un reacio Wolverine.",
         "puntuacion": 7.6,
@@ -1008,12 +743,7 @@
     {
         "id": "726209",
         "titulo": "Dejar el mundo atrás",
-        "genero": [
-            "Drama",
-            "Misterio",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Netflix",
         "sinopsis": "La escapada de una familia a una lujosa casa de alquiler da un giro siniestro cuando un ciberataque los deja incomunicados... y dos extraños llaman a la puerta.",
         "puntuacion": 6.4,
@@ -1026,12 +756,7 @@
     {
         "id": "1242434",
         "titulo": "Del cielo al infierno",
-        "genero": [
-            "Suspenso",
-            "Crimen",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Apple TV",
         "sinopsis": "Cuando un poderoso productor musical es víctima de una extorsión, debe luchar por su familia y su legado mientras enfrenta un dilema moral de vida o muerte.",
         "puntuacion": 5.5,
@@ -1044,11 +769,7 @@
     {
         "id": "890771",
         "titulo": "Demonio negro",
-        "genero": [
-            "Suspenso",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Amazon Prime",
         "sinopsis": "Josh Lucas (Ford v Ferrari) protagoniza este intenso thriller de acción en el que unas vacaciones familiares se convierten en una lucha por la supervivencia contra un tiburón megalodón que ve a los humanos como una amenaza para su territorio. ¿Podrán salir con vida antes de que el tiburón vuelva a atacar?",
         "puntuacion": 5.9,
@@ -1061,10 +782,7 @@
     {
         "id": "704673",
         "titulo": "Detonantes",
-        "genero": [
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Parker, comandante de las Fuerzas Especiales, está en servicio activo en el extranjero cuando la llaman para que regrese a su ciudad natal con la trágica noticia de que su padre ha muerto repentinamente. Convertida en la dueña del bar familiar, Parker se reencuentra con su antiguo novio, el ahora sheriff Jesse, el temperamental hermano de este, Elvis, y el poderoso padre de ambos, el senador Swann, mientras intenta comprender qué le ocurrió realmente a su padre.",
         "puntuacion": 5.7,
@@ -1077,11 +795,7 @@
     {
         "id": "1379963",
         "titulo": "Dímelo bajito",
-        "genero": [
-            "Romance",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Romance",
         "plataforma": "Amazon Prime",
         "sinopsis": "Kamila Hamilton lo tenía todo bajo control... o eso pensaba: no estaba en sus planes que los hermanos Di Bianco volvieran de nuevo a darle la vuelta a su mundo. Hace 7 años Thiago fue el que le dio su primer beso. Y Taylor, el que siempre la protegió. El inesperado regreso de los hermanos sume la aparentemente perfecta vida de Kami en el caos. Ya no es la niña inocente que ellos conocían: desde que se fueron, parece que nadie puede realmente acceder a ella. Nadie excepto ellos. ¿Podrá Kami resistirse a la simple presencia de Thiago? ¿Qué pasará cuando Taylor empiece a mirarla de manera diferente? ¿Explotará todo en mil pedazos una vez más?",
         "puntuacion": 6.2,
@@ -1094,12 +808,7 @@
     {
         "id": "453395",
         "titulo": "Doctor Strange en el multiverso de la locura",
-        "genero": [
-            "Fantasía",
-            "Acción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "Disney+",
         "sinopsis": "Doctor Strange, además de recibir ayuda de aliados místicos nuevos y otros ya conocidos, atraviesa las alucinantes y peligrosas realidades alternativas del Multiverso para enfrentarse a un nuevo y misterioso adversario.",
         "puntuacion": 7.2,
@@ -1112,11 +821,7 @@
     {
         "id": "626735",
         "titulo": "Dog: Un viaje salvaje",
-        "genero": [
-            "Drama",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un miembro del Ejército, junto a una perra llamada Lulu, recorre la costa del Pacífico para llegar al funeral de un amigo. En el camino, él y Lulu, rompen un montón de leyes y ponen en peligro sus vidas.",
         "puntuacion": 7.3,
@@ -1129,10 +834,7 @@
     {
         "id": "1145768",
         "titulo": "Royal Opera House 2023/24: Don Quixote",
-        "genero": [
-            "Música",
-            "Estrenos"
-        ],
+        "genero": "Música",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 0.0,
@@ -1145,11 +847,7 @@
     {
         "id": "693134",
         "titulo": "Duna: Parte dos",
-        "genero": [
-            "Ciencia Ficción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Netflix",
         "sinopsis": "Sigue la mítica jornada de Paul Atreides mientras se une con Chani y los Fremen en su camino hacia la venganza contra los conspiradores que destruyeron a su familia. Enfrentado a una elección entre el amor de su vida y el destino del universo conocido, Paul se esfuerza por prevenir un terrible futuro que solo él puede prever.",
         "puntuacion": 8.1,
@@ -1162,12 +860,7 @@
     {
         "id": "493529",
         "titulo": "Calabozos & Dragones: Honor entre ladrones",
-        "genero": [
-            "Aventura",
-            "Fantasía",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Aventura",
         "plataforma": "Apple TV",
         "sinopsis": "Un ladrón encantador y una banda de aventureros inverosímiles emprenden un atraco épico para recuperar una reliquia perdida, pero las cosas salen peligrosamente mal cuando se topan con las personas equivocadas.",
         "puntuacion": 7.3,
@@ -1180,11 +873,7 @@
     {
         "id": "814338",
         "titulo": "El amante de Lady Chatterley (Lady Chatterley’s Lover)",
-        "genero": [
-            "Drama",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Netflix",
         "sinopsis": "Adaptación de la novela de D.H. Lawrence sobre una mujer que rompe con las formas y tradiciones de su tiempo cuando se desenamora de su marido y comienza una tórrida aventura con un hombre que trabaja en su finca inglesa.",
         "puntuacion": 6.7,
@@ -1197,11 +886,7 @@
     {
         "id": "810171",
         "titulo": "El Valet",
-        "genero": [
-            "Comedia",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Olivia, una estrella de cine mundialmente famosa, se enfrenta a un desastre de relaciones públicas cuando un paparazzi toma una foto de ella con su amante casado, Vincent. El valet Antonio aparece accidentalmente en la misma foto y es reclutado para hacerse pasar por el nuevo novio de Olivia para encubrirlo todo. Esta artimaña con Olivia empuja a Antonio al centro de atención y a un caos inesperado.",
         "puntuacion": 7.5,
@@ -1214,11 +899,7 @@
     {
         "id": "303420",
         "titulo": "El arca de Noé",
-        "genero": [
-            "Ciencia Ficción",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 3.8,
@@ -1231,11 +912,7 @@
     {
         "id": "958006",
         "titulo": "El arte de matar",
-        "genero": [
-            "Comedia",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Apple TV",
         "sinopsis": "Patrice es la propietaria de una galería de arte en apuros económicos que se ve obligada a blanquear dinero para Gordon y el jefe del crimen local llamado Andrei. Para ello, vende obras de arte hechas por Reggie, un asesino a sueldo, cuya fama como artista se encarga de crear ella misma. Mientras la intriga en la comunidad artística crece sobre este misterioso artista, Reggie quiere dejar su vida criminal, por lo que llega a un acuerdo con Gordon: Debe realizar un último asesinato para él.",
         "puntuacion": 6.0,
@@ -1248,13 +925,7 @@
     {
         "id": "459151",
         "titulo": "Un Jefe en Pañales 2: Negocios de Familia",
-        "genero": [
-            "Animación",
-            "Comedia",
-            "Aventura",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Apple TV",
         "sinopsis": "Los hermanos Templeton se han convertido en adultos y se han alejado el uno del otro, pero un nuevo jefe bebé con un enfoque de vanguardia está a punto de unirlos nuevamente e inspirar un nuevo negocio familiar.",
         "puntuacion": 7.3,
@@ -1267,10 +938,7 @@
     {
         "id": "607781",
         "titulo": "El bizcocho del Panadero",
-        "genero": [
-            "Otros",
-            "Estrenos"
-        ],
+        "genero": "Otros",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 3.4,
@@ -1283,11 +951,7 @@
     {
         "id": "1118595",
         "titulo": "El bufón",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un ser malévolo conocido como The Jester aterroriza a los habitantes de un pequeño pueblo en la noche de Halloween, incluidas dos hermanas separadas que deben unirse para encontrar una manera de derrotar a esta entidad malvada.",
         "puntuacion": 6.2,
@@ -1300,12 +964,7 @@
     {
         "id": "615666",
         "titulo": "El chico que salvó la Navidad",
-        "genero": [
-            "Familia",
-            "Aventura",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Netflix",
         "sinopsis": "Un chico normal llamado Nikolas se embarca en una extraordinaria aventura por el nevado norte en busca de su padre, que se halla en una misión para descubrir el legendario pueblo de los elfos, Elfhem. Junto a un testarudo reno llamado Blitzen y un leal ratón mascota, Nikolas pronto encuentra su destino en esta historia mágica que demuestra que nada es imposible.",
         "puntuacion": 7.3,
@@ -1318,14 +977,7 @@
     {
         "id": "508883",
         "titulo": "El niño y la garza",
-        "genero": [
-            "Animación",
-            "Aventura",
-            "Fantasía",
-            "Drama",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Netflix",
         "sinopsis": "Mientras la Segunda Guerra Mundial hace estragos, el adolescente Mahito, atormentado por la trágica muerte de su madre, es trasladado de Tokio a la serena casa rural de su nueva madrastra Natsuko, una mujer que tiene un sorprendente parecido con la madre del niño. Mientras intenta adaptarse, este nuevo y extraño mundo se vuelve aún más extraño tras la aparición de una persistente garza real, que deja perplejo y atormenta a Mahito, llamándolo \"el tan esperado\".",
         "puntuacion": 7.4,
@@ -1338,14 +990,7 @@
     {
         "id": "791155",
         "titulo": "El cuartel secreto",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Comedia",
-            "Ciencia Ficción",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Apple TV",
         "sinopsis": "El joven Charlie Kincaid descubre la sede secreta del superhéroe más poderoso del mundo escondida debajo de su casa. Tras compartirlo con sus amigos, comienzan a pensar que el distanciado padre de Charlie podría tener una doble vida secreta.",
         "puntuacion": 6.4,
@@ -1358,12 +1003,7 @@
     {
         "id": "1116465",
         "titulo": "El descubridor de leyendas",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un arqueólogo notó que la textura de las reliquias descubiertas durante la excavación de un glaciar se parecía mucho a un colgante de jade visto en uno de sus sueños. Luego, él y su equipo se embarcan en una expedición a las profundidades del glaciar.",
         "puntuacion": 6.9,
@@ -1376,12 +1016,7 @@
     {
         "id": "736918",
         "titulo": "El diario de Noel",
-        "genero": [
-            "Romance",
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Romance",
         "plataforma": "Netflix",
         "sinopsis": "Mientras limpia la casa de su infancia en Navidad, un novelista conoce a una mujer que busca a su madre biológica. ¿Podrá un diario abrir la puertas del pasado y de sus corazones?",
         "puntuacion": 6.3,
@@ -1394,12 +1029,7 @@
     {
         "id": "296241",
         "titulo": "Homecoming",
-        "genero": [
-            "Suspenso",
-            "Terror",
-            "Película de TV",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 5.8,
@@ -1412,12 +1042,7 @@
     {
         "id": "436969",
         "titulo": "El Escuadrón Suicida",
-        "genero": [
-            "Acción",
-            "Comedia",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "HBO Max",
         "sinopsis": "Los supervillanos Harley Quinn, Bloodsport, Peacemaker y una colección de convictos desquiciados de la prisión de Belle Reve se unen a la super-secreta y super-oscura Fuerza Especial X mientras son arrojados a la remota isla de Corto Maltese, infestada de enemigos.",
         "puntuacion": 7.5,
@@ -1430,12 +1055,7 @@
     {
         "id": "982843",
         "titulo": "El gran diluvio",
-        "genero": [
-            "Ciencia Ficción",
-            "Aventura",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Netflix",
         "sinopsis": "En el que podría ser el último día en la Tierra, una lucha de vida o muerte en un apartamento inundado pronto se convierte en la única esperanza de supervivencia de la humanidad.",
         "puntuacion": 6.0,
@@ -1448,12 +1068,7 @@
     {
         "id": "648579",
         "titulo": "El peso del talento",
-        "genero": [
-            "Acción",
-            "Comedia",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Insatisfecho creativamente y en deudas de dinero, Nicolas Cage se ve forzado a aceptar 1 millón de dólares a cambio de asistir a la fiesta de cumpleaños de un obsesivo fanático: Javi. Las cosas cambian inesperadamente cuando Nicolas Cage es reclutado por la CIA para ayudar a atrapar a Javi, quien no es lo que parece, obligándolo a reencarnar sus personajes más icónicos y amados, con tal de salvarse a sí mismo y a los suyos de este complicado enredo.",
         "puntuacion": 6.8,
@@ -1466,11 +1081,7 @@
     {
         "id": "177140",
         "titulo": "El Justiciero",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 0.0,
@@ -1483,13 +1094,7 @@
     {
         "id": "1128650",
         "titulo": "El Fiscal",
-        "genero": [
-            "Acción",
-            "Drama",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "La trama sigue a un joven, Ma Ka-kit, que es injustamente acusado de tráfico de drogas después de alquilar su dirección para ganar dinero extra. Un fiscal, Fok, con fuertes convicciones, investiga el caso a pesar de las dudas y la oposición, descubriendo una trama de corrupción que involucra a un sindicato del crimen y a un abogado corrupto. Fok se ve obligado a arriesgar su carrera y su vida para destapar la verdad y llevar a los verdaderos culpables ante la justicia.",
         "puntuacion": 6.9,
@@ -1502,12 +1107,7 @@
     {
         "id": "517320",
         "titulo": "El pacto",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Apple TV",
         "sinopsis": "Mónica ve cómo, de repente, Clara, su hija, entra en un coma profundo e inexplicable. Cuando los médicos la dan por muerta, un desconocido le propone un pacto: él salvará a Clara pero, a cambio, Mónica deberá entregarle una vida. Mónica acepta y, contra todo pronóstico, su hija se salva. Ahora ella deberá entregarle otra vida a cambio.",
         "puntuacion": 6.0,
@@ -1520,11 +1120,7 @@
     {
         "id": "11846",
         "titulo": "El Padre De La Novia",
-        "genero": [
-            "Comedia",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "George Banks, un hombre maduro pero de espíritu joven, no acaba de aceptar que su hija de 22 años, para él todavía una niña, se vaya a casar. Aunque todos creen que el novio es un chico estupendo, precisamente esto lo convierte en enemigo de su futuro suegro, que tiene miedo a perder a su hija para siempre. A eso habría que añadir el disparatado coste de la boda.",
         "puntuacion": 6.5,
@@ -1537,11 +1133,7 @@
     {
         "id": "1088096",
         "titulo": "El Padre Del Año",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Amazon Prime",
         "sinopsis": "La vida de Andy Goodrich (Michael Keaton) da un vuelco cuando su mujer ingresa en un centro de rehabilitación, dejándolo al cargo de sus hijos gemelos de 9 años. Sobrepasado por sus nuevas responsabilidades, Goodrich acudirá a su hija mayor (Mila Kunis) para que le ayude a convertirse en el padre que ella jamás tuvo.",
         "puntuacion": 6.5,
@@ -1554,11 +1146,7 @@
     {
         "id": "1088096",
         "titulo": "El Padre Del Año",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Amazon Prime",
         "sinopsis": "La vida de Andy Goodrich (Michael Keaton) da un vuelco cuando su mujer ingresa en un centro de rehabilitación, dejándolo al cargo de sus hijos gemelos de 9 años. Sobrepasado por sus nuevas responsabilidades, Goodrich acudirá a su hija mayor (Mila Kunis) para que le ayude a convertirse en el padre que ella jamás tuvo.",
         "puntuacion": 6.5,
@@ -1571,11 +1159,7 @@
     {
         "id": "1239146",
         "titulo": "El Pájaro Loco se va de campamento",
-        "genero": [
-            "Familia",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Netflix",
         "sinopsis": "Tras ser echado del bosque, el Pájaro Loco encuentra un maravilloso hogar: el Campamento Woo Hoo. Pero la alegría se acaba cuando un inspector amenaza con clausurarlo...",
         "puntuacion": 6.4,
@@ -1588,11 +1172,7 @@
     {
         "id": "937278",
         "titulo": "Un Vecino Gruñón",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Otto es un gruñón que ha renunciado a la vida tras la pérdida de su esposa y quiere acabar con todo. Cuando una familia joven se muda cerca, conoce a su pareja en la ingeniosa Marisol, lo que lleva a una amistad que cambiará su mundo.",
         "puntuacion": 7.8,
@@ -1605,10 +1185,7 @@
     {
         "id": "813",
         "titulo": "Y, ¿dónde está el piloto?",
-        "genero": [
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Apple TV",
         "sinopsis": "El vuelo 209 de la Trans American sale de Los Ángeles con destino a Chicago. Entre el pasaje se encuentran una serie de curiosos personajes. Entre ellos, un ex-piloto de combate que, en pleno vuelo, se verá obligado a hacerse con el mando del avión comercial, tras quedar los pilotos indispuestos por una comida en mal estado.",
         "puntuacion": 7.3,
@@ -1621,12 +1198,7 @@
     {
         "id": "400650",
         "titulo": "El Regreso De Mary Poppins",
-        "genero": [
-            "Fantasía",
-            "Familia",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "Disney+",
         "sinopsis": "Mary Poppins es la niñera casi perfecta, con unas extraordinarias habilidades mágicas para convertir una tarea rutinaria en una aventura inolvidable y fantástica. Esta nueva secuela, vuelve para ayudar a la siguiente generación de la familia Banks a encontrar la alegría y la magia que faltan en sus vidas después de una trágica pérdida personal. La niñera viene acompañada de su amigo Jack, un optimista farolero que ayuda a llevar la luz -y la vida- a las calles de Londres.",
         "puntuacion": 6.5,
@@ -1639,12 +1211,7 @@
     {
         "id": "653346",
         "titulo": "El planeta de los simios: Nuevo reino",
-        "genero": [
-            "Ciencia Ficción",
-            "Aventura",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Disney+",
         "sinopsis": "300 años después del reinado de César, un nuevo líder tiránico construye su imperio esclavizando a otros clanes de primates, un joven simio llamado Noa emprende un viaje desgarrador que lo hará cuestionar todo lo que sabía sobre el pasado y tomar decisiones que definirán el futuro tanto de simios como humanos.",
         "puntuacion": 7.1,
@@ -1657,11 +1224,7 @@
     {
         "id": "921655",
         "titulo": "El rescate de Ruby",
-        "genero": [
-            "Familia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Netflix",
         "sinopsis": "Para alcanzar su sueño de sumarse a una unidad canina de élite, un policía forma equipo con una lista pero traviesa cachorra llamada Ruby. Basada en una historia real.",
         "puntuacion": 7.5,
@@ -1674,11 +1237,7 @@
     {
         "id": "1340571",
         "titulo": "El señor de los lobos",
-        "genero": [
-            "Terror",
-            "Misterio",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "TAD Origins",
         "sinopsis": "Cuando su compañero de piso muere en circunstancias misteriosas, Nic Cross hereda un misterioso artilugio en forma de pirámide que dejaron en el lugar de los hechos, invocando sin saberlo a un culto de gente lobo que habita en los oscuros bajos fondos de Londres. Cuando el camino de Nic se cruza con el de tres extraños problemáticos, deben unirse para derrotar al Señor de los Lobos, antes de que se transformen en una de sus bestiales manadas.",
         "puntuacion": 0.0,
@@ -1691,11 +1250,7 @@
     {
         "id": "1003871",
         "titulo": "El Sexto Bus",
-        "genero": [
-            "Bélica",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Bélica",
         "plataforma": "Amazon Prime",
         "sinopsis": "Una joven estadounidense está tratando de encontrar a un hombre de su pasado, pero nunca lo encuentra, durante el conflicto más grande en suelo europeo desde la Segunda Guerra Mundial: la batalla de Vukovar. Es una búsqueda de identidad y verdad en un lugar donde la verdad es selectiva, elusiva e incluso temida.",
         "puntuacion": 6.0,
@@ -1708,11 +1263,7 @@
     {
         "id": "704239",
         "titulo": "El Sindicato",
-        "genero": [
-            "Acción",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Un trabajador de la construcción pasa de ser un tipo común y corriente a ser un espía en ciernes cuando su amor de la escuela lo recluta para una misión de espionaje.",
         "puntuacion": 6.1,
@@ -1725,12 +1276,7 @@
     {
         "id": "4108",
         "titulo": "El Transportador",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Disney+",
         "sinopsis": "El ex operador de Fuerzas Especiales Frank Martin vive lo que parece ser una vida tranquila a orillas del Mediterráneo francés, donde presta sus servicios como un “transportador”, un mercenario que traslada bienes —humanos o de cualquier tipo— de un lugar a otro. Siempre sin preguntas de por medio. Frank, que en su BMW equipado lleva a cabo misiones secretas y a veces peligrosas, se apega a un estricto juego de 3 reglas que nunca rompe. Regla número uno: Nunca modifiques el trato. Dos: Omitir nombres, Frank no quiere saber para quién trabaja o qué es lo que transporta. Tres: Nunca ver qué hay dentro del paquete. La carga más reciente de Frank aparenta ser igual a los incontables paquetes que ha entregado en el pasado. Ha sido contratado por un norteamericano conocido solamente como “Wall Street” para que lleve a cabo una entrega. Pero cuando Frank se detiene en el trayecto, se percata que su “paquete” se mueve...",
         "puntuacion": 6.7,
@@ -1743,11 +1289,7 @@
     {
         "id": "1115623",
         "titulo": "Su último combate",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un último kumite, una batalla final - por la vida de su hija.",
         "puntuacion": 6.8,
@@ -1760,12 +1302,7 @@
     {
         "id": "617653",
         "titulo": "El Último Duelo",
-        "genero": [
-            "Historia",
-            "Drama",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Historia",
         "plataforma": "Disney+",
         "sinopsis": "Ambientada en Francia, en 1386, cuenta el enfrentamiento entre el caballero Jean de Carrouges y el escudero Jacques LeGris , al acusar el primero al segundo de abusar de su esposa, Marguerite de Carrouges. El Rey Carlos VI decide que la mejor forma de solucionar el conflicto es un duelo a muerte. El que venza será el ganador, sin embargo, si lo hace el escudero, la esposa del caballero será quemada como castigo por falsas acusaciones.",
         "puntuacion": 7.4,
@@ -1778,14 +1315,7 @@
     {
         "id": "976573",
         "titulo": "Elementos",
-        "genero": [
-            "Familia",
-            "Fantasía",
-            "Comedia",
-            "Romance",
-            "Animación",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Disney+",
         "sinopsis": "En una ciudad en la que conviven el fuego, el agua, la tierra y el aire, una joven llena de fuego y un tipo que fluye descubrirán lo mucho que tienen en común.",
         "puntuacion": 7.6,
@@ -1798,10 +1328,7 @@
     {
         "id": "1192578",
         "titulo": "Elijo Creer: El Camino del Campeón",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "HBO Max",
         "sinopsis": "Con un emotivo relato de Ricardo Darín, este documental narra el camino a la victoria de \"La Scaloneta\", la selección argentina de fútbol que, acompañada por las cábalas y la fe de un país entero, pudo alzar la Copa del Mundo de Qatar 2022.",
         "puntuacion": 7.6,
@@ -1814,11 +1341,7 @@
     {
         "id": "974950",
         "titulo": "Emilia Pérez",
-        "genero": [
-            "Drama",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Amazon Prime",
         "sinopsis": "Sobrecalificada e infravalorada, Rita es una abogada de un gran bufete que un día recibe una oferta inesperada: ayudar al temido jefe de un cartel a retirarse de su negocio y desaparecer para siempre convirtiéndose en la mujer que él siempre ha soñado ser.",
         "puntuacion": 6.5,
@@ -1831,12 +1354,7 @@
     {
         "id": "1151272",
         "titulo": "Sirat: Trance en el desierto",
-        "genero": [
-            "Drama",
-            "Suspenso",
-            "Música",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "TAD Origins",
         "sinopsis": "Un hombre y su hijo que llegan a una rave perdidos en medio de lo que se describen como las áridas y fantasmagóricas montañas del sur de Marruecos.",
         "puntuacion": 6.9,
@@ -1849,11 +1367,7 @@
     {
         "id": "1001311",
         "titulo": "En las profundidades del Sena",
-        "genero": [
-            "Acción",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Cuando un enorme tiburón aparece en el Sena, una científica en duelo debe enfrentar su trágico pasado y evitar una masacre internacional en París.",
         "puntuacion": 5.9,
@@ -1866,12 +1380,7 @@
     {
         "id": "1129508",
         "titulo": "Escapando de Alemania",
-        "genero": [
-            "Historia",
-            "Drama",
-            "Bélica",
-            "Estrenos"
-        ],
+        "genero": "Historia",
         "plataforma": "Amazon Prime",
         "sinopsis": "En 1939, el ejército de Hitler estaba cerrando fronteras, y ochenta y cinco misioneros estadounidenses se encontraban en Alemania sirviendo a su iglesia. La huida de estos misioneros de la Alemania nazi es uno de los acontecimientos más dramáticos ocurridos en la historia moderna de la iglesia.",
         "puntuacion": 6.0,
@@ -1884,12 +1393,7 @@
     {
         "id": "585216",
         "titulo": "Escape Room 2: Torneo De Campeones",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Misterio",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Apple TV",
         "sinopsis": "Seis personas, sin saberlo, se encuentran encerradas en otra serie de salas de escape, descubriendo lentamente lo que tienen en común para sobrevivir.",
         "puntuacion": 6.5,
@@ -1902,10 +1406,7 @@
     {
         "id": "1059673",
         "titulo": "Avatar: En las profundidades del agua (Un especial de 20/20)",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Disney+",
         "sinopsis": "Un vistazo a una de las secuelas más esperadas de la historia del cine con el director ganador del Oscar® James Cameron y el reparto.",
         "puntuacion": 7.2,
@@ -1918,12 +1419,7 @@
     {
         "id": "23703",
         "titulo": "The Thing About My Folks",
-        "genero": [
-            "Familia",
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 6.3,
@@ -1936,12 +1432,7 @@
     {
         "id": "798021",
         "titulo": "Familia revuelta",
-        "genero": [
-            "Comedia",
-            "Fantasía",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Una familia se hunde en el caos cuando un suceso cósmico intercambia el cuerpo de los padres con los de sus hijos adolescentes poco antes de Navidad.",
         "puntuacion": 6.4,
@@ -1954,13 +1445,7 @@
     {
         "id": "13804",
         "titulo": "Rápidos y furiosos",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Drama",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "El fugitivo Dom Toretto (Vin Diesel) y el detective Brian O’Conner (Paul Walker) vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante.",
         "puntuacion": 6.7,
@@ -1973,12 +1458,7 @@
     {
         "id": "82992",
         "titulo": "Rápidos y furiosos 6",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Desde que Dom (Vin Diesel) y Brian (Paul Walker) le robaron a un mafioso cien millones de dólares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs (Dwayne Johnson) les ha seguido la pista en varios países a una banda de letales conductores mercenarios, cuyo cerebro (Luke Evans) cuenta con la inestimable ayuda de la sexy Letty (Michelle Rodriguez), una vieja novia de Dom, a la que éste daba por muerta. La única forma de detenerlos es enfrentarse a ellos en las calles; así que Hobbs le pide a Dom que reúna a su equipo en Londres.",
         "puntuacion": 6.8,
@@ -1991,12 +1471,7 @@
     {
         "id": "51497",
         "titulo": "Rápidos y Furiosos: 5in Control",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Dominic Toretto y su equipo de corredores callejeros planean un atraco masivo para comprar su libertad mientras están en la mira de un poderoso capo de la droga brasileño y un peligroso agente federal.",
         "puntuacion": 7.2,
@@ -2009,13 +1484,7 @@
     {
         "id": "870358",
         "titulo": "Un pequeño Batman Navideño",
-        "genero": [
-            "Animación",
-            "Acción",
-            "Familia",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Amazon Prime",
         "sinopsis": "Esta Navidad, Damian Wayne quiere ser un superhéroe como su papá, el único e inigualable Batman. Cuando Damian se queda solo en casa, mientras Batman se enfrenta a los peores supervillanos de Gótica durante la Nochebuena, se topa con un plan malvado para robarse la Navidad y aprovecha la oportunidad para salvar el día.",
         "puntuacion": 6.6,
@@ -2028,11 +1497,7 @@
     {
         "id": "365620",
         "titulo": "Ferrari",
-        "genero": [
-            "Historia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Historia",
         "plataforma": "Amazon Prime",
         "sinopsis": "Una película biográfica del magnate automovilístico Enzo Ferrari, cuya familia redefinió la idea del deportivo italiano de alta potencia y prácticamente generó el concepto de las carreras de Fórmula Uno.",
         "puntuacion": 6.4,
@@ -2045,11 +1510,7 @@
     {
         "id": "1155605",
         "titulo": "Fiesta en la madriguera",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "En esta comedia negra, un niño vive una vida de opulencia y gusto por la cultura, lo que contrasta con las oscuras actividades criminales de su padre.",
         "puntuacion": 6.7,
@@ -2062,12 +1523,7 @@
     {
         "id": "1062722",
         "titulo": "Frankenstein",
-        "genero": [
-            "Drama",
-            "Fantasía",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Netflix",
         "sinopsis": "El Dr. Victor Frankenstein, un científico brillante pero egoísta, da vida a una criatura en un monstruoso experimento que finalmente conduce a la ruina tanto del creador como de su trágica creación.",
         "puntuacion": 7.7,
@@ -2080,12 +1536,7 @@
     {
         "id": "550988",
         "titulo": "Free Guy: Tomando el Control",
-        "genero": [
-            "Comedia",
-            "Aventura",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Disney+",
         "sinopsis": "Un hombre descubre que en realidad es un personaje dentro de un videojuego. Guy (Ryan Reynolds) trabaja como cajero de un banco, es un tipo alegre y solitario al que nada la amarga el día. Incluso si le utilizan como rehén durante un atraco a su banco, él sigue sonriendo como si nada. Pero un día se da cuenta de que Free City no es exactamente la ciudad que él creía. Guy va a descubrir que en realidad es un personaje no jugable dentro de un brutal videojuego. Ahora que sabe que es un personaje de videojuego, Guy, acompañado por Molotov Girl (Jodie Comer), decidirá enfrentarse a todos los villanos que asolan la ciudad.",
         "puntuacion": 7.5,
@@ -2098,10 +1549,7 @@
     {
         "id": "949811",
         "titulo": "103 Gol",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 10.0,
@@ -2114,10 +1562,7 @@
     {
         "id": "9815",
         "titulo": "Gol 2",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "TAD Origins",
         "sinopsis": "Secuela de \"¡Goal!\". El Real Madrid se fija en Santiago Munez (Kuno Becker), el jugador favorito de la la afición del Newcastle. Mientras su prometida (Anna Friel) organiza la boda, él cumple el sueño de vestir la legendaria camiseta blanca junto a David Beckham, Zinedine Zidane y Raúl. Munez alcanza la gloria, pero, cuando la ambiciosa y hermosa Jordana, sedienta de fama, lo seduce, su vida está a punto de desmoronarse. Descubre entonces la cara más oscura del éxito que lo llevará a poner en peligro su carrera, sus amistades y su boda.",
         "puntuacion": 6.0,
@@ -2130,10 +1575,7 @@
     {
         "id": "19139",
         "titulo": "Gol 3",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "TAD Origins",
         "sinopsis": "Con la Copa del Mundo de Alemania 2006 como telón de fondo, este cierre de la saga se centra en dos jugadores que la disputan para Inglaterra: Liam Adams y su mejor amigo y compañero de equipo Charlie Braithwaite.",
         "puntuacion": 4.0,
@@ -2146,11 +1588,7 @@
     {
         "id": "1155690",
         "titulo": "Gump 2: Aventura por duplicado",
-        "genero": [
-            "Familia",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Amazon Prime",
         "sinopsis": "En busca de un nuevo dueño, el perro Gump se ve obligado a salir de casa. Durante su viaje, se reencuentra con su hermana y tendrá que usar todo su coraje e inteligencia para salvarla de terribles monstruos.",
         "puntuacion": 4.6,
@@ -2163,10 +1601,7 @@
     {
         "id": "839787",
         "titulo": "Háblame",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 2.0,
@@ -2179,12 +1614,7 @@
     {
         "id": "1426776",
         "titulo": "Harta",
-        "genero": [
-            "Suspenso",
-            "Drama",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Netflix",
         "sinopsis": "¿Cuál será la gota que colmará el vaso? Un día terriblemente malo lleva a una madre sola muy trabajadora al límite... y a cometer un sorprendente acto de desesperación.",
         "puntuacion": 7.8,
@@ -2197,12 +1627,7 @@
     {
         "id": "457332",
         "titulo": "Proyecto Extracción",
-        "genero": [
-            "Acción",
-            "Comedia",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Dos veteranos de guerra son asignados con la misión de escoltar a un grupo de civiles en la denominada \"autopista de la muerte\", en Baghdad, para que lleguen sanos y salvos a la \"Zona Verde\", el emplazamiento de seguridad de la zona.",
         "puntuacion": 6.9,
@@ -2215,10 +1640,7 @@
     {
         "id": "1187872",
         "titulo": "Higuita: El camino del Escorpión",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "De orígenes humildes a leyenda del fútbol, este documental retrata el ascenso del colombiano René Higuita a través de su icónica carrera... y sus controversias personales.",
         "puntuacion": 8.1,
@@ -2231,11 +1653,7 @@
     {
         "id": "1069905",
         "titulo": "Jay Kelly",
-        "genero": [
-            "Drama",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Netflix",
         "sinopsis": "En esta película del director nominado al Oscar® Noah Baumbach, la estrella de cine Jay Kelly enfrenta su pasado y su presente en un viaje por Europa acompañado de su fiel mánager.",
         "puntuacion": 6.1,
@@ -2248,12 +1666,7 @@
     {
         "id": "637649",
         "titulo": "Justicia Implacable",
-        "genero": [
-            "Suspenso",
-            "Crimen",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Amazon Prime",
         "sinopsis": "Después de una emboscada mortal en uno de sus autos blindados, la empresa LA-Fortico Securities contrata a un misterioso empleado conocido como “H”. Inicialmente parece ser un tipo tranquilo y de bajo perfil, pero cuando se convierte en el objetivo de un robo, se revelan sus formidables habilidades letales.",
         "puntuacion": 7.6,
@@ -2266,12 +1679,7 @@
     {
         "id": "604360",
         "titulo": "La 8ª Noche",
-        "genero": [
-            "Misterio",
-            "Suspenso",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Misterio",
         "plataforma": "Netflix",
         "sinopsis": "Con un rosario en una mano y un hacha en la otra, un monje que en el pasado fue exorcista, intenta dar caza a un espíritu milenario que está poseyendo a los humanos y desatando el infierno en la Tierra.",
         "puntuacion": 6.1,
@@ -2284,13 +1692,7 @@
     {
         "id": "948276",
         "titulo": "Bala Perdida 2",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Tras la muerte de Charras, Lino y Julia toman el relevo y forman la nueva unidad de estupefacientes. Decidido a encontrar a los asesinos de su hermano y de su mentor, Lino continúa su cacería y no deja que nadie se interponga en su camino.",
         "puntuacion": 6.5,
@@ -2303,10 +1705,7 @@
     {
         "id": "421609",
         "titulo": "La cocina",
-        "genero": [
-            "Otros",
-            "Estrenos"
-        ],
+        "genero": "Otros",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 0.0,
@@ -2319,11 +1718,7 @@
     {
         "id": "966382",
         "titulo": "La Dama del Silencio",
-        "genero": [
-            "Misterio",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Misterio",
         "plataforma": "TAD Origins",
         "sinopsis": "Una exluchadora profesional, popularmente conocida como “la mataviejitas” sale arbitrariamente de la cárcel después de cumplir una sentencia por múltiples asesinatos de personas de la tercera edad, sin embargo, su libertad tiene los días contados.",
         "puntuacion": 0.0,
@@ -2336,12 +1731,7 @@
     {
         "id": "779782",
         "titulo": "La Escuela del Bien y del Mal",
-        "genero": [
-            "Fantasía",
-            "Comedia",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Fantasía",
         "plataforma": "Netflix",
         "sinopsis": "El vínculo entre las mejores amigas Sophie y Agatha es puesto a prueba cuando son transportadas a una escuela mágica para futuros héroes y villanos de cuentos de hadas.",
         "puntuacion": 7.0,
@@ -2354,11 +1744,7 @@
     {
         "id": "926008",
         "titulo": "La fiebre de los peluches Beanie",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Apple TV",
         "sinopsis": "Ty era un vendedor de juguetes frustrado hasta que la colaboración de tres mujeres transformó sus animales de peluche en una moda que definió los noventa. Esta mirada a la tendencia más popular de juguetes es una emocionante historia sobre qué - y quién - tiene valor en este mundo.",
         "puntuacion": 6.4,
@@ -2371,12 +1757,7 @@
     {
         "id": "588228",
         "titulo": "La Guerra Del Mañana",
-        "genero": [
-            "Acción",
-            "Ciencia Ficción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Unos viajeros llegan desde el año 2051 para dar un mensaje: 30 años en el futuro, la humanidad estará perdiendo la guerra contra unos alienígenas. La única esperanza para sobrevivir es que los soldados y civiles vayan al futuro y se sumen a la batalla. Decidido a salvar el mundo por su hija, Dan Forester se une a una científica brillante y su distante padre para reescribir el destino del planeta.",
         "puntuacion": 7.5,
@@ -2389,10 +1770,7 @@
     {
         "id": "978090",
         "titulo": "La huelga de las camareras",
-        "genero": [
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Amazon Prime",
         "sinopsis": "Nada había preparado a Eva para las exigencias de un gran hotel. Cuando se incorpora al equipo de camareras de piso del suntuoso Hotel Palace de París, donde una noche equivale a su salario anual, conoce a compañeras de fuerte personalidad: Safietou, Aissata, Violette y Simone. Entre risas y dramas , la joven descubre un equipo muy unido frente a la adversidad. Cuando un movimiento social trastorna la vida en el hotel, cada una de estas \"manitas\" se enfrenta a sus propias decisiones",
         "puntuacion": 6.4,
@@ -2405,11 +1783,7 @@
     {
         "id": "774531",
         "titulo": "La joven y el mar",
-        "genero": [
-            "Historia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Historia",
         "plataforma": "Disney+",
         "sinopsis": "Esta es la extraordinaria historia verídica de Trudy Ederle, la primera mujer que cruzó a nado el canal de la Mancha. Gracias al apoyo inquebrantable de su hermana y sus entrenadores, venció los desafíos y la animadversión de una sociedad patriarcal como líder del equipo olímpico de natación y conisguió nadar los 34 kilómetros de Francia a Inglaterra.",
         "puntuacion": 7.9,
@@ -2422,11 +1796,7 @@
     {
         "id": "873967",
         "titulo": "La Trampa del Diablo",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Apple TV",
         "sinopsis": "En el hospital, Billy, ahora paralítico, sufre intensas pesadillas. Comparte habitación con el enigmático Sr. Cohen, que parece tener algo que ver con los macabros sucesos que empiezan a ocurrir.",
         "puntuacion": 7.3,
@@ -2439,11 +1809,7 @@
     {
         "id": "844069",
         "titulo": "La puerta al infierno: Guimoon",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "TAD Origins",
         "sinopsis": "Un célebre experto en fenómenos paranormales investiga una comunidad abandonada en la que se cometió una masacre en 1990. Acompañado por tres estudiantes universitarios, el grupo descubre un secreto aterrador.",
         "puntuacion": 6.7,
@@ -2456,11 +1822,7 @@
     {
         "id": "1330167",
         "titulo": "Lo Que Se Esconde Bajo el Agua",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Amazon Prime",
         "sinopsis": "La tripulación del USS Titan se encuentra al borde de la Tercera Guerra Mundial con Rusia cuando aparece una polizona desnuda en uno de sus tubos lanzatorpedos. El capitán Banks teme que se trate de una mujer rusa, pero es algo mucho más peligroso.",
         "puntuacion": 5.2,
@@ -2473,12 +1835,7 @@
     {
         "id": "49367",
         "titulo": "Los Dos Hijos de Francisco",
-        "genero": [
-            "Drama",
-            "Historia",
-            "Música",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Amazon Prime",
         "sinopsis": "La historia de Francisco, un hombre pobre y sencillo cuyo sueño es ver a sus hijos convertirse en estrellas de la música country, y que hace todo lo posible para que esto se haga realidad.",
         "puntuacion": 6.8,
@@ -2491,11 +1848,7 @@
     {
         "id": "695721",
         "titulo": "Los juegos del hambre: La balada de pájaros cantores y serpientes",
-        "genero": [
-            "Ciencia Ficción",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Apple TV",
         "sinopsis": "Años antes de convertirse en el tiránico Presidente de Panem, el Coriolanus Snow de 18 años es la última esperanza de su desvaneciente linaje, la una vez orgullosa familia que había caído en desgracia en un Capitolio post-guerra. Con los décimos Juegos del Hambre aproximándose rápidamente, el joven Snow se sorprende cuando es asignado como mentor de Lucy Gray Baird, la niña tributo del empobrecido Distrito 12. Pero luego de que Lucy Gray consigue toda la atención de Panem al cantar desafiante durante la ceremonia de la cosecha, Snow piensa que podría dar vuelta su suerte. Uniendo sus instintos de espectáculo y de encontrada astucia política, la carrera de Snow y Lucy Gray para sobrevivir revelerá quién es un pájaro cantor, y quién es una víbora.",
         "puntuacion": 7.0,
@@ -2508,12 +1861,7 @@
     {
         "id": "299054",
         "titulo": "Los indestructibles 4",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Armados con todas las armas que pueden conseguir y las habilidades para usarlas, Los Mercenarios son la última línea de defensa del mundo y el equipo al que se llama cuando todas las demás opciones están descartadas. Pero los nuevos miembros del equipo con nuevos estilos y tácticas le darán a “sangre nueva” un significado completamente nuevo.",
         "puntuacion": 6.1,
@@ -2526,10 +1874,7 @@
     {
         "id": "1569999",
         "titulo": "Los segundones",
-        "genero": [
-            "Otros",
-            "Estrenos"
-        ],
+        "genero": "Otros",
         "plataforma": "Amazon Prime",
         "sinopsis": "",
         "puntuacion": 0.0,
@@ -2542,14 +1887,7 @@
     {
         "id": "1175942",
         "titulo": "Los tipos malos 2",
-        "genero": [
-            "Familia",
-            "Comedia",
-            "Crimen",
-            "Aventura",
-            "Animación",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Claro Video",
         "sinopsis": "Un genial equipo de animales que no respetan la ley, los ahora muy reformados Tipos Malos, se esfuerzan (mucho, muchísimo) en ser buenos, pero se ven envueltos involuntariamente en un golpe de envergadura mundial planeado por un inesperado grupo de criminales: las Tipas Malas.",
         "puntuacion": 7.7,
@@ -2562,11 +1900,7 @@
     {
         "id": "1229958",
         "titulo": "Lover, Stalker, Killer",
-        "genero": [
-            "Documental",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "En este documental con giros inesperados, un mecánico se anima a incursionar en las citas en línea y conoce a una mujer que lleva una obsesión romántica a extremos mortales.",
         "puntuacion": 6.8,
@@ -2579,14 +1913,7 @@
     {
         "id": "12656",
         "titulo": "Luna sin miel",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Suspenso",
-            "Crimen",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "TAD Origins",
         "sinopsis": "Freddie fue una bailarina de strip-tease y ahora está a punto de casarse contra su voluntad con Sam para compensar una antigua deuda de Red, el propietario del nightclub. Pero Freddie está enamorada de Jjaks, el hermano de Red. Freddie y Jjaks entonces se fugan juntos, y Sam contrata a Ben Costikyan, un detective, para seguirles la pista y cobrarse venganza.",
         "puntuacion": 5.4,
@@ -2599,12 +1926,7 @@
     {
         "id": "10258",
         "titulo": "Pinguinos Mision Navideña",
-        "genero": [
-            "Animación",
-            "Comedia",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "HBO Max",
         "sinopsis": "El más joven de los pingüinos del equipo, Cabo, sale del zoológico en la víspera de Navidad para encontrar un regalo para el solitario oso polar del zoo. Mientras camina por las calles de Manhattan, Cabo es capturado por una anciana que lo confunde con un juguete masticable. Ese juguete era un regalo para su cruel perro, el Sr. Chew (El Sr. Mordidas en Latinoamérica). Los otros tres pingüinos, Skipper, Kowalski y Rico, salen a rescatar a Cabo del apartamento de la anciana antes de que sea demasiado tarde.",
         "puntuacion": 6.8,
@@ -2617,11 +1939,7 @@
     {
         "id": "634492",
         "titulo": "Madame Web",
-        "genero": [
-            "Acción",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Después de sobrevivir a un accidente, la paramédica Cassandra Webb comienza a desenvolver sus habilidades clarividentes. Obligada a enfrentar revelaciones sobre su pasado, forja una relación con tres mujeres jóvenes destinadas a futuros poderosos... si todas pueden sobrevivir a un presente mortal.",
         "puntuacion": 5.3,
@@ -2634,10 +1952,7 @@
     {
         "id": "1213317",
         "titulo": "Maligno",
-        "genero": [
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 0.0,
@@ -2650,12 +1965,7 @@
     {
         "id": "843942",
         "titulo": "Manódromo",
-        "genero": [
-            "Misterio",
-            "Suspenso",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Misterio",
         "plataforma": "Apple TV",
         "sinopsis": "Ralphie es un conductor de Uber y aspirante a culturista que es incluido en un culto libertario a la masculinidad y pierde el control de la realidad cuando se despiertan sus deseos reprimidos.",
         "puntuacion": 4.9,
@@ -2668,12 +1978,7 @@
     {
         "id": "1383557",
         "titulo": "Mas allá de los limites de la muerte",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Amazon Prime",
         "sinopsis": "Dos ladrones caen en manos de un médico que realiza experimentos sobre la vida después de la muerte.",
         "puntuacion": 6.0,
@@ -2686,13 +1991,7 @@
     {
         "id": "459003",
         "titulo": "Mavka: Guardiana del bosque",
-        "genero": [
-            "Animación",
-            "Aventura",
-            "Familia",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Amazon Prime",
         "sinopsis": "Mavka, un alma del bosque, se enfrenta a la elección imposible entre el amor y su deber como guardiana cuando se enamora de un humano. Más allá de las altas Montañas Negras se extiende un reino poblado por criaturas fantásticas. Mavka, la guardiana de este bosque encantado, tiene como misión principal proteger el bosque de cualquier agresión o intrusión, incluso por parte de los humanos. La aventura empieza cuando Mavka conoce a Lucas, un joven amante de la música perdido en las montañas, y se enamoran. En contra de todas las reglas, Mavka y Lucas emprenden una historia de amor sin tener en cuenta las consecuencias que recaerán sobre el reino. ¿Podrá Mavka salvar el bosque?",
         "puntuacion": 7.1,
@@ -2705,11 +2004,7 @@
     {
         "id": "727745",
         "titulo": "El stand de los besos 3",
-        "genero": [
-            "Romance",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Romance",
         "plataforma": "Netflix",
         "sinopsis": "Decidida a aprovechar al máximo su último verano antes de irse a la universidad, Elle planifica su lista de deseos mientras resuelve qué rumbo tomar con Noah y Lee.",
         "puntuacion": 6.9,
@@ -2722,13 +2017,7 @@
     {
         "id": "1231574",
         "titulo": "Mi querida oni",
-        "genero": [
-            "Animación",
-            "Fantasía",
-            "Aventura",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Animación",
         "plataforma": "Netflix",
         "sinopsis": "Bajo la nieve de verano, una chica que siempre hace lo que quiere convence a un chico que no sabe decir que no de que la ayude a buscar a su madre.",
         "puntuacion": 7.2,
@@ -2741,12 +2030,7 @@
     {
         "id": "696506",
         "titulo": "Mickey 17",
-        "genero": [
-            "Ciencia Ficción",
-            "Comedia",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "HBO Max",
         "sinopsis": "Mickey Barnes se encuentra en la extraordinaria circunstancia de trabajar para un empleador que exige el compromiso máximo con el trabajo… morir, para ganarse la vida.",
         "puntuacion": 6.8,
@@ -2759,13 +2043,7 @@
     {
         "id": "940551",
         "titulo": "¡Patos!",
-        "genero": [
-            "Familia",
-            "Comedia",
-            "Aventura",
-            "Animación",
-            "Estrenos"
-        ],
+        "genero": "Familia",
         "plataforma": "Amazon Prime",
         "sinopsis": "Después de que una familia de patos migratorios aterriza en su estanque con emocionantes historias de lugares remotos, la familia Mallard embarca en un viaje familiar, atravezando la ciudad de Nueva York, con destino a la tropical Jamaica.",
         "puntuacion": 7.4,
@@ -2778,12 +2056,7 @@
     {
         "id": "575264",
         "titulo": "Misión: Imposible - Sentencia mortal parte uno",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Apple TV",
         "sinopsis": "Ethan Hunt y su equipo del FMI, se embarcan en su misión más peligrosa hasta la fecha: localizar, antes de que caiga en las manos equivocadas, una nueva y terrorífica arma que amenaza a toda la humanidad. En esta tesitura, y con unas fuerzas oscuras del pasado de Ethan acechando, comienza una carrera mortal alrededor del mundo en la que está en juego el control del futuro y el destino del planeta. Enfrentado a un enemigo misterioso y todopoderoso, Ethan se ve obligado a considerar que nada puede anteponerse a su misión, ni siquiera las vidas de aquellos que más le importan.",
         "puntuacion": 7.5,
@@ -2796,11 +2069,7 @@
     {
         "id": "9312",
         "titulo": "Mortal Kombat",
-        "genero": [
-            "Acción",
-            "Fantasía",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "HBO Max",
         "sinopsis": "Durante nueve generaciones, Shang Tsung, un brujo malvado, ha llevado a un poderoso príncipe a la victoria contra sus mortales enemigos. Si vence el décimo torneo Mortal Kombat, la desolación y el mal que han florecido en el mundo exterior reinarán la Tierra por siempre.",
         "puntuacion": 5.9,
@@ -2813,12 +2082,7 @@
     {
         "id": "505026",
         "titulo": "Muerte en el Nilo",
-        "genero": [
-            "Misterio",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Misterio",
         "plataforma": "Disney+",
         "sinopsis": "Basada en la novela de Agatha Christie, publicada en 1937. \"Muerte en el Nilo\" es un thriller de misterio dirigido por Kenneth Branagh sobre el caos emocional y las consecuencias letales que provocan los amores obsesivos. Las vacaciones egipcias del detective belga Hércules Poirot, a bordo de un glamuroso barco de vapor, se ven alteradas por la búsqueda de un asesino cuando la idílica luna de miel de una pareja perfecta se ve truncada de la forma más trágica.",
         "puntuacion": 6.4,
@@ -2831,10 +2095,7 @@
     {
         "id": "438170",
         "titulo": "Nadie",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 7.2,
@@ -2847,12 +2108,7 @@
     {
         "id": "753342",
         "titulo": "Napoleón",
-        "genero": [
-            "Historia",
-            "Bélica",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Historia",
         "plataforma": "Apple TV",
         "sinopsis": "Una mirada personal a los orígenes del líder militar francés y su rápido y despiadado ascenso a emperador. La historia se ve a través de la lente de la relación adictiva y volátil de Napoleón Bonaparte con su esposa y único amor verdadero, Josefina.",
         "puntuacion": 6.3,
@@ -2865,12 +2121,7 @@
     {
         "id": "1022964",
         "titulo": "La calle de la Navidad",
-        "genero": [
-            "Comedia",
-            "Fantasía",
-            "Familia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un hombre se propone ganar el concurso anual de decoración navideña de su barrio. Después de que Chris, sin saberlo, haga un trato con una traviesa elfa llamada Pepper para mejorar sus posibilidades de ganar, ella lanza un hechizo mágico por el cual los 12 días de Navidad cobran vida y causan estragos por toda la ciudad. A riesgo de estropearle las fiestas a su familia, Chris, su mujer Carol y sus tres hijos deberán lanzarse a la carrera para romper el hechizo de Pepper, enfrentarse a retorcidos personajes mágicos y salvar la Navidad para todos.",
         "puntuacion": 6.0,
@@ -2883,11 +2134,7 @@
     {
         "id": "1265517",
         "titulo": "No dormirás esta noche",
-        "genero": [
-            "Terror",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un niño sufre pesadillas en las que un monstruo se esconde en su armario. Su padre aparece en mitad de la noche para ayudarlo a enfrentarse a sus miedos, pero luego el niño empieza a preguntarse si esas apariciones malignas son sólo sueños o algo más terrorífico.",
         "puntuacion": 6.0,
@@ -2900,11 +2147,7 @@
     {
         "id": "999644",
         "titulo": "¡No estás invitada a mi bat Mitzvah!",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Sigue a Stacey Friedman mientras se prepara para su bat mitzvah, pero sus planes se desmoronan cómicamente y amenazan con arruinar el evento.",
         "puntuacion": 6.4,
@@ -2917,12 +2160,7 @@
     {
         "id": "646380",
         "titulo": "No miren arriba",
-        "genero": [
-            "Comedia",
-            "Ciencia Ficción",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Dos astrónomos realizan una gira mediática para advertirle a la humanidad de un cometa mortal que está en rumbo de colisión con la Tierra. La respuesta del mundo: ¿Y?",
         "puntuacion": 7.1,
@@ -2935,11 +2173,7 @@
     {
         "id": "482373",
         "titulo": "No Respires 2",
-        "genero": [
-            "Suspenso",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Apple TV",
         "sinopsis": "En No Respires 2, la emocionante secuela del gran éxito, nos reencontramos con Norman Nordstrom (Stephen Lang), quien se ha estado escondiendo durante varios años en una cabaña aislada. Vive con una jovencita y ha recreado la familia que le fue robada por un conductor ebrio. Su tranquila vida se hace añicos cuando un grupo de criminales secuestra a la chica. Norman se ve obligado a recurrir a instintos aún más oscuros y creativos para salvarla.",
         "puntuacion": 7.0,
@@ -2952,12 +2186,7 @@
     {
         "id": "225574",
         "titulo": "Sin Escalas",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Misterio",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Bill Marks, un veterano agente del servicio aéreo de los Marshalls, se siente bastante quemado tanto con el mundo como con su profesión: no entiende su labor como un deber para salvaguardar vidas, sino como un rutinario trabajo de oficina a bordo de un avión. Sin embargo, un día, en un viaje trasatlántico de Nueva York a Londres recibe una serie de misteriosos mensajes de texto, en los que se le pide que inste al gobierno a hacer una transferencia de 150 millones de dólares a una cuenta secreta, pues, en caso contrario, un pasajero moriría cada 20 minutos. El juego del gato y el ratón se desarrollado a 40.000 pies de altura y con la vida de 200 pasajeros pendiente de un hilo.",
         "puntuacion": 6.8,
@@ -2970,11 +2199,7 @@
     {
         "id": "1151534",
         "titulo": "Nowhere",
-        "genero": [
-            "Suspenso",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Netflix",
         "sinopsis": "Una joven embarazada llamada Mia escapa de un país en guerra escondiéndose en un contenedor marítimo a bordo de un carguero. Después de una violenta tormenta, Mia da a luz al niño mientras está perdida en el mar, donde deberá luchar para sobrevivir.",
         "puntuacion": 7.3,
@@ -2987,12 +2212,7 @@
     {
         "id": "1360780",
         "titulo": "Nuestra historia de Navidad",
-        "genero": [
-            "Película de TV",
-            "Comedia",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Película de TV",
         "plataforma": "Netflix",
         "sinopsis": "",
         "puntuacion": 5.9,
@@ -3005,11 +2225,7 @@
     {
         "id": "1034940",
         "titulo": "Nuevos ricos",
-        "genero": [
-            "Comedia",
-            "Romance",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Un estafador sin dinero y una mujer con una fortuna en criptomonedas cruzan flechazos. ¿Será ella solo el blanco soñado o una estafa mayor?",
         "puntuacion": 5.8,
@@ -3022,11 +2238,7 @@
     {
         "id": "895549",
         "titulo": "Nyad",
-        "genero": [
-            "Drama",
-            "Historia",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Netflix",
         "sinopsis": "Diana Nyad se propone cumplir a los 60 años un sueño casi imposible: completar un trayecto de 177 km a nado en mar abierto desde Cuba hasta la Florida.",
         "puntuacion": 7.1,
@@ -3039,12 +2251,7 @@
     {
         "id": "1227816",
         "titulo": "Pacto de sangre",
-        "genero": [
-            "Crimen",
-            "Acción",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Crimen",
         "plataforma": "Amazon Prime",
         "sinopsis": "Cash intenta llevar una vida honesta y tranquila alejado del mundo criminal, pero cuando Big Cat, la capo de la droga de los Apalaches, le obliga a volver a sus servicios, demuestra ser capaz de cualquier cosa para proteger al pueblo y a la única familia que le queda.",
         "puntuacion": 6.7,
@@ -3057,12 +2264,7 @@
     {
         "id": "1364992",
         "titulo": "Perdóname Papá",
-        "genero": [
-            "Suspenso",
-            "Terror",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Amazon Prime",
         "sinopsis": "Cuando se descubren varios cadáveres mutilados en una mansión en el campo, una experimentada detective se encarga de encontrar al asesino. Un sospechoso improbable revela que algunos secretos se llevan a la tumba y otros nos llevan a la tumba.",
         "puntuacion": 6.6,
@@ -3075,12 +2277,7 @@
     {
         "id": "58",
         "titulo": "Piratas del Caribe 2: El Cofre de la Muerte",
-        "genero": [
-            "Aventura",
-            "Fantasía",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Aventura",
         "plataforma": "Disney+",
         "sinopsis": "Will Turner y Elizabeth Swann se van a casar, pero ambos son hechos prisioneros por Lord Cutler Beckett y acusados de haber liberado al capitán Jack Sparrow. Para salvar su vida Will tendrá que encontrar a Jack y conseguir su misteriosa brújula, que esconde un gran poder además de la clave de una deuda de sangre del pirata con un temible y siniestro Davy Jones, el legendario capitán del barco fantasma El Holandés Errante.",
         "puntuacion": 7.4,
@@ -3093,12 +2290,7 @@
     {
         "id": "9799",
         "titulo": "Rápido y furioso",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "El policía de Los Ángeles, Brian O'Conner, debe decidir dónde está realmente su lealtad cuando se enamore del mundo de las carreras callejeras al que ha sido enviado de incógnito para destruir.",
         "puntuacion": 7.0,
@@ -3111,10 +2303,7 @@
     {
         "id": "701675",
         "titulo": "Rápido y feroz: carrera de la muerte",
-        "genero": [
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "TAD Origins",
         "sinopsis": "Jack Tyson es un joven muchacho que participa en una carrera ilegal de coches que va desde México a California cuando una mujer desesperada que huye de un novio gángster y abusador se cruza con él, rogándole que le ayude a huir. Su pareja resulta ser uno de los organizadores del torneo, y la única forma de evitar que éste decida vengarse pasa por entregar un USB con valiosa información a la policía para que las autoridades le arresten antes de que sea demasiado tarde.",
         "puntuacion": 5.4,
@@ -3127,12 +2316,7 @@
     {
         "id": "385687",
         "titulo": "Rápidos y furiosos X",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
         "puntuacion": 7.0,
@@ -3145,12 +2329,7 @@
     {
         "id": "168259",
         "titulo": "Rápidos y Furiosos 7",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Ha pasado un año desde que el equipo de Dominic Torreto y Brian pudiera regresar finalmente a Estados Unidos, tras ser indultados. Desean adaptarse a una vida en la legalidad, pero el entorno ya no es el mismo. Dom intenta acercarse a Letty, y Brian lucha para acostumbrarse a la vida en una urbanización con Mia y su hijo. Ninguno de ellos imagina que un frío asesino británico, entrenado para realizar operaciones secretas, se cruzará en sus vidas para convertirse en su mayor enemigo.",
         "puntuacion": 7.2,
@@ -3163,12 +2342,7 @@
     {
         "id": "385128",
         "titulo": "Rápidos y furiosos 9",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Apple TV",
         "sinopsis": "Domic Toretto lleva una vida tranquila, lejos de todo, con Letty y su hijo, el pequeño Brian. el peligro está siempre al acecho. Esta vez, esta amenaza obligará a Domic Toretto a enfrentarse a los pecados de su pasado para salvar a los que más quiere. Su equipo se reúne de nuevo para detener un plan que conmocionó al mundo, liderado por el mejor piloto y el mayor asesino que han encontrado: Jakob, el hermano abandonado de Domic.",
         "puntuacion": 7.0,
@@ -3181,10 +2355,7 @@
     {
         "id": "1366",
         "titulo": "Rocky",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Cuando el campeón mundial de boxeo de peso pesado, Apollo Creed quiere darle a un luchador desconocido una oportunidad por el título como un truco publicitario, sus manejadores eligen a Rocky Balboa, un coleccionista sin educación para un prestamista de Filadelfia. Rocky se une con el entrenador Mickey Goldmill para aprovechar al máximo esta vez en un descanso de por vida.",
         "puntuacion": 7.8,
@@ -3197,10 +2368,7 @@
     {
         "id": "1367",
         "titulo": "Rocky II",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Después de que Rocky va la distancia con el campeón Apolo Creed, ambo intento de poner la lucha detrás de ellos y circular. Rocky se instala con Adrian, pero no puede reunir su vida fuera del anillo, mientras Creed busca una revancha para restaurar su reputación. Bastante pronto, el «Maestro del Desastre» y el «Semental italiano» se pone en un camino del enfrentamiento para una batalla culminante que es brutal e inolvidable.",
         "puntuacion": 7.3,
@@ -3213,10 +2381,7 @@
     {
         "id": "1371",
         "titulo": "Rocky III",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Ahora el campeón del mundo, Rocky Balboa vive en el lujo y sólo lucha contra opositores que no plantean ninguna amenaza para él en el anillo, hasta que Clubber Lang le desafíe a un encuentro. Después de tomar una palpitación de Lang, el campeón humillado da vuelta al antiguo Credo del rival amargo Apolo para una revancha con Lang.",
         "puntuacion": 6.9,
@@ -3229,10 +2394,7 @@
     {
         "id": "1374",
         "titulo": "Rocky IV",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Nuevas aventuras tanto personales como deportivas del boxeador Rocky Balboa, que en esta ocasión debe enfrentarse a un duro y frío boxeador soviético, llamado Ivan Drago.",
         "puntuacion": 7.1,
@@ -3245,10 +2407,7 @@
     {
         "id": "1375",
         "titulo": "Rocky V",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Toda una vida de golpes ha terminado la carrera de Rocky, y un torcido contador lo ha dejado en la ruina. Inspirado por el recuerdo de su entrenador, sin embargo, Rocky encuentra la gloria en el entrenamiento y se enfrenta a un boxeador prometedor.",
         "puntuacion": 5.8,
@@ -3261,11 +2420,7 @@
     {
         "id": "1032372",
         "titulo": "Sangre fría",
-        "genero": [
-            "Suspenso",
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Netflix",
         "sinopsis": "Atrapada en una tormenta de nieve con un psicópata, Ana tendrá que luchar por su vida, utilizando toda su fuerza e inteligencia para escapar del criminal, el frío y una extraña criatura que los persigue a ambos.",
         "puntuacion": 6.5,
@@ -3278,11 +2433,7 @@
     {
         "id": "1400784",
         "titulo": "Selena y Los Dinos",
-        "genero": [
-            "Documental",
-            "Música",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "La trayectoria de Selena Quintanilla, que pasó de actuar en eventos locales a convertirse en la «Reina de la Música Tejana» con su grupo familiar Selena y Los Dinos, culminando en giras por estadios con entradas agotadas, se narra a través de imágenes de archivo personales.",
         "puntuacion": 9.2,
@@ -3295,11 +2446,7 @@
     {
         "id": "1223601",
         "titulo": "Sisu: Camino a la venganza",
-        "genero": [
-            "Acción",
-            "Bélica",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "TAD Origins",
         "sinopsis": "En plena Segunda Guerra Mundial, un hombre conocido como \"el hombre que se niega a morir\" regresa a la casa donde su familia fue brutalmente asesinada. Con determinación, desmantela la casa, la carga en un camión y se propone reconstruirla en un lugar seguro en honor a sus seres queridos. Cuando el comandante del Ejército Rojo responsable de la masacre regresa decidido a eliminarlo, se desata una implacable y espectacular persecución a través del país. La película está llena de escenas de acción trepidantes y una lucha a muerte, reafirmando la leyenda de un guerrero solitario que no se detiene ante nada ni nadie. \"Sisu: Camino a la venganza\" es una secuela de la exitosa \"Sisu\" (2022) y combina aventura, acción y drama de guerra con influencias de Indiana Jones y James Bond bajo la dirección de Jalmari Helander.",
         "puntuacion": 7.5,
@@ -3312,11 +2459,7 @@
     {
         "id": "916728",
         "titulo": "Misión Titán",
-        "genero": [
-            "Ciencia Ficción",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Un astronauta lucha por mantener el control sobre la realidad a bordo de una importante misión hacia Titán, la luna de Saturno.",
         "puntuacion": 6.2,
@@ -3329,13 +2472,7 @@
     {
         "id": "1415974",
         "titulo": "Solitaria es la noche: Los crímenes de la familia Bansal",
-        "genero": [
-            "Suspenso",
-            "Misterio",
-            "Crimen",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "Netflix",
         "sinopsis": "Tras los asesinatos en la familia Bansal, el inspector Jatil Yadav descubre un rastro de codicia, traición y secretos vinculado a un complot mortal.",
         "puntuacion": 5.9,
@@ -3348,10 +2485,7 @@
     {
         "id": "1426518",
         "titulo": "Soy Eddie",
-        "genero": [
-            "Documental",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "En este documental plagado de estrellas, Eddie Murphy revive su paso de comediante juvenil a leyenda de Hollywood con honestidad brutal y mucho humor.",
         "puntuacion": 6.8,
@@ -3364,11 +2498,7 @@
     {
         "id": "1109940",
         "titulo": "Accidental Texan",
-        "genero": [
-            "Comedia",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Amazon Prime",
         "sinopsis": "",
         "puntuacion": 6.1,
@@ -3381,12 +2511,7 @@
     {
         "id": "218",
         "titulo": "Terminator: El Exterminador",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Los Ángeles, año 2029. Las máquinas dominan el mundo. Los rebeldes que luchan contra ellas tienen como líder a John Connor, un hombre que nació en los años ochenta. Para acabar con la rebelión, las máquinas deciden enviar al pasado a un robot -Terminator- cuya misión será eliminar a Sarah Connor, la madre de John, e impedir así su nacimiento.",
         "puntuacion": 7.7,
@@ -3399,12 +2524,7 @@
     {
         "id": "280",
         "titulo": "Terminator 2: El juicio final",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Apple TV",
         "sinopsis": "Sarah Connor, la madre soltera del rebelde John Connor, está ingresada en un psiquiátrico. Algunos años antes, un viajero del tiempo le había revelado que su hijo sería el salvador de la humanidad en un futuro dominado por las máquinas. Se convirtió entonces en una especie de guerrera y educó a su hijo John en tácticas de supervivencia. Esta es la razón por la que está recluida en un manicomio. Cuando un nuevo androide mejorado, un T-1000, llega del futuro para asesinar a John, un viejo modelo T-800 será enviado para protegerle.",
         "puntuacion": 8.1,
@@ -3417,12 +2537,7 @@
     {
         "id": "296",
         "titulo": "Terminator 3: La rebelión de las máquinas",
-        "genero": [
-            "Acción",
-            "Suspenso",
-            "Ciencia Ficción",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "TAD Origins",
         "sinopsis": "Ha pasado una década desde que John Connor -Nick Stahl- salvara a la humanidad de la destrucción. En la actualidad John tiene 25 años y vive en la clandestinidad: no hay ninguna prueba documental de su existencia. Así evita ser rastreado por Skynet -la sofisticada corporación de máquinas que una vez intentó acabar con su vida-. Pero, ahora, desde el futuro, ha sido enviado el T-X (Kristanna Loken), la máquina destructora cyborg más desarrollada de Skynet. Su misión es completar el trabajo que no pudo terminar su predecesor, el T-1000. El T-X es una máquina tan implacable como bello su aspecto humano. Ahora la única esperanza de sobrevivir para Connnor es Terminator.",
         "puntuacion": 6.2,
@@ -3435,13 +2550,7 @@
     {
         "id": "87101",
         "titulo": "Terminator: Génesis",
-        "genero": [
-            "Ciencia Ficción",
-            "Acción",
-            "Suspenso",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Ciencia Ficción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Año 2032. La guerra del futuro se está librando y un grupo de rebeldes humanos tiene el sistema de inteligencia artificial Skynet contra las cuerdas. John Connor es el líder de la resistencia, y Kyle Reese es su fiel soldado, criado en las ruinas de una postapocalíptica California. Para salvaguardar el futuro, Connor envía a Reese a 1984 para salvar a su madre, Sarah de un Terminator programado para matarla con el fin de que no llegue a dar a luz a John. Pero lo que Reese encuentra en el otro lado no es como él esperaba.",
         "puntuacion": 5.9,
@@ -3454,12 +2563,7 @@
     {
         "id": "534",
         "titulo": "Terminator: Salvación",
-        "genero": [
-            "Acción",
-            "Ciencia Ficción",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "En 2018, una misteriosa nueva arma en la guerra contra las máquinas, mitad humana y mitad máquina, llega a John Connor en la víspera de un ataque de la resistencia a Skynet. ¿Pero de qué lado está, y se puede confiar en él?",
         "puntuacion": 6.1,
@@ -3472,13 +2576,7 @@
     {
         "id": "9615",
         "titulo": "Rápido y furioso: Reto Tokio",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Drama",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de «drift» (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag.",
         "puntuacion": 6.5,
@@ -3491,12 +2589,7 @@
     {
         "id": "337339",
         "titulo": "Rápidos y furiosos 8",
-        "genero": [
-            "Acción",
-            "Crimen",
-            "Suspenso",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Amazon Prime",
         "sinopsis": "Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.",
         "puntuacion": 6.9,
@@ -3509,12 +2602,7 @@
     {
         "id": "298618",
         "titulo": "Flash",
-        "genero": [
-            "Acción",
-            "Ciencia Ficción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "HBO Max",
         "sinopsis": "Cuando su intento de salvar a su familia altera el futuro sin darse cuenta, Barry Allen queda atrapado en una realidad en la que el general Zod ha regresado y no hay superhéroes a los que recurrir. En última instancia, para salvar el mundo en el que se encuentra y regresar al futuro que conoce, la única esperanza de Barry es escapar de él para salvar su vida. Pero, ¿será suficiente hacer el último sacrificio para reiniciar el universo?",
         "puntuacion": 6.6,
@@ -3527,10 +2615,7 @@
     {
         "id": "801071",
         "titulo": "Jack en la caja maldita 2: El despertar",
-        "genero": [
-            "Terror",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Amazon Prime",
         "sinopsis": "Cuando el antiguo muñeco de Jack-in-the-box es sacado de la tierra y se abre, sus nuevos propietarios pronto tienen razones para creer que el espeluznante muñeco de payaso tiene vida propia.",
         "puntuacion": 6.3,
@@ -3543,11 +2628,7 @@
     {
         "id": "1167027",
         "titulo": "La singular vida de Ibelin",
-        "genero": [
-            "Documental",
-            "Animación",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "El mundo secreto de un jugador de «World of Warcraft» cobra vida cuando sus amigos virtuales contactan a su familia luego del fallecimiento del joven.",
         "puntuacion": 8.1,
@@ -3560,13 +2641,7 @@
     {
         "id": "1064835",
         "titulo": "The Seven Deadly Sins: El rencor de Edimburgo (Parte 2)",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Fantasía",
-            "Animación",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Tristan se reúne con Lancelot por primera vez desde su accidente trágico y debe aprender a dominar a sus demonios internos para poder salvar la vida de su madre.",
         "puntuacion": 7.2,
@@ -3579,10 +2654,7 @@
     {
         "id": "862551",
         "titulo": "Tiempo para mí",
-        "genero": [
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Netflix",
         "sinopsis": "Con su familia fuera, un padre de familia aprovecha sus primeros días solo después de muchos años para reunirse con un viejo amigo fiestero y desenfrenado.",
         "puntuacion": 5.9,
@@ -3595,10 +2667,7 @@
     {
         "id": "326193",
         "titulo": "Tiempo sin aire",
-        "genero": [
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 5.5,
@@ -3611,11 +2680,7 @@
     {
         "id": "1426306",
         "titulo": "Titan: El desastre de OceanGate",
-        "genero": [
-            "Documental",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Documental",
         "plataforma": "Netflix",
         "sinopsis": "Titan, el sumergible turístico de OceanGate, implosionó en 2023 durante una expedición hacia el Titanic. Este documental explica cómo una idea audaz terminó en tragedia.",
         "puntuacion": 7.1,
@@ -3628,11 +2693,7 @@
     {
         "id": "238",
         "titulo": "El Padrino",
-        "genero": [
-            "Drama",
-            "Crimen",
-            "Estrenos"
-        ],
+        "genero": "Drama",
         "plataforma": "Netflix",
         "sinopsis": "Don Vito Corleone es el respetado y temido jefe de una de las cinco familias de la mafia de Nueva York. Tiene cuatro hijos: una chica, Connie, y tres varones: el impulsivo Sonny, el pusilánime Freddie y Michael, que no quiere saber nada de los negocios de su padre. Cuando Corleone, siempre aconsejado por su consejero Tom Hagen, se niega a intervenir en el negocio de las drogas, el jefe de otra banda ordena su asesinato. Empieza entonces una violenta y cruenta guerra entre las familias mafiosas.",
         "puntuacion": 8.7,
@@ -3645,10 +2706,7 @@
     {
         "id": "1187311",
         "titulo": "Tu madre o la mía: Guerra de suegras",
-        "genero": [
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "Disney+",
         "sinopsis": "",
         "puntuacion": 4.6,
@@ -3661,11 +2719,7 @@
     {
         "id": "852096",
         "titulo": "Tenemos un fantasma",
-        "genero": [
-            "Terror",
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Terror",
         "plataforma": "Netflix",
         "sinopsis": "El hallazgo de un fantasma llamado Ernest en su nueva casa hace que la familia de Kevin se vuelva viral en las redes sociales. Pero cuando Kevin y Ernest comienzan a investigar por su cuenta el misterio del pasado de Ernest, se convierten en objetivos de la CIA.",
         "puntuacion": 6.5,
@@ -3678,12 +2732,7 @@
     {
         "id": "1054867",
         "titulo": "Una batalla tras otra",
-        "genero": [
-            "Suspenso",
-            "Crimen",
-            "Acción",
-            "Estrenos"
-        ],
+        "genero": "Suspenso",
         "plataforma": "HBO Max",
         "sinopsis": "Cuando su malvado némesis resurge después de 16 años, una banda de ex revolucionarios se reúne para rescatar a la hija de uno de los suyos.",
         "puntuacion": 7.4,
@@ -3696,11 +2745,7 @@
     {
         "id": "1372028",
         "titulo": "Christmas in the Spotlight",
-        "genero": [
-            "Romance",
-            "Película de TV",
-            "Estrenos"
-        ],
+        "genero": "Romance",
         "plataforma": "HBO Max",
         "sinopsis": "",
         "puntuacion": 7.3,
@@ -3713,11 +2758,7 @@
     {
         "id": "335787",
         "titulo": "Uncharted: Fuera del mapa",
-        "genero": [
-            "Acción",
-            "Aventura",
-            "Estrenos"
-        ],
+        "genero": "Acción",
         "plataforma": "Netflix",
         "sinopsis": "Nathan Drake, un joven astuto de la calle, y su ingenioso compañero Victor \"Sully\" Sullivan se embarcan en una peligrosa búsqueda del \"mayor tesoro jamás encontrado\" mientras también siguen pistas que pueden conducir al hermano perdido de Nathan.",
         "puntuacion": 6.9,
@@ -3730,11 +2771,7 @@
     {
         "id": "44052",
         "titulo": "La viuda negra",
-        "genero": [
-            "Misterio",
-            "Drama",
-            "Estrenos"
-        ],
+        "genero": "Misterio",
         "plataforma": "Disney+",
         "sinopsis": "Un productor de Broadway contrata a una escritora. Cuando ella aparece muerta en su apartamento, todas las sospechas recaen sobre él.",
         "puntuacion": 6.3,
@@ -3747,12 +2784,7 @@
     {
         "id": "7305",
         "titulo": "¡Viven!",
-        "genero": [
-            "Aventura",
-            "Drama",
-            "Historia",
-            "Estrenos"
-        ],
+        "genero": "Aventura",
         "plataforma": "TAD Origins",
         "sinopsis": "Basada en una historia real, \"Alive\" narra la terrible experiencia de un grupo de jugadores del equipo nacional de rugby de Uruguay cuyo avión se estrelló en medio de los Andes en octubre de 1972. Aislados completamente, los días pasaban sin que nadie viniera a rescatarles, por lo que se vieron obligados a recurrir al canibalismo, comiéndose la carne de los compañeros fallecidos, mientras los más fuertes preparaban un viaje desesperado a través de las montañas.",
         "puntuacion": 6.9,
@@ -3765,10 +2797,7 @@
     {
         "id": "1603142",
         "titulo": "Welcome al Norte",
-        "genero": [
-            "Comedia",
-            "Estrenos"
-        ],
+        "genero": "Comedia",
         "plataforma": "TAD Origins",
         "sinopsis": "",
         "puntuacion": 0.0,

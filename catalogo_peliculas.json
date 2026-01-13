@@ -230,7 +230,7 @@
         "year": "2025",
         "poster": "https://image.tmdb.org/t/p/w500/coJkkPBDeBsYecxoqMnZm8TKlBL.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/vm4H1DivjQoNIm0Vs6i3CTzFxQ0.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/avatar_fuego_y_ceniza.mp4",
+        "trailer": "https://tad-trailers.b-cdn.net/83533.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Avatar%20-%20fire%20and%20ash/Avatar%20-%20Fire%20and%20Ash.mkv"
     },
     {
@@ -1556,7 +1556,7 @@
         "year": "2005",
         "poster": "https://image.tmdb.org/t/p/w1280/zHnOKBeu71MAs89QSp0v0giRmra.jpg",
         "backdrop": "/hpuWR2rfcjRMni6HLtxPet4o4P4.jpg",
-        "trailer": "",
+        "trailer": "https://tad-trailers.b-cdn.net/949811.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Gol%201/Gol%201.mkv"
     },
     {
@@ -2310,7 +2310,7 @@
         "year": "2003",
         "poster": "https://image.tmdb.org/t/p/w1280/fZtSG5a6i5Ca39WQylLVmvWI5b.jpg",
         "backdrop": "/90ooE5SbUEO0OVJHewNO7pgySb6.jpg",
-        "trailer": "",
+        "trailer": "https://tad-trailers.b-cdn.net/701675.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso.mp4"
     },
     {
@@ -2806,5 +2806,57 @@
         "backdrop": "",
         "trailer": "https://tad-trailers.b-cdn.net/1603142.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Welcome%20al%20Norte/Welcome%20al%20Norte.mp4"
+    },
+    {
+        "id": "13192",
+        "titulo": "Moonwalker",
+        "genero": "Fantasía",
+        "plataforma": "HBO Max",
+        "sinopsis": "Película antológica de, y protagonizada por, Michael Jackson en su mejor momento, combinando un número de videos musicales de su best seller «Bad» con un cuento de fantasía sobre el enfrentamiento de Michael con un despiadado traficante de drogas conocido como Sr. Big.",
+        "puntuacion": 7.0,
+        "year": "1988",
+        "poster": "https://image.tmdb.org/t/p/w500/3GwTPQkAcgDeAirRpEuJG8HDdRz.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ihIVjdiuvtVuFUaCqfNJwajIs3i.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/13192.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Moonwalker%20(1988)/Moonwalker%20(1988).mkv"
+    },
+    {
+        "id": "13497",
+        "titulo": "Ritmo Total",
+        "genero": "Drama",
+        "plataforma": "Disney+",
+        "sinopsis": "Un joven batería de hip-hop de Harlem, Nueva York, recibe una beca para ir a la Universidad de Atlanta, conocida por su banda de música que anima los descansos de los partidos. Pero su estilo chocará con el método tradicional del director de la banda.",
+        "puntuacion": 6.9,
+        "year": "2002",
+        "poster": "https://image.tmdb.org/t/p/w500/y740JhJi0ajACSB91BGdCuLETvP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/46scrnII4tNzNQmeULCMCsCmgKA.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/13497.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Ritmo%20Total%20(2002)/Ritmo%20Total%20(2002).mkv"
+    },
+    {
+        "id": "244786",
+        "titulo": "Whiplash: Música y Obsesión",
+        "genero": "Drama",
+        "plataforma": "HBO Max",
+        "sinopsis": "El objetivo de Andrew Neiman, un joven y ambicioso baterista de jazz, es triunfar en el elitista Conservatorio de Música de la Costa Este en el que estudia. Marcado por el fracaso de la carrera literaria de su padre, Andrew alberga sueños de grandeza. Terence Fletcher, un profesor conocido tanto por su talento como por sus rigurosos métodos de enseñanza, dirige el mejor conjunto de jazz del Conservatorio. Cuando Fletcher elige a Andrew y para formar parte del conjunto musical que dirige, cambia para siempre la vida del joven. La pasión de Andrew por alcanzar la perfección se convierte en obsesión, al tiempo que su despiadado profesor lo lleva al límite de su capacidad y de su salud mental.",
+        "puntuacion": 8.4,
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/uy36CPy5ARuC8qrH8Esg2ndFyJ5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1kuYEvLkX2nTkbfzN6X0w0xQFQU.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/244786.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Whiplash%20(2014)/Whiplash%20(2014).mp4"
+    },
+    {
+        "id": "16052",
+        "titulo": "Selena",
+        "genero": "Drama",
+        "plataforma": "HBO Max",
+        "sinopsis": "Basada en hechos reales, narra la meteórica carrera de la joven cantante hispana Selena Quintanilla-Perez, todo un fenómeno de la música que surge en una localidad de Texas para convertirse en una estrella del universo latino. Descubierta casualmente por su propio padre a la temprana edad de 10 años, su vida será un continuo carrusel de problemas familiares, incluyendo su matrimonio en secreto con su guitarrista Chris Perez. A pesar de su corta y trágica carrera, su popularidad fue extraordinaria tanto en México como entre la población hispana de los Estados Unidos, que vivió su fulgurante ascenso y su trágica muerte, sucedida en 1995 cuando contaba con apenas 23 años de edad, a manos de su mayor admiradora: la presidenta de su club de fans y secretaria personal.",
+        "puntuacion": 7.7,
+        "year": "1997",
+        "poster": "https://image.tmdb.org/t/p/w500/yKNiK1gwRcy9IGvtHKFewSBaPci.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/gHuYLoBIOXug2azA5NYsXcaxsEm.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/16052.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Selena%20La%20Pelicula%20(1997)/Selena%20La%20Pelicula%20(1997).m4v"
     }
 ]

@@ -1,5 +1,83 @@
 [
    {
+        "id": "815426",
+        "titulo": "Hasta que te conocí",
+        "genero": "Drama",
+        "plataforma": "Disney+",
+        "sinopsis": "Hasta que te conocí, es una serie que narra la vida de Alberto Aguilera Valadez hacia su sueño a fama. Consta de 13 episodios, los cuales revelan datos nunca antes vistos en la vida del Divo de Juárez. Una historia que cuenta cómo su talento lo llevó a vencer a su destino y superar la pobreza, las traiciones y los prejuicios de los que era víctima para convertirse en el icono musical más querido de América Latina",
+        "puntuacion": 8.5,
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w1280/fYv7MkPsn5lUtLLDEa6ksd1eekA.jpg",
+        "backdrop": "/yMkIa39oBZfXTd61J8I208OOPmu.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/815426.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E01_El%20recien%20llegado.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E02_Adios%20papa.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E03_Un%20mundo%20nuevo.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E04_Todo%20esta%20perdido.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E05_La%20jaula%20del%20palomo.mkv"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E06_El%20precio%20de%20la%20libertad.mkv"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E07_Primera%20llamada.mkv"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E08_El%20sue%C3%B1o%20de%20vivir.mkv"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E09_Camino%20a%20la%20fama.mkv"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E10_La%20Luna%20ya%20se%20metio.mkv"
+            },
+            {
+                "nombre": "11",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E11_Se%20acabo%20el%20despues.mkv"
+            },
+            {
+                "nombre": "12",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E13_El%20Divo.mkv"
+            },
+            {
+                "nombre": "13",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E14_En%20la%20voz%20de%20Juan%20Gabriel.mkv"
+            },
+            {
+                "nombre": "14",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E15_El%20mas%20triste%20recuerdo.mkv"
+            },
+            {
+                "nombre": "15",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E16_La%20ultima%20entrevista.mkv"
+            },
+            {
+                "nombre": "16",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conocii_S01E12_Hasta%20que%20te%20conoci.mkv"
+            }
+         ]
+    },
+   {
   "id": "operativo_lioness",
   "titulo": "Operativo: Lioness",
   "genero": "Drama",

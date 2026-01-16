@@ -1690,6 +1690,19 @@
         "video": "https://tad-peliculas.b-cdn.net/La%20bala%20perdida%202/La%20bala%20perdida%202.mp4"
     },
     {
+        "id": "421609",
+        "titulo": "Sin reservas",
+        "genero": "Comedia",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Una chef adicta al trabajo debe ceder parte del control de su restaurante a un despreocupado compañero de trabajo cuando se convierte en la tutora de su sobrina tras la muerte de sus padres.",
+        "puntuacion": 6.7,
+        "year": "2007",
+        "poster": "https://image.tmdb.org/t/p/w1280/xzcRicYNm301idmRwJJZJIHAGHv.jpg",
+        "backdrop": "/rmlgq2gjiXBK3YNWj6WSdueLv0o.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/421609.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/La%20cocina/La%20cocina.mp4"
+    },
+    {
         "id": "966382",
         "titulo": "La Dama del Silencio",
         "genero": "Misterio",

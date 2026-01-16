@@ -1141,6 +1141,19 @@
         "poster": "https://image.tmdb.org/t/p/w500/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1088096.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o/El%20Padre%20Del%20A%C3%B1o.mkv"
+    },
+    {
+        "id": "1088096",
+        "titulo": "El Padre Del Año",
+        "genero": "Comedia",
+        "plataforma": "Amazon Prime",
+        "sinopsis": "La vida de Andy Goodrich (Michael Keaton) da un vuelco cuando su mujer ingresa en un centro de rehabilitación, dejándolo al cargo de sus hijos gemelos de 9 años. Sobrepasado por sus nuevas responsabilidades, Goodrich acudirá a su hija mayor (Mila Kunis) para que le ayude a convertirse en el padre que ella jamás tuvo.",
+        "puntuacion": 6.5,
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w500/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1088096.mp4",
         "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o%20%282024%29/El%20Padre%20Del%20A%C3%B1o%20%282024%29.mkv"
     },
     {
@@ -2080,16 +2093,16 @@
         "video": "https://tad-peliculas.b-cdn.net/Muerte%20en%20el%20Nilo/Muerte%20en%20el%20Nilo.mp4"
     },
     {
-        "id": "438170",
+        "id": "438171",
         "titulo": "Nadie",
-        "genero": "Documental",
+        "genero": "Acción",
         "plataforma": "TAD Origins",
-        "sinopsis": "",
-        "puntuacion": 7.2,
-        "year": "2017",
-        "poster": "",
-        "backdrop": "",
-        "trailer": "https://tad-trailers.b-cdn.net/438170.mp4",
+        "sinopsis": "Hutch Mansell, un padre de familia que aguanta con resignación y sin defenderse los golpes de la vida. Un don nadie. Una noche, cuando dos ladrones entran en su casa, Hutch decide no actuar y no trata de defenderse ni al él mismo ni a su familia, convencido de que solo así evitará una escalada de violencia. Tras el ataque, su hija adolescente Blake no oculta su decepción, y su esposa Becca se aleja todavía más.",
+        "puntuacion": 7.9,
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w1280/ddO5a3tMPpQutSDQO1bESgLWadB.jpg",
+        "backdrop": "/61MrK5U4w4MVL1vfwoG12zYPJ8B.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/438171.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Nadie/Nadie.mp4"
     },
     {

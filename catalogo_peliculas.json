@@ -3560,5 +3560,18 @@
         "backdrop": "https://image.tmdb.org/t/p/original/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/76338.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Thor%20The%20Dark%20World%20(2013)/Thor%20The%20Dark%20World%20(2013).mp4"
+    },
+     {
+        "id": "1471345",
+        "titulo": "Homo Argentum",
+        "genero": "Comedia",
+        "plataforma": "TAD Origins",
+        "sinopsis": "El film está compuesto por 16 mini películas cuya duración varía entre 1 y 12 minutos, todas protagonizadas por Guillermo Francella en muy diferentes roles. Cada una es autónoma, pero la suma de todas ellas construye una reflexión sobre el presente en tono de comedia, con una aguda crítica social.",
+        "puntuacion": 5.2,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w500/vMYmuhxadE7RmuB3sEKZU2yDKLW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2fwoBrUYMK0PZVaFqesx2CoRF6H.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1471345.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Homo%20Argentum%20(2025)/Homo%20Argentum%20(2025).mkv"
     }
 ]

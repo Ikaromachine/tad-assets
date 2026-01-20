@@ -1,3 +1,4 @@
+
 [
     {
         "id": "772272",
@@ -1588,14 +1589,14 @@
     {
         "id": "839787",
         "titulo": "Háblame",
-        "genero": "Documental",
+        "genero": "Terror",
         "plataforma": "TAD Origins",
-        "sinopsis": "",
-        "puntuacion": 2.0,
-        "year": "2021",
-        "poster": "https://image.tmdb.org/t/p/w500/8n8D2lmlCHRtex8rMkREc79ldW7.jpg",
-        "backdrop": "",
-        "trailer": "https://tad-trailers.b-cdn.net/839787.mp4",
+        "sinopsis": "La solitaria adolescente Mia se engancha a la emoción de invocar espíritus utilizando una mano embalsamada, pero cuando se enfrenta a un alma que dice ser su madre muerta, desata una plaga de fuerzas sobrenaturales y se debate entre decidir en quién puede confiar: en los vivos o en los muertos.",
+        "puntuacion": 7.1,
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w1280/nfY0LdXZzggFKfjhyHVEHZfO484.jpg",
+        "backdrop": "/bIKgebhTJCc1hqnnb1Pvm0OfI0Q.jpg",
+        "trailer": "",
         "video": "https://tad-peliculas.b-cdn.net/H%C3%A1blame/H%C3%A1blame.mkv"
     },
     {
@@ -3560,5 +3561,18 @@
         "backdrop": "https://image.tmdb.org/t/p/original/4zTsF0RtO0av3YX1NaKDqGKPxYF.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/76338.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Thor%20The%20Dark%20World%20(2013)/Thor%20The%20Dark%20World%20(2013).mp4"
+    },
+     {
+        "id": "1471345",
+        "titulo": "Homo Argentum",
+        "genero": "Comedia",
+        "plataforma": "Disney+",
+        "sinopsis": "El film está compuesto por 16 mini películas cuya duración varía entre 1 y 12 minutos, todas protagonizadas por Guillermo Francella en muy diferentes roles. Cada una es autónoma, pero la suma de todas ellas construye una reflexión sobre el presente en tono de comedia, con una aguda crítica social.",
+        "puntuacion": 6.2,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w500/vMYmuhxadE7RmuB3sEKZU2yDKLW.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/2fwoBrUYMK0PZVaFqesx2CoRF6H.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1471345.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Homo%20Argentum%20(2025)/Homo%20Argentum%20(2025).mkv"
     }
 ]

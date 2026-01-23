@@ -171,7 +171,7 @@
     {
         "id": "adolescencia_serie",
         "titulo": "Adolescencia",
-        "genero": "Drama | Estrenos | TOP 10",
+        "genero": "Drama",
         "plataforma": "Netflix",
         "sinopsis": "El mundo de una familia se pone patas arriba cuando Jamie Miller, de 13 años, es arrestado y acusado de asesinar a una compañera de clase. Los cargos contra su hijo les obliga a enfrentarse a la peor pesadilla de cualquier padre.",
         "puntuacion": 7.8,
@@ -200,7 +200,7 @@
     {
         "id": "pluribus_1",
         "titulo": "Pluribus. temporada 1",
-        "genero": "Drama | Ciencia Ficción | Intriga | Estrenos | TOP 10",
+        "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
         "puntuacion": 8,
@@ -249,7 +249,7 @@
     {
         "id": "task",
         "titulo": "Task",
-        "genero": "Thriller | Drama | Estrenos | TOP 10",
+        "genero": "Thriller",
         "plataforma": "HBO Max",
         "sinopsis": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
         "puntuacion": 8.0,
@@ -290,7 +290,7 @@
     {
         "id": "the_studio",
         "titulo": "The Studio",
-        "genero": "Comedia | Estrenos | TOP 10",
+        "genero": "Comedia",
         "plataforma": "Apple TV",
         "sinopsis": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
         "puntuacion": 8.1,
@@ -343,7 +343,7 @@
     {
         "id": "andor_t1",
         "titulo": "Andor. temporada 1",
-        "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
+        "genero": "Ciencia Ficción",
         "plataforma": "Disney+",
         "sinopsis": "Andor Stern, único sobreviviente brasileño del Holocausto, revive su deportación a Auschwitz a los 16 años. Regresó al campo y a su barrio en Budapest, y ahora vive con su familia en São Paulo.",
         "puntuacion": 8.0,
@@ -404,7 +404,7 @@
     {
         "id": "andor_t2",
         "titulo": "Andor. temporada 2",
-        "genero": "Ciencia Ficción | Aventura | Acción | Estrenos | TOP 10",
+        "genero": "Ciencia Ficción",
         "plataforma": "Disney+",
         "sinopsis": "Precuela de Rogue One: Una historia de Star Wars, con las aventuras de Cassian Andor durante sus años de formación con La Rebelión.",
         "puntuacion": 8.6,
@@ -465,7 +465,7 @@
     {
         "id": "adios,_tierra_t1",
         "titulo": "Adios, Tierra. Temporada 1",
-        "genero": "Ciencia Ficción | Drama | Thriller",
+        "genero": "Ciencia Ficción",
         "plataforma": "Netflix",
         "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
         "puntuacion": 6.0,
@@ -526,7 +526,7 @@
     {
         "id": "bienvenidos_a_derry_t1",
         "titulo": "It: Bienvenidos a Derry. Temporada 1",
-        "genero": "Terror | Estrenos",
+        "genero": "Terror",
         "plataforma": "HBO Max",
         "sinopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
         "puntuacion": 8.2,
@@ -571,7 +571,7 @@
     {
         "id": "black_rabbit_t1",
         "titulo": "Black Rabbit. Temporada 1",
-        "genero": "Thriller | Drama | Estrenos",
+        "genero": "Thriller",
         "plataforma": "Netflix",
         "sinopsis": "El dueño de un restaurante de moda se ve arrastrado al hampa neoyorquina cuando su hermano, un imán para los problemas, vuelve a la ciudad con unos usureros pisándole los talones.",
         "puntuacion": 7.0,
@@ -616,7 +616,7 @@
     {
         "id": "tony_y_ziva_t1",
         "titulo": "NCIS: Tony & Ziva",
-        "genero": "Acción | Intriga | Thriller | Estrenos",
+        "genero": "Acción",
         "plataforma": "Paramount+",
         "sinopsis": "Tras la aparente muerte de Ziva, Tony cría a la hija de ambos, Tali. Años después, Ziva regresa y se reúne con Tony. La empresa de Tony es atacada y la familia viaja a Europa, intentando averiguar quién les persigue y volver a confiar el uno en el otro.",
         "puntuacion": 7.9,
@@ -669,7 +669,7 @@
     {
         "id": "tulsa_king_t3",
         "titulo": "Tulsa King. Temporada 3",
-        "genero": "Drama | Estrenos",
+        "genero": "Drama",
         "plataforma": "Paramount+",
         "sinopsis": "Tulsa King: Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Dwight construye lentamente un nuevo imperio criminal en Tulsa.",
         "puntuacion": 8.3,

@@ -4,7 +4,7 @@
         "fecha_display": "Dom 25/01 | 18:30 HS",
         "canal": "TNT Sports",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Dep_Riestra.jpg",
-        "stream_url": "https://tv.tadplay.com.ar/tntsports/index.m3u8",
+        "stream_url": "https://tv.tadplay.com.ar/mtcast_tntsportshd/playlist.m3u8",
         "vivo": false
     },
     {
@@ -12,7 +12,7 @@
         "fecha_display": "Dom 25/01 | 21:00 HS",
         "canal": "ESPN Premium",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Argentinos_Jr_vs_Sarmiento.jpg",
-        "stream_url": "https://tv.tadplay.com.ar/espn_p/index.m3u8",
+        "stream_url": "https://tv.tadplay.com.ar/mtcast_espnpremiumhd/playlist.m3u8",
         "vivo": false
     },
     {
@@ -20,7 +20,7 @@
         "fecha_display": "Lun 26/01 | 18:00 HS",
         "canal": "ESPN Premium",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_C._Cordoba.jpg",
-        "stream_url": "https://tv.tadplay.com.ar/espn_p/index.m3u8",
+        "stream_url": "https://tv.tadplay.com.ar/mtcast_espnpremiumhd/playlist.m3u8",
         "vivo": false
     },
     {
@@ -28,7 +28,7 @@
         "fecha_display": "Lun 26/01 | 20:15 HS",
         "canal": "TNT Sports",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Godoy_Cruz_vs_Atl_Tucuman.jpg",
-        "stream_url": "https://tv.tadplay.com.ar/tntsports/index.m3u8",
+        "stream_url": "https://tv.tadplay.com.ar/mtcast_tntsportshd/playlist.m3u8",
         "vivo": false
     }
 ]

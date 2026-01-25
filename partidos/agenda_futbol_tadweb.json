@@ -1,29 +1,5 @@
 [
     {
-        "partido": "Barracas Central vs River Plate",
-        "fecha_display": "Sab 24/01 | 17:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Central_vs_River_Plate.jpg",
-        "stream_url": "https://tv.tadplay.com.ar/tntsports/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Gimnasia LP vs Racing",
-        "fecha_display": "Sab 24/01 | 19:30 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Racing.jpg",
-        "stream_url": "https://tv.tadplay.com.ar/espn_p/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Rosario Central vs Belgrano",
-        "fecha_display": "Sab 24/01 | 22:00 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Rosario_Central_vs_Belgrano.jpg",
-        "stream_url": "https://tv.tadplay.com.ar/espn_p/index.m3u8",
-        "vivo": false
-    },
-    {
         "partido": "Boca Juniors vs Dep Riestra",
         "fecha_display": "Dom 25/01 | 18:30 HS",
         "canal": "TNT Sports",

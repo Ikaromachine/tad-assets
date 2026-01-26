@@ -1443,45 +1443,6 @@
         "video": "https://tad-peliculas.b-cdn.net/Familia%20revuelta/Familia%20revuelta.mp4"
     },
     {
-        "id": "13804",
-        "titulo": "Rapido y furioso 4",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "El fugitivo Dom Toretto (Vin Diesel) y el detective Brian O’Conner (Paul Walker) vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante.",
-        "puntuacion": 6.7,
-        "year": "2009",
-        "poster": "https://image.tmdb.org/t/p/w500/bBioDtcG94rhvWnBE45yPUdgExi.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/13804.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20furious%20%282009%29/Fast%20and%20furious%20%282009%29.mp4"
-    },
-    {
-        "id": "82992",
-        "titulo": "Rapido y furioso 6",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "Desde que Dom (Vin Diesel) y Brian (Paul Walker) le robaron a un mafioso cien millones de dólares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs (Dwayne Johnson) les ha seguido la pista en varios países a una banda de letales conductores mercenarios, cuyo cerebro (Luke Evans) cuenta con la inestimable ayuda de la sexy Letty (Michelle Rodriguez), una vieja novia de Dom, a la que éste daba por muerta. La única forma de detenerlos es enfrentarse a ellos en las calles; así que Hobbs le pide a Dom que reúna a su equipo en Londres.",
-        "puntuacion": 6.8,
-        "year": "2013",
-        "poster": "https://image.tmdb.org/t/p/w500/xR9qP1Yhymsl7XmtZ4N3YSsOzh4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/oqxCzAO8sn1rSco2Pc19DlitgEn.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/82992.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20Furious%206%20%282013%29/Fast%20and%20Furious%206%20%282013%29.mp4"
-    },
-    {
-        "id": "51497",
-        "titulo": "Rapido y furioso 5: 5in Control",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "Dominic Toretto y su equipo de corredores callejeros planean un atraco masivo para comprar su libertad mientras están en la mira de un poderoso capo de la droga brasileño y un peligroso agente federal.",
-        "puntuacion": 7.2,
-        "year": "2011",
-        "poster": "https://image.tmdb.org/t/p/w500/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/g5VrNyNhyQFHJB8ANGEfIuvLyhF.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/51497.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Fast%20Five%20%282011%29/Fast%20Five%20%282011%29.mp4"
-    },
-    {
         "id": "870358",
         "titulo": "Un pequeño Batman Navideño",
         "genero": "Animación",
@@ -2288,17 +2249,56 @@
         "video": "https://tad-peliculas.b-cdn.net/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso.mp4"
     },
     {
-        "id": "385687",
-        "titulo": "Rapido y furioso X",
+        "id": "9615",
+        "titulo": "Rapido y furioso 3: Reto Tokio",
         "genero": "Acción",
         "plataforma": "Netflix",
-        "sinopsis": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
-        "puntuacion": 7.0,
-        "year": "2023",
-        "poster": "https://image.tmdb.org/t/p/w500/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/385687.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%2010/Rapidos%20y%20Furiosos%2010.mp4"
+        "sinopsis": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de «drift» (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag.",
+        "puntuacion": 6.5,
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w500/hkHDmkL5abn3P005v6xfEG3ZyYT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/9615.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29.mp4"
+    },
+        {
+        "id": "13804",
+        "titulo": "Rapido y furioso 4",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "El fugitivo Dom Toretto (Vin Diesel) y el detective Brian O’Conner (Paul Walker) vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante.",
+        "puntuacion": 6.7,
+        "year": "2009",
+        "poster": "https://image.tmdb.org/t/p/w500/bBioDtcG94rhvWnBE45yPUdgExi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/13804.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20furious%20%282009%29/Fast%20and%20furious%20%282009%29.mp4"
+    },
+     {
+        "id": "51497",
+        "titulo": "Rapido y furioso 5: 5in Control",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "Dominic Toretto y su equipo de corredores callejeros planean un atraco masivo para comprar su libertad mientras están en la mira de un poderoso capo de la droga brasileño y un peligroso agente federal.",
+        "puntuacion": 7.2,
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/g5VrNyNhyQFHJB8ANGEfIuvLyhF.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/51497.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Fast%20Five%20%282011%29/Fast%20Five%20%282011%29.mp4"
+    },
+    {
+        "id": "82992",
+        "titulo": "Rapido y furioso 6",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "Desde que Dom (Vin Diesel) y Brian (Paul Walker) le robaron a un mafioso cien millones de dólares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs (Dwayne Johnson) les ha seguido la pista en varios países a una banda de letales conductores mercenarios, cuyo cerebro (Luke Evans) cuenta con la inestimable ayuda de la sexy Letty (Michelle Rodriguez), una vieja novia de Dom, a la que éste daba por muerta. La única forma de detenerlos es enfrentarse a ellos en las calles; así que Hobbs le pide a Dom que reúna a su equipo en Londres.",
+        "puntuacion": 6.8,
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w500/xR9qP1Yhymsl7XmtZ4N3YSsOzh4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/oqxCzAO8sn1rSco2Pc19DlitgEn.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/82992.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20Furious%206%20%282013%29/Fast%20and%20Furious%206%20%282013%29.mp4"
     },
     {
         "id": "168259",
@@ -2314,6 +2314,19 @@
         "video": "https://tad-peliculas.b-cdn.net/R%C3%A1pidos%20Y%20Furiosos%207%20%282015%29/R%C3%A1pidos%20Y%20Furiosos%207%20%282015%29.mp4"
     },
     {
+        "id": "337339",
+        "titulo": "Rapido y furioso 8",
+        "genero": "Acción",
+        "plataforma": "Amazon Prime",
+        "sinopsis": "Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.",
+        "puntuacion": 6.9,
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/337339.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20of%20the%20furious%20(2017)/The%20fate%20of%20the%20furious%20(2017).mp4"
+    },
+    {
         "id": "385128",
         "titulo": "Rapido y furioso 9",
         "genero": "Acción",
@@ -2325,6 +2338,19 @@
         "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/385128.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%209/Rapidos%20y%20Furiosos%209.mp4"
+    },
+     {
+        "id": "385687",
+        "titulo": "Rapido y furioso X",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
+        "puntuacion": 7.0,
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w500/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/385687.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%2010/Rapidos%20y%20Furiosos%2010.mp4"
     },
     {
         "id": "1366",
@@ -2546,32 +2572,6 @@
         "backdrop": "https://image.tmdb.org/t/p/original/l2bAhg1h3eJrXiIZv8v2uMkuQPF.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/534.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Terminator%20Salvaci%C3%B3n%20%282009%29/Terminator%20Salvaci%C3%B3n%20%282009%29.mp4"
-    },
-    {
-        "id": "9615",
-        "titulo": "Rapido y furioso 3: Reto Tokio",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de «drift» (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag.",
-        "puntuacion": 6.5,
-        "year": "2006",
-        "poster": "https://image.tmdb.org/t/p/w500/hkHDmkL5abn3P005v6xfEG3ZyYT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/9615.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29.mp4"
-    },
-    {
-        "id": "337339",
-        "titulo": "Rapido y furioso 8",
-        "genero": "Acción",
-        "plataforma": "Amazon Prime",
-        "sinopsis": "Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.",
-        "puntuacion": 6.9,
-        "year": "2017",
-        "poster": "https://image.tmdb.org/t/p/w500/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/337339.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20of%20the%20furious%20(2017)/The%20fate%20of%20the%20furious%20(2017).mp4"
     },
     {
         "id": "298618",

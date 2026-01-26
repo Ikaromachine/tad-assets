@@ -1,21 +1,5 @@
 [
     {
-        "partido": "Boca Juniors vs Dep Riestra",
-        "fecha_display": "Dom 25/01 | 18:30 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Dep_Riestra.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Argentinos Jr vs Sarmiento",
-        "fecha_display": "Dom 25/01 | 21:00 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Argentinos_Jr_vs_Sarmiento.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
         "partido": "Tigre vs C. Cordoba",
         "fecha_display": "Lun 26/01 | 18:00 HS",
         "canal": "ESPN Premium",

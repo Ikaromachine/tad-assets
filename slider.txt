@@ -1,10 +1,12 @@
-https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg,https://image.tmdb.org/t/p/w500/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg|Zootopia 2
-https://image.tmdb.org/t/p/original/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg,https://image.tmdb.org/t/p/w500/3lJt067VAwy5OsEOLH7rinnbwam.jpg|Buen Chico
-https://image.tmdb.org/t/p/original/lgJlu0Fp1mdTaFEeaQJ7DskhSOr.jpg,https://image.tmdb.org/t/p/w500/7ezlnHDn6clFku58TmFmpKUQUqf.jpg|Milagros Inesperados
-https://image.tmdb.org/t/p/original/iQlel1ftOsnWguxyN98eUmKTOPm.jpg,https://image.tmdb.org/t/p/w500/5EDGgVdkH5qNC8tYdImb2QdnhIK.jpg|El cartel de los sapos: El origen
-https://image.tmdb.org/t/p/original/4jTSmEGdZ77A2dP6Y08gwo52LuF.jpg,https://image.tmdb.org/t/p/w500/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg|El Cártel de los Sapos
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/ecdls2.jpg,https://image.tmdb.org/t/p/original/kMXkXfURZVbP8z8p0TUan95FAWJ.jpg|El Cartel de los Sapos: La guerra total
-https://image.tmdb.org/t/p/original/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg,https://image.tmdb.org/t/p/w500/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg|Pablo Escobar: El Patrón del Mal
+SLIDER | https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg|Zootopia 2
+SLIDER | https://image.tmdb.org/t/p/original/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg|Buen Chico
+SLIDER | https://image.tmdb.org/t/p/original/lgJlu0Fp1mdTaFEeaQJ7DskhSOr.jpg|Milagros Inesperados
+SLIDER | https://image.tmdb.org/t/p/original/iQlel1ftOsnWguxyN98eUmKTOPm.jpg|El cartel de los sapos: El origen
+SLIDER | https://image.tmdb.org/t/p/original/4jTSmEGdZ77A2dP6Y08gwo52LuF.jpg|El Cártel de los Sapos
+SLIDER | https://image.tmdb.org/t/p/original/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg|Pablo Escobar: El Patrón del Mal
+POSTER | https://image.tmdb.org/t/p/w500/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg
+POSTER | https://image.tmdb.org/t/p/w500/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg
+
 
 
 

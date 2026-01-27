@@ -625,7 +625,7 @@
     },
     {
         "id": "312221",
-        "titulo": "Creed. Corazón de campeón",
+        "titulo": "Creed 1: Corazón de campeón",
         "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Adonis Johnson nunca conoció a su padre famoso, el campeón mundial de peso pesado Apollo Creed, quien murió antes de que él naciera. Sin embargo, no se puede negar que el boxeo corre por sus venas; así que Adonis se dirige a Filadelfia, el lugar de la legendaria pelea donde Apollo Creed enfrentó a un rudo advenedizo llamado Rocky Balboa. Una vez en la Ciudad del Amor Fraternal, Adonis rastrea a Rocky y le pide que sea su entrenador.",
@@ -636,18 +636,31 @@
         "trailer": "https://tad-trailers.b-cdn.net/312221.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Creed%20%282015%29/Creed%20%282015%29.mp4"
     },
-    {
-        "id": "677179",
-        "titulo": "Creed III",
+     {
+        "id": "480530",
+        "titulo": "Creed 2: Defendiendo el Legado",
         "genero": "Drama",
         "plataforma": "Apple TV",
-        "sinopsis": "Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo de juventud, Damián, acaba de salir de la cárcel y desea demostrar todo lo que ha aprendido de boxeo estos años. Por ello, querrá enfrentarse en el cuadrilátero con su antiguo amigo.  Adonis Creed tendrá que enfrentarse a este adversario, que no solo quiere quitarle su título de boxeador, sino que desea acabar con él.",
+        "sinopsis": "Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente Rocky Balboa está a su lado a lo largo de todo el camino, y juntos se cuestionarán por lo que vale la pena luchar y descubrirán que nada es más importante que la familia…",
+        "puntuacion": 7.0,
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/76L2V05c4e6bWsIkWXz4GFXUYYG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/480530.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Creed%202/Creed%202.mp4"
+    },
+    {
+        "id": "creed_3",
+        "titulo": "Creed 3",
+        "genero": "Drama",
+        "plataforma": "Apple TV",
+        "sinopsis": "Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder.",
         "puntuacion": 7.1,
         "year": "2023",
-        "poster": "https://image.tmdb.org/t/p/w500/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/ycO5QdrnVI90KaPhfnQI9OgRJlp.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/677179.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Creed%20III/Creed%20III.mp4"
+        "poster": "https://image.tmdb.org/t/p/w1280/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+        "backdrop": "/ycO5QdrnVI90KaPhfnQI9OgRJlp.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/480530.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Creed%203/Creed%203.mp4"
     },
     {
         "id": "1213997",
@@ -2261,7 +2274,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/9615.mp4",
         "video": "https://tad-peliculas.b-cdn.net/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29.mp4"
     },
-        {
+    {
         "id": "13804",
         "titulo": "Rapido y furioso 4",
         "genero": "Acción",
@@ -2274,7 +2287,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/13804.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20furious%20%282009%29/Fast%20and%20furious%20%282009%29.mp4"
     },
-     {
+    {
         "id": "51497",
         "titulo": "Rapido y furioso 5: 5in Control",
         "genero": "Acción",
@@ -2339,7 +2352,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/385128.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%209/Rapidos%20y%20Furiosos%209.mp4"
     },
-     {
+    {
         "id": "385687",
         "titulo": "Rapido y furioso X",
         "genero": "Acción",
@@ -4082,32 +4095,6 @@
         "video": "https://tad-peliculas.b-cdn.net/Contracara/Contracara.mp4"
     },
     {
-        "id": "480530",
-        "titulo": "Creed 2: Defendiendo el Legado",
-        "genero": "Drama",
-        "plataforma": "TAD Origins",
-        "sinopsis": "Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente Rocky Balboa está a su lado a lo largo de todo el camino, y juntos se cuestionarán por lo que vale la pena luchar y descubrirán que nada es más importante que la familia…",
-        "puntuacion": 7.0,
-        "year": "2018",
-        "poster": "https://image.tmdb.org/t/p/w500/76L2V05c4e6bWsIkWXz4GFXUYYG.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/480530.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Creed%202/Creed%202.mp4"
-    },
-     {
-        "id": "creed_3",
-        "titulo": "Creed 3",
-        "genero": "Drama",
-        "plataforma": "TAD Origins",
-        "sinopsis": "Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder.",
-        "puntuacion": 7.1,
-        "year": "2023",
-        "poster": "https://image.tmdb.org/t/p/w1280/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
-        "backdrop": "/ycO5QdrnVI90KaPhfnQI9OgRJlp.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/480530.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Creed%203/Creed%203.mp4"
-    },
-    {
         "id": "284052",
         "titulo": "Doctor Strange: Hechicero supremo",
         "genero": "Fantasía",
@@ -4133,7 +4120,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/671.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20La%20Piedra%20Filosofal%20(2001)/Harry%20Potter%20Y%20La%20Piedra%20Filosofal%20(2001).mp4"
     },
-      {
+    {
         "id": "672",
         "titulo": "Harry Potter 2: Y la cámara secreta",
         "genero": "Aventura",
@@ -4172,7 +4159,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/674.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20El%20C%C3%A1liz%20De%20Fuego%20(2005)/Harry%20Potter%20Y%20El%20C%C3%A1liz%20De%20Fuego%20(2005).mp4"
     },
-        {
+    {
         "id": "675",
         "titulo": "Harry Potter 5: Y la orden del Fénix",
         "genero": "Aventura",
@@ -4185,7 +4172,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/675.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20La%20Orden%20Del%20F%C3%A9nix%20(2007)/Harry%20Potter%20Y%20La%20Orden%20Del%20F%C3%A9nix%20(2007).mp4"
     },
-     {
+    {
         "id": "767",
         "titulo": "Harry Potter 6: Y el misterio del príncipe",
         "genero": "Aventura",
@@ -4249,5 +4236,31 @@
         "backdrop": "https://image.tmdb.org/t/p/original/lgJlu0Fp1mdTaFEeaQJ7DskhSOr.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/497.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Milagros%20Inesperados%20(1999)/Milagros%20Inesperados%20(1999).mp4"
+    },
+    {
+        "id": "1771",
+        "titulo": "Capitán América: El Primer Vengador",
+        "genero": "Acción",
+        "plataforma": "Disney+",
+        "sinopsis": "Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista.",
+        "puntuacion": 7.0,
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1771.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Capitan%20America%20Primer%20Vengador/Capitan%20America%20Primer%20Vengador.mkv"
+    },
+    {
+        "id": "1422096",
+        "titulo": "Buen Chico",
+        "genero": "Terror",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Un perro fiel se muda a una casa rural con su dueño Todd, solo para descubrir fuerzas sobrenaturales acechando en las sombras. Mientras entidades oscuras amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más ama.",
+        "puntuacion": 6.7,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w500/3lJt067VAwy5OsEOLH7rinnbwam.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1422096.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Good%20Boy%20(2025)/Good%20Boy%20It%20Ddp5%201%20H%20264mrcrimsonx%20(2025).mkv"
     }
 ]

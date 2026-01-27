@@ -7,7 +7,8 @@ https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/pluribus.j
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/itbienvenido.jpg|It: Bienvenidos a Derry. Temporada 1
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/blackrabbir.jpg|Black Rabbit. Temporada 1
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/andor.jpg|Andor. temporada 1
-https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg|Zootopia 2
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/zootopia2.jpg|Zootopia 2
+
 
 
 

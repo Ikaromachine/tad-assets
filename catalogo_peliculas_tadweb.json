@@ -625,7 +625,7 @@
     },
     {
         "id": "312221",
-        "titulo": "Creed. Corazón de campeón",
+        "titulo": "Creed 1: Corazón de campeón",
         "genero": "Drama",
         "plataforma": "Apple TV",
         "sinopsis": "Adonis Johnson nunca conoció a su padre famoso, el campeón mundial de peso pesado Apollo Creed, quien murió antes de que él naciera. Sin embargo, no se puede negar que el boxeo corre por sus venas; así que Adonis se dirige a Filadelfia, el lugar de la legendaria pelea donde Apollo Creed enfrentó a un rudo advenedizo llamado Rocky Balboa. Una vez en la Ciudad del Amor Fraternal, Adonis rastrea a Rocky y le pide que sea su entrenador.",
@@ -636,18 +636,31 @@
         "trailer": "https://tad-trailers.b-cdn.net/312221.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Creed%20%282015%29/Creed%20%282015%29.mp4"
     },
-    {
-        "id": "677179",
-        "titulo": "Creed III",
+     {
+        "id": "480530",
+        "titulo": "Creed 2: Defendiendo el Legado",
         "genero": "Drama",
         "plataforma": "Apple TV",
-        "sinopsis": "Adonis Creed ya ha llegado a la cima de su carrera y no tiene nada más que demostrar en el mundo del boxeo. Convertido en un ídolo de este boxeo pasa sus días rodeado de su familia y seres queridos. Sin embargo, todo cambiará cuando regrese un fantasma de su infancia. Su amigo de juventud, Damián, acaba de salir de la cárcel y desea demostrar todo lo que ha aprendido de boxeo estos años. Por ello, querrá enfrentarse en el cuadrilátero con su antiguo amigo.  Adonis Creed tendrá que enfrentarse a este adversario, que no solo quiere quitarle su título de boxeador, sino que desea acabar con él.",
+        "sinopsis": "Adonis Creed se debate entre las obligaciones personales y el entrenamiento para su próxima gran pelea, con el desafío de su vida por delante. Enfrentarse a un oponente que tiene vínculos con el pasado de su familia solo intensifica su inminente batalla en el ring. Afortunadamente Rocky Balboa está a su lado a lo largo de todo el camino, y juntos se cuestionarán por lo que vale la pena luchar y descubrirán que nada es más importante que la familia…",
+        "puntuacion": 7.0,
+        "year": "2018",
+        "poster": "https://image.tmdb.org/t/p/w500/76L2V05c4e6bWsIkWXz4GFXUYYG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9il7qNbeYnPMYlutsVYDsj4hRyb.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/480530.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Creed%202/Creed%202.mp4"
+    },
+    {
+        "id": "creed_3",
+        "titulo": "Creed 3",
+        "genero": "Drama",
+        "plataforma": "Apple TV",
+        "sinopsis": "Después de dominar el mundo del boxeo, Adonis Creed ha prosperado tanto en su carrera como en su vida familiar. Cuando un amigo de la infancia y ex prodigio de boxeo, Damien Anderson, resurge después de cumplir una larga sentencia en prisión, está ansioso por demostrar que merece su disparo en el ring. El enfrentamiento entre los antiguos amigos es más que una pelea. Para resolver el puntaje, Adonis debe poner su futuro en la línea para luchar contra Damien, un luchador que no tiene nada que perder.",
         "puntuacion": 7.1,
         "year": "2023",
-        "poster": "https://image.tmdb.org/t/p/w500/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/ycO5QdrnVI90KaPhfnQI9OgRJlp.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/677179.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Creed%20III/Creed%20III.mp4"
+        "poster": "https://image.tmdb.org/t/p/w1280/fcFMd3HdyX7r5gtFwVnn2qr5Yhq.jpg",
+        "backdrop": "/ycO5QdrnVI90KaPhfnQI9OgRJlp.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/480530.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Creed%203/Creed%203.mp4"
     },
     {
         "id": "1213997",
@@ -1141,6 +1154,19 @@
         "poster": "https://image.tmdb.org/t/p/w500/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1088096.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o/El%20Padre%20Del%20A%C3%B1o.mkv"
+    },
+    {
+        "id": "1088096",
+        "titulo": "El Padre Del Año",
+        "genero": "Comedia",
+        "plataforma": "Amazon Prime",
+        "sinopsis": "La vida de Andy Goodrich (Michael Keaton) da un vuelco cuando su mujer ingresa en un centro de rehabilitación, dejándolo al cargo de sus hijos gemelos de 9 años. Sobrepasado por sus nuevas responsabilidades, Goodrich acudirá a su hija mayor (Mila Kunis) para que le ayude a convertirse en el padre que ella jamás tuvo.",
+        "puntuacion": 6.5,
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w500/uO09KKSjE0c8vbRuv2CELOYEbqy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1jXebnKdnb580YOzGuyhuujSGbc.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1088096.mp4",
         "video": "https://tad-peliculas.b-cdn.net/El%20Padre%20Del%20A%C3%B1o%20%282024%29/El%20Padre%20Del%20A%C3%B1o%20%282024%29.mkv"
     },
     {
@@ -1428,45 +1454,6 @@
         "backdrop": "https://image.tmdb.org/t/p/original/fc2pEZgr0ltmyzLl4cO9JInOg6l.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/798021.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Familia%20revuelta/Familia%20revuelta.mp4"
-    },
-    {
-        "id": "13804",
-        "titulo": "Rapido y furioso 4",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "El fugitivo Dom Toretto (Vin Diesel) y el detective Brian O’Conner (Paul Walker) vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante.",
-        "puntuacion": 6.7,
-        "year": "2009",
-        "poster": "https://image.tmdb.org/t/p/w500/bBioDtcG94rhvWnBE45yPUdgExi.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/13804.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20furious%20%282009%29/Fast%20and%20furious%20%282009%29.mp4"
-    },
-    {
-        "id": "82992",
-        "titulo": "Rapido y furioso 6",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "Desde que Dom (Vin Diesel) y Brian (Paul Walker) le robaron a un mafioso cien millones de dólares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs (Dwayne Johnson) les ha seguido la pista en varios países a una banda de letales conductores mercenarios, cuyo cerebro (Luke Evans) cuenta con la inestimable ayuda de la sexy Letty (Michelle Rodriguez), una vieja novia de Dom, a la que éste daba por muerta. La única forma de detenerlos es enfrentarse a ellos en las calles; así que Hobbs le pide a Dom que reúna a su equipo en Londres.",
-        "puntuacion": 6.8,
-        "year": "2013",
-        "poster": "https://image.tmdb.org/t/p/w500/xR9qP1Yhymsl7XmtZ4N3YSsOzh4.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/oqxCzAO8sn1rSco2Pc19DlitgEn.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/82992.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20Furious%206%20%282013%29/Fast%20and%20Furious%206%20%282013%29.mp4"
-    },
-    {
-        "id": "51497",
-        "titulo": "Rapido y furioso 5: 5in Control",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "Dominic Toretto y su equipo de corredores callejeros planean un atraco masivo para comprar su libertad mientras están en la mira de un poderoso capo de la droga brasileño y un peligroso agente federal.",
-        "puntuacion": 7.2,
-        "year": "2011",
-        "poster": "https://image.tmdb.org/t/p/w500/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/g5VrNyNhyQFHJB8ANGEfIuvLyhF.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/51497.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Fast%20Five%20%282011%29/Fast%20Five%20%282011%29.mp4"
     },
     {
         "id": "870358",
@@ -2275,17 +2262,56 @@
         "video": "https://tad-peliculas.b-cdn.net/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso/Rapido%20y%20Furioso%202%20M%C3%A1s%20R%C3%A1pido%2C%20M%C3%A1s%20Furioso.mp4"
     },
     {
-        "id": "385687",
-        "titulo": "Rapido y furioso X",
+        "id": "9615",
+        "titulo": "Rapido y furioso 3: Reto Tokio",
         "genero": "Acción",
         "plataforma": "Netflix",
-        "sinopsis": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
-        "puntuacion": 7.0,
-        "year": "2023",
-        "poster": "https://image.tmdb.org/t/p/w500/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/385687.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%2010/Rapidos%20y%20Furiosos%2010.mp4"
+        "sinopsis": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de «drift» (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag.",
+        "puntuacion": 6.5,
+        "year": "2006",
+        "poster": "https://image.tmdb.org/t/p/w500/hkHDmkL5abn3P005v6xfEG3ZyYT.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/9615.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29.mp4"
+    },
+    {
+        "id": "13804",
+        "titulo": "Rapido y furioso 4",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "El fugitivo Dom Toretto (Vin Diesel) y el detective Brian O’Conner (Paul Walker) vuelven a encontrarse en Los Ángeles, pero sus relaciones no mejoran. Sin embargo, obligados a enfrentarse a un enemigo común, no les queda más remedio que unir sus fuerzas si quieren vencerlo. Después del atraco a un convoy, los dos protagonistas averiguan que si quieren vengarse, deberán llegar al límite de sus posibilidades al volante.",
+        "puntuacion": 6.7,
+        "year": "2009",
+        "poster": "https://image.tmdb.org/t/p/w500/bBioDtcG94rhvWnBE45yPUdgExi.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/25HepicRtrzZ3MVCqhfoxGDbHjw.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/13804.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20furious%20%282009%29/Fast%20and%20furious%20%282009%29.mp4"
+    },
+    {
+        "id": "51497",
+        "titulo": "Rapido y furioso 5: 5in Control",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "Dominic Toretto y su equipo de corredores callejeros planean un atraco masivo para comprar su libertad mientras están en la mira de un poderoso capo de la droga brasileño y un peligroso agente federal.",
+        "puntuacion": 7.2,
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/k1OKkkn6dekDTaZqzZK7sVI44eg.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/g5VrNyNhyQFHJB8ANGEfIuvLyhF.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/51497.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Fast%20Five%20%282011%29/Fast%20Five%20%282011%29.mp4"
+    },
+    {
+        "id": "82992",
+        "titulo": "Rapido y furioso 6",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "Desde que Dom (Vin Diesel) y Brian (Paul Walker) le robaron a un mafioso cien millones de dólares, se encuentran en paradero desconocido; no pueden regresar a casa porque la ley los persigue. Entretanto, Hobbs (Dwayne Johnson) les ha seguido la pista en varios países a una banda de letales conductores mercenarios, cuyo cerebro (Luke Evans) cuenta con la inestimable ayuda de la sexy Letty (Michelle Rodriguez), una vieja novia de Dom, a la que éste daba por muerta. La única forma de detenerlos es enfrentarse a ellos en las calles; así que Hobbs le pide a Dom que reúna a su equipo en Londres.",
+        "puntuacion": 6.8,
+        "year": "2013",
+        "poster": "https://image.tmdb.org/t/p/w500/xR9qP1Yhymsl7XmtZ4N3YSsOzh4.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/oqxCzAO8sn1rSco2Pc19DlitgEn.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/82992.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Fast%20and%20Furious%206%20%282013%29/Fast%20and%20Furious%206%20%282013%29.mp4"
     },
     {
         "id": "168259",
@@ -2301,6 +2327,19 @@
         "video": "https://tad-peliculas.b-cdn.net/R%C3%A1pidos%20Y%20Furiosos%207%20%282015%29/R%C3%A1pidos%20Y%20Furiosos%207%20%282015%29.mp4"
     },
     {
+        "id": "337339",
+        "titulo": "Rapido y furioso 8",
+        "genero": "Acción",
+        "plataforma": "Amazon Prime",
+        "sinopsis": "Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.",
+        "puntuacion": 6.9,
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/337339.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20of%20the%20furious%20(2017)/The%20fate%20of%20the%20furious%20(2017).mp4"
+    },
+    {
         "id": "385128",
         "titulo": "Rapido y furioso 9",
         "genero": "Acción",
@@ -2312,6 +2351,19 @@
         "backdrop": "https://image.tmdb.org/t/p/original/xXHZeb1yhJvnSHPzZDqee0zfMb6.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/385128.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%209/Rapidos%20y%20Furiosos%209.mp4"
+    },
+    {
+        "id": "385687",
+        "titulo": "Rapido y furioso X",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "A través de varias misiones y contra lo imposible, Dom Toretto y su familia han sido más astutos y más rápidos que todos los enemigos se le han cruzado en su camino. Ahora se enfrentan a su enemigo más letal: una amenaza aterradora que surge de las sombras del pasado que está alimentado de una venganza sangrienta, y está decidido a destruir a su familia y destruir todo, y a cualquier persona, a los que Dom ama.",
+        "puntuacion": 7.0,
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w500/x3zlm6VxPvVrYWE3bHkYUQMR798.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4XM8DUTQb3lhLemJC51Jx4a2EuA.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/385687.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Rapidos%20y%20Furiosos%2010/Rapidos%20y%20Furiosos%2010.mp4"
     },
     {
         "id": "1366",
@@ -2533,32 +2585,6 @@
         "backdrop": "https://image.tmdb.org/t/p/original/l2bAhg1h3eJrXiIZv8v2uMkuQPF.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/534.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Terminator%20Salvaci%C3%B3n%20%282009%29/Terminator%20Salvaci%C3%B3n%20%282009%29.mp4"
-    },
-    {
-        "id": "9615",
-        "titulo": "Rapido y furioso 3: Reto Tokio",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "Shaun Boswell es un chico que no acaba de encajar en ningún grupo. En el instituto es un solitario, su única conexión con el mundo de indiferencia que le rodea es a través de las carreras ilegales, lo que no le ha convertido en el chico favorito de la policía. Cuando amenazan con encarcelarle, le mandan fuera del país a pasar una temporada con su tío, un militar destinado en Japón, que vive en un diminuto piso en un barrio barato de Tokio. En el país donde nacieron la mayoría de los coches modificados, las simples carreras en la calle principal han sido sustituidas por el último reto automovilístico que desafía la gravedad, las carreras de «drift» (arrastre), una peligrosa mezcla de velocidad en pistas con curvas muy cerradas y en zigzag.",
-        "puntuacion": 6.5,
-        "year": "2006",
-        "poster": "https://image.tmdb.org/t/p/w500/hkHDmkL5abn3P005v6xfEG3ZyYT.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/dMARcKLrv0T7kVJ4iQR3vqTTdtT.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/9615.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29/The%20fast%20and%20the%20furious%20tokyo%20drift%20%282006%29.mp4"
-    },
-    {
-        "id": "337339",
-        "titulo": "Rapido y furioso 8",
-        "genero": "Acción",
-        "plataforma": "Amazon Prime",
-        "sinopsis": "Con Dom y Letty de luna de miel, Brian y Mia fuera del juego y el resto de la pandilla exonerada de todo cargo, el equipo está instalado en una vida aparentemente normal. Pero cuando una misteriosa mujer (Theron) seduce a Dom (Diesel) para regresar nuevamente al mundo del crimen, se ve incapaz de rechazar la oportunidad, traicionando así a todo el mundo cercano a él.",
-        "puntuacion": 6.9,
-        "year": "2017",
-        "poster": "https://image.tmdb.org/t/p/w500/q0iFgE8Ad8AAeabKor4czkWiuRL.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/3IJ8kG8i84PncXkSovu0PaZQfjM.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/337339.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/The%20fast%20of%20the%20furious%20(2017)/The%20fate%20of%20the%20furious%20(2017).mp4"
     },
     {
         "id": "298618",
@@ -3316,7 +3342,7 @@
     },
     {
         "id": "118340",
-        "titulo": "Guardianes de la galaxia",
+        "titulo": "Guardianes de la galaxia volumen 1",
         "genero": "Acción",
         "plataforma": "Disney+",
         "sinopsis": "Peter Quill, debe mantener una incomoda alianza con Gamora, Drax, Rocket y Groot para asegurar un artefacto que pone en peligro a toda la galaxia no caiga en las manos del temible Ronan el Acusador.",
@@ -3990,7 +4016,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/1425122.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Una%20Navidad%20Muy%20Jonas%20Brothers%20(2025)/Una%20Navidad%20Muy%20Jonas%20Brothers%20(2025).mkv"
     },
-      {
+    {
         "id": "1425123",
         "titulo": "Una Navidad ex cepcional",
         "genero": "Romance",
@@ -4016,30 +4042,225 @@
         "trailer": "https://tad-trailers.b-cdn.net/1280672.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Uno%20De%20Esos%20D%C3%ADas%20(2025)/Uno%20De%20Esos%20D%C3%ADas%20(2025).mkv"
     },
-     {
+    {
         "id": "toxico_narcisista",
         "titulo": "Toxico Narcisista",
         "genero": "Drama",
         "plataforma": "TAD Origins",
         "sinopsis": "TÓXICO NARCISISTA, es un retrato devastador de las relaciones tóxicas y sobre la realidad que viven muchas mujeres cuando caen en una relación con un aparente psicópata con rasgos narcisistas. Que muestra una realidad difícil de digerir y que despierta sentimientos encontrados en personas que hayan atravesado por situaciones similares",
-        "puntuacion": 9.8,
+        "puntuacion": 7.0,
         "year": "2024",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/Toxico%20Narcisista.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/Toxico%20Narcisista2.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/toxico_narcisista.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Toxico%20Narcisista/Toxico%20Narcisista.mp4"
     },
-     {
+    {
         "id": "cuando_lo_peor_haya_pasado",
         "titulo": "Cuando Lo Peor Haya Pasado",
         "genero": "Drama",
         "plataforma": "TAD Origins",
         "sinopsis": "Cuando lo peor haya pasado: una experiencia cinematográfica cruda y fascinante sobre los rincones oscuros del alma humana. La película según el propio director está pensada para romper psicológicamente al espectador. Cuando lo peor haya pasado, un drama psicológico que promete dejar a los espectadores al borde de sus asientos y cuestionando la naturaleza misma de las relaciones humanas. Escrita, dirigida y protagonizada por Nico Quindt, la película se adentra en las profundidades de los traumas, los secretos y las decisiones que definen nuestra existencia",
-        "puntuacion": 8.5,
+        "puntuacion": 7.0,
         "year": "2023",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/Cuando%20Lo%20Peor%20Haya%20Pasado.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/Cuando%20Lo%20Peor%20Haya%20Pasado2.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/cuando_lo_peor_haya_pasado.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Cuando%20Lo%20Peor%20Haya%20Pasado/Cuando%20Lo%20Peor%20Haya%20Pasado.mp4"
+    },
+    {
+        "id": "354912",
+        "titulo": "Coco",
+        "genero": "Familia",
+        "plataforma": "TAD Origins",
+        "sinopsis": "A pesar de la desconcertante prohibición de la generación de música de su familia, Miguel sueña con convertirse en un músico consumado como su ídolo, Ernesto de la Cruz. Desesperado por demostrar su talento, Miguel se encuentra en la deslumbrante y colorida Tierra de los Muertos siguiendo una misteriosa cadena de eventos. En el camino, se encuentra con el encantador y tramposo Héctor. Juntos, realizan un viaje extraordinario para descubrir la historia real detrás de la familia de Miguel.",
+        "puntuacion": 8.2,
+        "year": "2017",
+        "poster": "https://image.tmdb.org/t/p/w500/oburjHqzOrTtDLYbLunKLwUHhk1.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/g7CHF8gTLGooTbP4GznIGwaqAGL.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/354912.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Coco/Coco.mp4"
+    },
+    {
+        "id": "754",
+        "titulo": "Contracara",
+        "genero": "Acción",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Para frustrar un complot terrorista, un agente del FBI se somete a una cirugía de transplante facial y asume la identidad de un cerebro criminal, que asesinó a su único hijo. El plan se torna agrio cuando el criminal se despierta prematuramente y busca venganza.",
+        "puntuacion": 7.1,
+        "year": "1997",
+        "poster": "https://image.tmdb.org/t/p/w500/4RSh1DsHcigzv2BWWQg4gXT9one.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/tsSWHgaFlzzkp3o976juBZbmcs2.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/754.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Contracara/Contracara.mp4"
+    },
+    {
+        "id": "284052",
+        "titulo": "Doctor Strange: Hechicero supremo",
+        "genero": "Fantasía",
+        "plataforma": "Disney+",
+        "sinopsis": "La historia del famoso neurocirujano Dr. Stephen Strange cuya vida cambia para siempre luego de un accidente automovilístico que lo deja sin poder mover sus manos. Cuando la medicina tradicional falla, se ve obligado a buscar una cura y esperanzas en un lugar impensado: una comunidad aislada y misteriosa llamada Kamar-Taj. Rápidamente descubre que éste no es sólo un centro de recuperación, sino también la primera línea de una batalla en contra de fuerzas oscuras y ocultas empeñadas en destruir nuestra realidad. En poco tiempo, Strange, armado con sus poderes mágicos recientemente adquiridos, se ve obligado a elegir entre volver a su antigua vida de riqueza y estatus, o dejarlo todo para defender el mundo como el hechicero más poderoso del planeta.",
+        "puntuacion": 7.4,
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/sOsvKTJS0XwtfLsNMO3C0CVWJ4u.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3zvZ699gMW2RhWc0GisIukzq0Ls.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/284052.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Dr%20Strange%201/Dr%20Strange.mp4"
+    },
+    {
+        "id": "671",
+        "titulo": "Harry Potter 1: Y la piedra filosofal",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "Al cumplir los once años, Harry Potter descubre que es un mago y que es hijo de dos destacados hechiceros. Mientras estudia en la escuela Hogwarts de Magia y Hechicería, poco a poco descubre más la verdad sobre la muerte de sus padres hechiceros.",
+        "puntuacion": 7.9,
+        "year": "2001",
+        "poster": "https://image.tmdb.org/t/p/w500/3MKK7vAJLtSkBTABMTjxf6TOCo3.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1XAC6RPT01UX9EQGy2JVn5c8pgy.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/671.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20La%20Piedra%20Filosofal%20(2001)/Harry%20Potter%20Y%20La%20Piedra%20Filosofal%20(2001).mp4"
+    },
+    {
+        "id": "672",
+        "titulo": "Harry Potter 2: Y la cámara secreta",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "Harry Potter se prepara para ir a Hogwarts cuando recibe a un elfo doméstico llamado Dobby, quién le advierte que corre en un gran peligro. Llegando a la escuela, sucesos inquietantes motiva a Harry y sus amigos, Ron y Hermione, a investigar lo que está sucediendo en Hogwarts.",
+        "puntuacion": 7.7,
+        "year": "2002",
+        "poster": "https://image.tmdb.org/t/p/w500/d7lK3K1QWmcgjHyRMBV3rT2yzTM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1stUIsjawROZxjiCMtqqXqgfZWC.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/672.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20La%20C%C3%A1mara%20Secreta%20(2002)/Harry%20Potter%20Y%20La%20C%C3%A1mara%20Secreta%20(2002).mp4"
+    },
+    {
+        "id": "673",
+        "titulo": "Harry Potter 3: Y el prisionero de Azkaban",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "Durante sus días en la escuela Hogwarts, nuevos peligros se le presentan a Harry y sus amigos. La llegada de los Dementores, seres que absorben el alma, un peligroso aliado acecha dentro de los muros del castillo y el temible mago Sirius Black escapa Azkaban.",
+        "puntuacion": 8.0,
+        "year": "2004",
+        "poster": "https://image.tmdb.org/t/p/w500/xBph7rrwtxUuDxyZVDQtbP2H0sM.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/vbk5CfaAHOjQPSAcYm6AoRRz2Af.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/673.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20El%20Prisionero%20De%20Azkaban%20(2004)/Harry%20Potter%20Y%20El%20Prisionero%20De%20Azkaban%20(2004).mp4"
+    },
+    {
+        "id": "674",
+        "titulo": "Harry Potter 4: Y el cáliz de fuego",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "El Torneo de los Tres Magos llega a la escuela Hogwarts. Sin embargo, Harry Potter se convierte en un competidor, pero nunca presentó su nombre. A medida que avanza los juegos, poco a poco Harry descubre las intenciones detras de este torneo.",
+        "puntuacion": 7.8,
+        "year": "2005",
+        "poster": "https://image.tmdb.org/t/p/w500/5hrrncgY7GfRHz6JmnhPlvJUONe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8f9dnOtpArDrOMEylpSN9Sc6fuz.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/674.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20El%20C%C3%A1liz%20De%20Fuego%20(2005)/Harry%20Potter%20Y%20El%20C%C3%A1liz%20De%20Fuego%20(2005).mp4"
+    },
+    {
+        "id": "675",
+        "titulo": "Harry Potter 5: Y la orden del Fénix",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "Inquietó por el regreso de Lord Voldemort, las palabras Harry Potter son ignoradas. Mientras la escuela Hogwarts sufre grandes cambios, Harry y sus amigos reúnen a un pequeño grupo de estudiantes para defenderse de las artes oscuras.",
+        "puntuacion": 7.7,
+        "year": "2007",
+        "poster": "https://image.tmdb.org/t/p/w500/xxXiM2Ij7plbzibKWW9BfDk23aI.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/pkxPkHOPJjOvzfQOclANEBT8OfK.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/675.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20La%20Orden%20Del%20F%C3%A9nix%20(2007)/Harry%20Potter%20Y%20La%20Orden%20Del%20F%C3%A9nix%20(2007).mp4"
+    },
+    {
+        "id": "767",
+        "titulo": "Harry Potter 6: Y el misterio del príncipe",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "A pesar de la oscuridad que Lord Voldemort entrelaza el mundo muggle y el mágico, Hogwarts continúa adelante. Mientras está en una misión por orden de el director Dumbledore, Harry obtiene un viejo libro de posiciones de el \"Príncipe Mestizo\".",
+        "puntuacion": 7.7,
+        "year": "2009",
+        "poster": "https://image.tmdb.org/t/p/w500/tO0UGkNuQoxyXve0mvwtXP49NAO.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/ze6Mx4QE5mQVXRYmG2flncqqle4.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/767.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20El%20Misterio%20Del%20Pr%C3%ADncipe%20(2009)/Harry%20Potter%20Y%20El%20Misterio%20Del%20Pr%C3%ADncipe%20(2009).mp4"
+    },
+    {
+        "id": "12444",
+        "titulo": "Harry Potter 7: Y las reliquias de la muerte (1ª parte)",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "Harry, Ron y Hermione abandonan su último año en Hogwarts para encontrar y destruir los Horrocruxes restantes, poniendo fin a la búsqueda de la inmortalidad de Voldemort.",
+        "puntuacion": 7.7,
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/bZYziROYpqXI1DeW4Xz3egMOqej.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/slW0M2G9txC0aUbftCTm1nYX1K8.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/12444.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20Las%20Reliquias%20De%20La%20Muerte%20Parte%201%20(2010)/Harry%20Potter%20Y%20Las%20Reliquias%20De%20La%20Muerte%20Parte%201%20(2010).mp4"
+    },
+    {
+        "id": "12445",
+        "titulo": "Harry Potter 8: Y las reliquias de la muerte: Parte 2",
+        "genero": "Aventura",
+        "plataforma": "HBO Max",
+        "sinopsis": "Harry, Ron y Hermione continúan su búsqueda para derrotar al malvado Voldemort de una vez por todas. Sin embargo, Harry descubre tres objetos mágicos que le otorgan poderes que rivalizan con las formidables habilidades de Voldemort.",
+        "puntuacion": 8.1,
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/aM1TuUiPtV8OAZyu61CTdy9Ymtk.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/cbcpDn6XJaIGoOil1bKuskU8ds4.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/12445.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Harry%20Potter%20Y%20Las%20Reliquias%20De%20La%20Muerte%20Parte%202%20(2011)/Harry%20Potter%20Y%20Las%20Reliquias%20De%20La%20Muerte%20Parte%202%20(2011).mp4"
+    },
+    {
+        "id": "2123",
+        "titulo": "Irene, Yo y Mi Otro Yo",
+        "genero": "Comedia",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Charlie Baileygates es un agente de policía con un trastorno de identidad disociativo. Cuando su otra personalidad, Hank, toma el control, la vida de Charlie se convierte en un caos cómico.",
+        "puntuacion": 6.6,
+        "year": "2000",
+        "poster": "https://image.tmdb.org/t/p/w500/9Jx2FzdKUYqF3BojG65xjqIG9aj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8qLen3NLCVSu1I9aqGWbTUIoBLQ.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/2123.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Irene%2C%20yo%20y%20mi%20otro%20yo/Irene%2C%20Yo%20Y%20Mi%20Otro%20Yo.mp4"
+    },
+    {
+        "id": "497",
+        "titulo": "Milagros Inesperados",
+        "genero": "Fantasía",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Las vidas de los guardias del corredor de la muerte se ven afectadas por uno de sus cargos: un hombre negro acusado de asesinato y violación de niños, pero que tiene un misterioso don.",
+        "puntuacion": 8.5,
+        "year": "1999",
+        "poster": "https://image.tmdb.org/t/p/w500/7ezlnHDn6clFku58TmFmpKUQUqf.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/lgJlu0Fp1mdTaFEeaQJ7DskhSOr.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/497.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Milagros%20Inesperados%20(1999)/Milagros%20Inesperados%20(1999).mp4"
+    },
+    {
+        "id": "1771",
+        "titulo": "Capitán América: El Primer Vengador",
+        "genero": "Acción",
+        "plataforma": "Disney+",
+        "sinopsis": "Steve Rogers, un soldado militar rechazado, se transforma en el Capitán América después de tomar una dosis de un «suero de Súper-Soldado». Pero ser el Capitán América tiene un precio cuando intenta acabar con un belicista y una organización terrorista.",
+        "puntuacion": 7.0,
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1771.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Capitan%20America%20Primer%20Vengador/Capitan%20America%20Primer%20Vengador.mkv"
+    },
+    {
+        "id": "1422096",
+        "titulo": "Buen Chico",
+        "genero": "Terror",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Un perro fiel se muda a una casa rural con su dueño Todd, solo para descubrir fuerzas sobrenaturales acechando en las sombras. Mientras entidades oscuras amenazan a su compañero humano, el valiente cachorro debe luchar para proteger a quien más ama.",
+        "puntuacion": 6.7,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w500/3lJt067VAwy5OsEOLH7rinnbwam.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1422096.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Good%20Boy%20(2025)/Good%20Boy%20It%20Ddp5%201%20H%20264mrcrimsonx%20(2025).mkv"
     }
 ]

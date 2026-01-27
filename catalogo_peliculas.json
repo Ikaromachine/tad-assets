@@ -636,7 +636,7 @@
         "trailer": "https://tad-trailers.b-cdn.net/312221.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Creed%20%282015%29/Creed%20%282015%29.mp4"
     },
-     {
+    {
         "id": "480530",
         "titulo": "Creed 2: Defendiendo el Legado",
         "genero": "Drama",
@@ -4248,7 +4248,7 @@
         "poster": "https://image.tmdb.org/t/p/w500/i5eSA5DK5iAv53SB4yv57bN56o6.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/yFuKvT4Vm3sKHdFY4eG6I4ldAnn.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1771.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Capitan%20America%20Primer%20Vengador/Capitan%20America%20Primer%20Vengador.mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Capitan%20America%20Primer%20Vengador/Capitan%20America%20Primer%20Vengador.mkv"
     },
     {
         "id": "1422096",
@@ -4261,6 +4261,19 @@
         "poster": "https://image.tmdb.org/t/p/w500/3lJt067VAwy5OsEOLH7rinnbwam.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/1422096.mp4",
-        "video": "https://tad-peliculas.b-cdn.net/Good%20Boy%20(2025)/Good%20Boy%20(2025).mp4"
+        "video": "https://tad-peliculas.b-cdn.net/Good%20Boy%20(2025)/Good%20Boy%20It%20Ddp5%201%20H%20264mrcrimsonx%20(2025).mkv"
+    },
+    {
+        "id": "1084242",
+        "titulo": "Zootopia 2",
+        "genero": "Animación",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Tras resolver el caso más importante de la historia de Zootopia, los policías novatos Judy Hopps y Nick Wilde se encuentran en la sinuosa pista de un gran misterio cuando Gary De'Snake llega y revoluciona la metrópolis animal.",
+        "puntuacion": 7.6,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w500/LrMBxFwnsMgXTnaWqHYinn3vDN.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/1084242.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/Zootopia%202%20(2025)/Zootopia%202%20(2025).mkv"
     }
 ]

@@ -8,6 +8,10 @@ https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/itbienveni
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/blackrabbir.jpg|Black Rabbit. Temporada 1
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/andor.jpg|Andor. temporada 1
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/zootopia2.jpg|Zootopia 2
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/ecdlst1.jpg|El Cartel de los sapos. Temporada 1
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/ecdlsorigen.jpg|El Cartel de los sapos. El Origen
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/pabloescobar.jpg|Pablo Escobar, El patrón del mal
+
 
 
 

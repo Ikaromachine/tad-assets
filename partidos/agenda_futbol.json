@@ -1,45 +1,5 @@
 [
     {
-        "partido": "Velez vs Talleres",
-        "fecha_display": "Mar 27/01 | 17:45 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_Talleres.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Gimnasia Mza vs San Lorenzo",
-        "fecha_display": "Mar 27/01 | 20:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_Mza_vs_San_Lorenzo.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Huracan vs Ind Rivadavia",
-        "fecha_display": "Mar 27/01 | 20:00 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Huracan_vs_Ind_Rivadavia.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Newells vs Independiente",
-        "fecha_display": "Mar 27/01 | 22:15 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Newells_vs_Independiente.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Atl Tucuman vs C. Cordoba",
-        "fecha_display": "Mar 27/01 | 22:15 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Atl_Tucuman_vs_C._Cordoba.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
         "partido": "Aldosivi vs Barracas Ctral",
         "fecha_display": "Mie 28/01 | 17:00 HS",
         "canal": "TNT Sports",

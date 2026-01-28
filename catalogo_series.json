@@ -249,7 +249,7 @@
     {
         "id": "task",
         "titulo": "Task",
-        "genero": "Thriller",
+        "genero": "Suspenso",
         "plataforma": "HBO Max",
         "sinopsis": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
         "puntuacion": 8.0,
@@ -571,7 +571,7 @@
     {
         "id": "black_rabbit_t1",
         "titulo": "Black Rabbit. Temporada 1",
-        "genero": "Thriller",
+        "genero": "Suspenso",
         "plataforma": "Netflix",
         "sinopsis": "El dueño de un restaurante de moda se ve arrastrado al hampa neoyorquina cuando su hermano, un imán para los problemas, vuelve a la ciudad con unos usureros pisándole los talones.",
         "puntuacion": 7.0,

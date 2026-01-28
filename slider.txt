@@ -1,11 +1,13 @@
-SLIDER|https://image.tmdb.org/t/p/original/5h2EsPKNDdB3MAtOk9MB9Ycg9Rz.jpg|Zootopia 2
-SLIDER|https://image.tmdb.org/t/p/original/mPtPJzBkwksUoMEKpkZqxBrlKpZ.jpg|Buen Chico
-SLIDER|https://image.tmdb.org/t/p/original/lgJlu0Fp1mdTaFEeaQJ7DskhSOr.jpg|Milagros Inesperados
-SLIDER|https://image.tmdb.org/t/p/original/iQlel1ftOsnWguxyN98eUmKTOPm.jpg|El cartel de los sapos: El origen
-SLIDER|https://image.tmdb.org/t/p/original/4jTSmEGdZ77A2dP6Y08gwo52LuF.jpg|El Cártel de los Sapos
-SLIDER|https://image.tmdb.org/t/p/original/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg|Pablo Escobar: El Patrón del Mal
-POSTER|https://image.tmdb.org/t/p/w500/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg
-POSTER|https://image.tmdb.org/t/p/w500/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/ecdlsorigen.jpg|El Cartel de los sapos. El Origen
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/ecdlst1.jpg|El Cartel de los sapos. Temporada 1
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/pabloescobar.jpg|Pablo Escobar, El patrón del mal
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/strangerthingst5.jpg|Stranger Things. temporada 5
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tonyyziva.jpg|NCIS: Tony & Ziva
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/thestudio.jpg|The Studio
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/task.jpg|Task
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/blackrabbir.jpg|Black Rabbit. Temporada 1
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/zootopia2.jpg|Zootopia 2
+
 
 
 

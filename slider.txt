@@ -6,7 +6,8 @@ https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/tonyyziva.
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/thestudio.jpg|The Studio
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/task.jpg|Task
 https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/blackrabbir.jpg|Black Rabbit. Temporada 1
-https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/zootopia2.jpg|Zootopia 2
+https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/slider/zootopiav2.jpg|Zootopia 2
+
 
 
 

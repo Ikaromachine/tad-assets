@@ -4821,5 +4821,18 @@
         "backdrop": "https://image.tmdb.org/t/p/original/78NLasXAO6fhkQ55SrlS4Ul0oPA.jpg",
         "trailer": "https://tad-trailers.b-cdn.net/106337.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Un%20d%C3%ADa%20a%20la%20vez%20(2013)/Un%20d%C3%ADa%20a%20la%20vez%20(2013).mkv"
+    },
+     {
+        "id": "136735",
+        "titulo": "El cártel de los sapos",
+        "genero": "Drama",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Martín González es un niño de clase baja que descubre en el mundo del tráfico de drogas la forma de ascenso social, fundamentalmente para ganar el amor de Sofia, una buena chica, inalcanzable a priori, que es su amor desde la infancia. Su audacia, inconsciencia y su juventud lo llevan a convertirse en parte actica y vital del peligroso “Cartel del Norte del Valle’, una organización criminal que se define como un dispositivo poderoso y sanguinario que superó al Cartel de Cali en el poder, la astucia militar de la corrupción y el poder económico.",
+        "puntuacion": 7.1,
+        "year": "2011",
+        "poster": "https://image.tmdb.org/t/p/w500/zgsssIOaTVRN7nT5ms6xEWpPKhj.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/jA1vle7V5wCc0HTOErkakX8hqkq.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/136735.mp4",
+        "video": "https://tad-peliculas.b-cdn.net/El%20c%C3%A1rtel%20de%20los%20sapos%20(2011)/El%20c%C3%A1rtel%20de%20los%20sapos%20(2011).mkv"
     }
 ]

@@ -5312,7 +5312,7 @@
         "puntuacion": 5.7,
         "year": "2012",
         "poster": "https://image.tmdb.org/t/p/w500/anpsNk0HOhrizUZSC6SbLqSBCw9.jpg",
-        "backdrop": "",
+        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/atraco2.jpg",
         "trailer": "",
         "video": "https://tad-peliculas.b-cdn.net/%C2%A1Atraco!%20(2012)/%C2%A1Atraco!%20(2012).mkv"                       
     }

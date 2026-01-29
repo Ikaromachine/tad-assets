@@ -5049,10 +5049,10 @@
         "genero": "Comedia",
         "plataforma": "TAD Origins",
         "sinopsis": "Leo y Ana eran una pareja muy feliz hasta que ella decide viajar a España para probar suerte como chef y él prefiere quedarse en Buenos Aires. Se separan, pero cuatro años más tarde vuelven a encontrarse y no saben si vale la pena apostar de nuevo por su amor.",
-        "puntuacion": 0.0,
+        "puntuacion": 5.8,
         "year": "2011",
-        "poster": "",
-        "backdrop": "",
+        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/guelcom.jpg",
+        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/guelcom2.jpg",
         "trailer": "",
         "video": "https://tad-peliculas.b-cdn.net/G%C3%BCelcom%20(2011)/G%C3%BCelcom%20(2011).mkv"
     },

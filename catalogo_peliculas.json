@@ -5315,5 +5315,18 @@
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/atraco2.jpg",
         "trailer": "",
         "video": "https://tad-peliculas.b-cdn.net/%C2%A1Atraco!%20(2012)/%C2%A1Atraco!%20(2012).mkv"                       
+    },
+    {
+        "id": "38199",
+        "titulo": "Amenazados",
+        "genero": "Drama",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Un thriller psicológico centrado alrededor de un agente del FBI que presiona a un presunto terrorista para que le diga la localización de tres armas nucleares colocadas en los Estados Unidos.",
+        "puntuacion": 6.8,
+        "year": "2010",
+        "poster": "https://image.tmdb.org/t/p/w500/1DfkbLnyV5cjZCGwtmwq3tgGAZV.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/p80dRTtTQE5U7FeDoJXanxFX2xO.jpg",
+        "trailer": "",
+        "video": "https://tad-peliculas.b-cdn.net/Unthinkable%20(2010)/Unthinkable%20(2010).mkv"
     }
 ]

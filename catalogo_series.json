@@ -1,170 +1,62 @@
 [
     {
-        "id": "815426",
-        "titulo": "Hasta que te conocí",
-        "genero": "Drama",
-        "plataforma": "Disney+",
-        "sinopsis": "Hasta que te conocí, es una serie que narra la vida de Alberto Aguilera Valadez hacia su sueño a fama. Consta de 13 episodios, los cuales revelan datos nunca antes vistos en la vida del Divo de Juárez. Una historia que cuenta cómo su talento lo llevó a vencer a su destino y superar la pobreza, las traiciones y los prejuicios de los que era víctima para convertirse en el icono musical más querido de América Latina",
-        "puntuacion": 8.5,
-        "year": "2016",
-        "poster": "https://image.tmdb.org/t/p/w1280/fYv7MkPsn5lUtLLDEa6ksd1eekA.jpg",
-        "backdrop": "/yMkIa39oBZfXTd61J8I208OOPmu.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/815426.mp4",
+        "id": "adios,_tierra_t1",
+        "titulo": "Adios, Tierra. Temporada 1",
+        "genero": "Ciencia Ficción",
+        "plataforma": "Netflix",
+        "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
+        "puntuacion": 6.0,
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w1280/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/nZB9cHrPZlZ1GzNKQMfiqfy8N1t.jpg",
         "capitulos": [
             {
                 "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E01_El%20recien%20llegado.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x01.mp4"
             },
             {
                 "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E02_Adios%20papa.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x02.mp4"
             },
             {
                 "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E03_Un%20mundo%20nuevo.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x03.mp4"
             },
             {
                 "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E04_Todo%20esta%20perdido.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x04.mp4"
             },
             {
                 "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E05_La%20jaula%20del%20palomo.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x05.mp4"
             },
             {
                 "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E06_El%20precio%20de%20la%20libertad.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x06.mp4"
             },
             {
                 "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E07_Primera%20llamada.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x07.mp4"
             },
             {
                 "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E08_El%20sue%C3%B1o%20de%20vivir.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x08.mp4"
             },
             {
                 "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E09_Camino%20a%20la%20fama.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x09.mp4"
             },
             {
                 "nombre": "10",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E10_La%20Luna%20ya%20se%20metio.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x10.mp4"
             },
             {
                 "nombre": "11",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E11_Se%20acabo%20el%20despues.mkv"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x11.mp4"
             },
             {
                 "nombre": "12",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E13_El%20Divo.mkv"
-            },
-            {
-                "nombre": "13",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E14_En%20la%20voz%20de%20Juan%20Gabriel.mkv"
-            },
-            {
-                "nombre": "14",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E15_El%20mas%20triste%20recuerdo.mkv"
-            },
-            {
-                "nombre": "15",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E16_La%20ultima%20entrevista.mkv"
-            },
-            {
-                "nombre": "16",
-                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conocii_S01E12_Hasta%20que%20te%20conoci.mkv"
-            }
-        ]
-    },
-    {
-        "id": "operativo_lioness",
-        "titulo": "Operativo: Lioness",
-        "genero": "Drama",
-        "plataforma": "Paramount+",
-        "sinopsis": "Joe intenta equilibrar su vida personal y profesional como punta de lanza de la CIA en la guerra contra el terrorismo. El Programa Lioness recluta a Cruz para que opere de incógnito junto a Joe entre los poderosos del terrorismo de Estado.",
-        "puntuacion": 8.0,
-        "year": "2023",
-        "poster": "https://image.tmdb.org/t/p/w500/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/operativo_lioness.mp4",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E08.mp4"
-            }
-        ]
-    },
-    {
-        "id": "stranger_things_5",
-        "titulo": "Stranger Things. temporada 5",
-        "genero": "Ciencia Ficción",
-        "plataforma": "Netflix",
-        "sinopsis": "Otoño de 1987. Hawkins está marcado por la apertura de las Grietas, y nuestros héroes están unidos por un solo objetivo: encontrar y matar a Vecna. Pero él desapareció; su paradero y sus planes son un misterio. Para complicar más las cosas, el gobierno puso a la ciudad bajo cuarentena militar e intensificó la cacería de Once, obligándola a esconderse otra vez. A medida que se acerca el aniversario de la desaparición de Will, también lo hace un terror pesado y familiar. La batalla final acecha, y con ella, una oscuridad más poderosa y letal que cualquier cosa que hayan enfrentado antes. Para terminar con esta pesadilla, van a necesitar a todos, al equipo completo, unidos por última vez.",
-        "puntuacion": 9.8,
-        "year": "2025",
-        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5.jpg",
-        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5_bd.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x08.mp4"
+                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x12.mp4"
             }
         ]
     },
@@ -194,149 +86,6 @@
             {
                 "nombre": "4",
                 "url": "https://tad-series.b-cdn.net/Adolescencia/Adolescencia%201x04.mp4"
-            }
-        ]
-    },
-    {
-        "id": "pluribus_1",
-        "titulo": "Pluribus. temporada 1",
-        "genero": "Drama",
-        "plataforma": "Apple TV",
-        "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
-        "puntuacion": 8,
-        "year": "2025",
-        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1.jpg",
-        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1_bg.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x08.mp4"
-            },
-            {
-                "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x09.mp4"
-            }
-        ]
-    },
-    {
-        "id": "task",
-        "titulo": "Task",
-        "genero": "Suspenso",
-        "plataforma": "HBO Max",
-        "sinopsis": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
-        "puntuacion": 8.0,
-        "year": "2025",
-        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task.jpg",
-        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task_bd.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Task/Task%201x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Task/Task%201x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Task/Task%201x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Task/Task%201x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Task/Task%201x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Task/Task%201x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Task/Task%201x07.mp4"
-            }
-        ]
-    },
-    {
-        "id": "the_studio",
-        "titulo": "The Studio",
-        "genero": "Comedia",
-        "plataforma": "Apple TV",
-        "sinopsis": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
-        "puntuacion": 8.1,
-        "year": "2025",
-        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio.jpg",
-        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio_bd.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x08.mp4"
-            },
-            {
-                "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x09.mp4"
-            },
-            {
-                "nombre": "10",
-                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x10.mp4"
             }
         ]
     },
@@ -463,112 +212,6 @@
         ]
     },
     {
-        "id": "adios,_tierra_t1",
-        "titulo": "Adios, Tierra. Temporada 1",
-        "genero": "Ciencia Ficción",
-        "plataforma": "Netflix",
-        "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
-        "puntuacion": 6.0,
-        "year": "2024",
-        "poster": "https://image.tmdb.org/t/p/w1280/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/nZB9cHrPZlZ1GzNKQMfiqfy8N1t.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x08.mp4"
-            },
-            {
-                "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x09.mp4"
-            },
-            {
-                "nombre": "10",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x10.mp4"
-            },
-            {
-                "nombre": "11",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x11.mp4"
-            },
-            {
-                "nombre": "12",
-                "url": "https://tad-series.b-cdn.net/Adios%2C%20tierra%20T1/Adios%20Tierra%201x12.mp4"
-            }
-        ]
-    },
-    {
-        "id": "bienvenidos_a_derry_t1",
-        "titulo": "It: Bienvenidos a Derry. Temporada 1",
-        "genero": "Terror",
-        "plataforma": "HBO Max",
-        "sinopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
-        "puntuacion": 8.2,
-        "year": "2025",
-        "poster": "https://image.tmdb.org/t/p/w1280/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/aeTIvkuXmoC28CfU9cOtK0hXs3l.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x08.mp4"
-            }
-        ]
-    },
-    {
         "id": "black_rabbit_t1",
         "titulo": "Black Rabbit. Temporada 1",
         "genero": "Suspenso",
@@ -610,664 +253,6 @@
             {
                 "nombre": "8",
                 "url": "https://tad-series.b-cdn.net/Black%20Rabbit%20T1/Black%20Rabbit%201x08.mp4"
-            }
-        ]
-    },
-    {
-        "id": "tony_y_ziva_t1",
-        "titulo": "NCIS: Tony & Ziva",
-        "genero": "Acción",
-        "plataforma": "Paramount+",
-        "sinopsis": "Tras la aparente muerte de Ziva, Tony cría a la hija de ambos, Tali. Años después, Ziva regresa y se reúne con Tony. La empresa de Tony es atacada y la familia viaja a Europa, intentando averiguar quién les persigue y volver a confiar el uno en el otro.",
-        "puntuacion": 7.9,
-        "year": "2025",
-        "poster": "https://image.tmdb.org/t/p/w1280/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/8ok0zRYh9Mrm8JUi8NXPHnHXcMM.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x08.mp4"
-            },
-            {
-                "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x09.mp4"
-            },
-            {
-                "nombre": "10",
-                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x10.mp4"
-            }
-        ]
-    },
-    {
-        "id": "tulsa_king_t3",
-        "titulo": "Tulsa King. Temporada 3",
-        "genero": "Drama",
-        "plataforma": "Paramount+",
-        "sinopsis": "Tulsa King: Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Dwight construye lentamente un nuevo imperio criminal en Tulsa.",
-        "puntuacion": 8.3,
-        "year": "2025",
-        "poster": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%20T3.jpg",
-        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/tulsat3v2.jpg",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x01.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x02.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x03.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x04.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x05.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x06.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x07.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x08.mp4"
-            },
-            {
-                "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x09.mp4"
-            },
-            {
-                "nombre": "10",
-                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x10.mp4"
-            }
-        ]
-    },
-    {
-        "id": "43348",
-        "titulo": "Pablo Escobar: El Patrón del Mal",
-        "genero": "Crimen",
-        "plataforma": "TAD Origins",
-        "sinopsis": "Esta fascinante serie narra la vida del infame Pablo Escobar, desde sus días como ratero hasta convertirse en el jefe de un imperio del narcotráfico.",
-        "puntuacion": 7.6,
-        "year": "2012",
-        "poster": "https://image.tmdb.org/t/p/w500/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/43348.mp4",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e1.mp4"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e10.mp4"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e11.mp4"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e12.mp4"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e13.mp4"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e14.mp4"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e15.mp4"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e16.mp4"
-            },
-            {
-                "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e17.mp4"
-            },
-            {
-                "nombre": "10",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e18.mp4"
-            },
-            {
-                "nombre": "11",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e19.mp4"
-            },
-            {
-                "nombre": "12",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e2.mp4"
-            },
-            {
-                "nombre": "13",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e20.mp4"
-            },
-            {
-                "nombre": "14",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e21.mp4"
-            },
-            {
-                "nombre": "15",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e22.mp4"
-            },
-            {
-                "nombre": "16",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e23.mp4"
-            },
-            {
-                "nombre": "17",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e24.mp4"
-            },
-            {
-                "nombre": "18",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e25.mp4"
-            },
-            {
-                "nombre": "19",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e26.mp4"
-            },
-            {
-                "nombre": "20",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e27.mp4"
-            },
-            {
-                "nombre": "21",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e28.mp4"
-            },
-            {
-                "nombre": "22",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e29.mp4"
-            },
-            {
-                "nombre": "23",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e3.mp4"
-            },
-            {
-                "nombre": "24",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e30.mp4"
-            },
-            {
-                "nombre": "25",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e31.mp4"
-            },
-            {
-                "nombre": "26",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e32.mp4"
-            },
-            {
-                "nombre": "27",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e33.mp4"
-            },
-            {
-                "nombre": "28",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e34.mp4"
-            },
-            {
-                "nombre": "29",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e35.mp4"
-            },
-            {
-                "nombre": "30",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e36.mp4"
-            },
-            {
-                "nombre": "31",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e37.mp4"
-            },
-            {
-                "nombre": "32",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e38.mp4"
-            },
-            {
-                "nombre": "33",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e39.mp4"
-            },
-            {
-                "nombre": "34",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e4.mp4"
-            },
-            {
-                "nombre": "35",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e40.mp4"
-            },
-            {
-                "nombre": "36",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e41.mp4"
-            },
-            {
-                "nombre": "37",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e42.mp4"
-            },
-            {
-                "nombre": "38",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e43.mp4"
-            },
-            {
-                "nombre": "39",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e44.mp4"
-            },
-            {
-                "nombre": "40",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e45.mp4"
-            },
-            {
-                "nombre": "41",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e46.mp4"
-            },
-            {
-                "nombre": "42",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e47.mp4"
-            },
-            {
-                "nombre": "43",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e48.mp4"
-            },
-            {
-                "nombre": "44",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e49.mp4"
-            },
-            {
-                "nombre": "45",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e5.mp4"
-            },
-            {
-                "nombre": "46",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e50.mp4"
-            },
-            {
-                "nombre": "47",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e51.mp4"
-            },
-            {
-                "nombre": "48",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e52.mp4"
-            },
-            {
-                "nombre": "49",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e53.mp4"
-            },
-            {
-                "nombre": "50",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e54.mp4"
-            },
-            {
-                "nombre": "51",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e55.mp4"
-            },
-            {
-                "nombre": "52",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e56.mp4"
-            },
-            {
-                "nombre": "53",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e57.mp4"
-            },
-            {
-                "nombre": "54",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e58.mp4"
-            },
-            {
-                "nombre": "55",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e59.mp4"
-            },
-            {
-                "nombre": "56",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e6.mp4"
-            },
-            {
-                "nombre": "57",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e60.mp4"
-            },
-            {
-                "nombre": "58",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e61.mp4"
-            },
-            {
-                "nombre": "59",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e62.mp4"
-            },
-            {
-                "nombre": "60",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e63.mp4"
-            },
-            {
-                "nombre": "61",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e64.mp4"
-            },
-            {
-                "nombre": "62",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e65.mp4"
-            },
-            {
-                "nombre": "63",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e66.mp4"
-            },
-            {
-                "nombre": "64",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e67.mp4"
-            },
-            {
-                "nombre": "65",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e68.mp4"
-            },
-            {
-                "nombre": "66",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e69.mp4"
-            },
-            {
-                "nombre": "67",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e7.mp4"
-            },
-            {
-                "nombre": "68",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e70.mp4"
-            },
-            {
-                "nombre": "69",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e71.mp4"
-            },
-            {
-                "nombre": "70",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e72.mp4"
-            },
-            {
-                "nombre": "71",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e73.mp4"
-            },
-            {
-                "nombre": "72",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e74.mp4"
-            },
-            {
-                "nombre": "73",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e8.mp4"
-            },
-            {
-                "nombre": "74",
-                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e9.mp4"
-            }
-        ]
-    },
-    {
-        "id": "7458",
-        "titulo": "El Cártel de los Sapos",
-        "genero": "Acción",
-        "plataforma": "Netflix",
-        "sinopsis": "Lo que inició como una aventura en la que diez amigos, miembros de un cartel de la droga, entraron pensando hacerse millonarios, termina mal para todos. Porque en este negocio, al final siempre se pierde. El mundo del narcotráfico le atrae a Martín González, un joven de 15 años, ambicioso y atrevido, proveniente de una familia colombiana de clase media, quien le pide a su amigo Pepe Cadena que intervenga ante su hermano mayor, para vincularlo al peligroso oficio.",
-        "puntuacion": 7.6,
-        "year": "2008",
-        "poster": "https://image.tmdb.org/t/p/w500/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/4jTSmEGdZ77A2dP6Y08gwo52LuF.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/7458.mp4",
-        "capitulos": [
-            {
-                "nombre": "1",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E01.mkv"
-            },
-            {
-                "nombre": "2",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E02.mkv"
-            },
-            {
-                "nombre": "3",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E03.mkv"
-            },
-            {
-                "nombre": "4",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E04.mkv"
-            },
-            {
-                "nombre": "5",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E05.mkv"
-            },
-            {
-                "nombre": "6",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E06.mkv"
-            },
-            {
-                "nombre": "7",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E07.mkv"
-            },
-            {
-                "nombre": "8",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E08.mkv"
-            },
-            {
-                "nombre": "9",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E09.mkv"
-            },
-            {
-                "nombre": "10",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E10.mkv"
-            },
-            {
-                "nombre": "11",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E11.mkv"
-            },
-            {
-                "nombre": "12",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E12.mkv"
-            },
-            {
-                "nombre": "13",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E13.mkv"
-            },
-            {
-                "nombre": "14",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E14.mkv"
-            },
-            {
-                "nombre": "15",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E15.mkv"
-            },
-            {
-                "nombre": "16",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E16.mkv"
-            },
-            {
-                "nombre": "17",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E17.mkv"
-            },
-            {
-                "nombre": "18",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E18.mkv"
-            },
-            {
-                "nombre": "19",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E19.mkv"
-            },
-            {
-                "nombre": "20",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E20.mkv"
-            },
-            {
-                "nombre": "21",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E21.mkv"
-            },
-            {
-                "nombre": "22",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E22.mkv"
-            },
-            {
-                "nombre": "23",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E23.mkv"
-            },
-            {
-                "nombre": "24",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E24.mkv"
-            },
-            {
-                "nombre": "25",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E25.mkv"
-            },
-            {
-                "nombre": "26",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E26.mkv"
-            },
-            {
-                "nombre": "27",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E27.mkv"
-            },
-            {
-                "nombre": "28",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E28.mkv"
-            },
-            {
-                "nombre": "29",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E29.mkv"
-            },
-            {
-                "nombre": "30",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E30.mkv"
-            },
-            {
-                "nombre": "31",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E31.mkv"
-            },
-            {
-                "nombre": "32",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E32.mkv"
-            },
-            {
-                "nombre": "33",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E33.mkv"
-            },
-            {
-                "nombre": "34",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E34.mkv"
-            },
-            {
-                "nombre": "35",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E35.mkv"
-            },
-            {
-                "nombre": "36",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E36.mkv"
-            },
-            {
-                "nombre": "37",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E37.mkv"
-            },
-            {
-                "nombre": "38",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E38.mkv"
-            },
-            {
-                "nombre": "39",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E39.mkv"
-            },
-            {
-                "nombre": "40",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E40.mkv"
-            },
-            {
-                "nombre": "41",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E41.mkv"
-            },
-            {
-                "nombre": "42",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E42.mkv"
-            },
-            {
-                "nombre": "43",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E43.mkv"
-            },
-            {
-                "nombre": "44",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E44.mkv"
-            },
-            {
-                "nombre": "45",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E45.mkv"
-            },
-            {
-                "nombre": "46",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E46.mkv"
-            },
-            {
-                "nombre": "47",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E47.mkv"
-            },
-            {
-                "nombre": "48",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E48.mkv"
-            },
-            {
-                "nombre": "49",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E49.mkv"
-            },
-            {
-                "nombre": "50",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E50.mkv"
-            },
-            {
-                "nombre": "51",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E51.mkv"
-            },
-            {
-                "nombre": "52",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E52.mkv"
-            },
-            {
-                "nombre": "53",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E53.mkv"
-            },
-            {
-                "nombre": "54",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E54.mkv"
-            },
-            {
-                "nombre": "55",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E55.mkv"
-            },
-            {
-                "nombre": "56",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E56.mkv"
-            },
-            {
-                "nombre": "57",
-                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E57.mkv"
             }
         ]
     },
@@ -1918,6 +903,371 @@
         ]
     },
     {
+        "id": "7458",
+        "titulo": "El Cártel de los Sapos",
+        "genero": "Acción",
+        "plataforma": "Netflix",
+        "sinopsis": "Lo que inició como una aventura en la que diez amigos, miembros de un cartel de la droga, entraron pensando hacerse millonarios, termina mal para todos. Porque en este negocio, al final siempre se pierde. El mundo del narcotráfico le atrae a Martín González, un joven de 15 años, ambicioso y atrevido, proveniente de una familia colombiana de clase media, quien le pide a su amigo Pepe Cadena que intervenga ante su hermano mayor, para vincularlo al peligroso oficio.",
+        "puntuacion": 7.6,
+        "year": "2008",
+        "poster": "https://image.tmdb.org/t/p/w500/cSvzG2B2uafu5BoP5nt0OvrVrQG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/4jTSmEGdZ77A2dP6Y08gwo52LuF.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/7458.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E01.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E02.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E03.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E04.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E05.mkv"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E06.mkv"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E07.mkv"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E08.mkv"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E09.mkv"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E10.mkv"
+            },
+            {
+                "nombre": "11",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E11.mkv"
+            },
+            {
+                "nombre": "12",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E12.mkv"
+            },
+            {
+                "nombre": "13",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E13.mkv"
+            },
+            {
+                "nombre": "14",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E14.mkv"
+            },
+            {
+                "nombre": "15",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E15.mkv"
+            },
+            {
+                "nombre": "16",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E16.mkv"
+            },
+            {
+                "nombre": "17",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E17.mkv"
+            },
+            {
+                "nombre": "18",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E18.mkv"
+            },
+            {
+                "nombre": "19",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E19.mkv"
+            },
+            {
+                "nombre": "20",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E20.mkv"
+            },
+            {
+                "nombre": "21",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E21.mkv"
+            },
+            {
+                "nombre": "22",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E22.mkv"
+            },
+            {
+                "nombre": "23",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E23.mkv"
+            },
+            {
+                "nombre": "24",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E24.mkv"
+            },
+            {
+                "nombre": "25",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E25.mkv"
+            },
+            {
+                "nombre": "26",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E26.mkv"
+            },
+            {
+                "nombre": "27",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E27.mkv"
+            },
+            {
+                "nombre": "28",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E28.mkv"
+            },
+            {
+                "nombre": "29",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E29.mkv"
+            },
+            {
+                "nombre": "30",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E30.mkv"
+            },
+            {
+                "nombre": "31",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E31.mkv"
+            },
+            {
+                "nombre": "32",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E32.mkv"
+            },
+            {
+                "nombre": "33",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E33.mkv"
+            },
+            {
+                "nombre": "34",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E34.mkv"
+            },
+            {
+                "nombre": "35",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E35.mkv"
+            },
+            {
+                "nombre": "36",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E36.mkv"
+            },
+            {
+                "nombre": "37",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E37.mkv"
+            },
+            {
+                "nombre": "38",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E38.mkv"
+            },
+            {
+                "nombre": "39",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E39.mkv"
+            },
+            {
+                "nombre": "40",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E40.mkv"
+            },
+            {
+                "nombre": "41",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E41.mkv"
+            },
+            {
+                "nombre": "42",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E42.mkv"
+            },
+            {
+                "nombre": "43",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E43.mkv"
+            },
+            {
+                "nombre": "44",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E44.mkv"
+            },
+            {
+                "nombre": "45",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E45.mkv"
+            },
+            {
+                "nombre": "46",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E46.mkv"
+            },
+            {
+                "nombre": "47",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E47.mkv"
+            },
+            {
+                "nombre": "48",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E48.mkv"
+            },
+            {
+                "nombre": "49",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E49.mkv"
+            },
+            {
+                "nombre": "50",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E50.mkv"
+            },
+            {
+                "nombre": "51",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E51.mkv"
+            },
+            {
+                "nombre": "52",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E52.mkv"
+            },
+            {
+                "nombre": "53",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E53.mkv"
+            },
+            {
+                "nombre": "54",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E54.mkv"
+            },
+            {
+                "nombre": "55",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E55.mkv"
+            },
+            {
+                "nombre": "56",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E56.mkv"
+            },
+            {
+                "nombre": "57",
+                "url": "https://tad-series.b-cdn.net/El%20Cartel%20de%20los%20Sapos%20(2008)%20Temporada%201/El%20C%C3%A1rtel%20de%20los%20Sapos%20-%20S01E57.mkv"
+            }
+        ]
+    },
+    {
+        "id": "815426",
+        "titulo": "Hasta que te conocí",
+        "genero": "Drama",
+        "plataforma": "Disney+",
+        "sinopsis": "Hasta que te conocí, es una serie que narra la vida de Alberto Aguilera Valadez hacia su sueño a fama. Consta de 13 episodios, los cuales revelan datos nunca antes vistos en la vida del Divo de Juárez. Una historia que cuenta cómo su talento lo llevó a vencer a su destino y superar la pobreza, las traiciones y los prejuicios de los que era víctima para convertirse en el icono musical más querido de América Latina",
+        "puntuacion": 8.5,
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w1280/fYv7MkPsn5lUtLLDEa6ksd1eekA.jpg",
+        "backdrop": "/yMkIa39oBZfXTd61J8I208OOPmu.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/815426.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E01_El%20recien%20llegado.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E02_Adios%20papa.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E03_Un%20mundo%20nuevo.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E04_Todo%20esta%20perdido.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E05_La%20jaula%20del%20palomo.mkv"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E06_El%20precio%20de%20la%20libertad.mkv"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E07_Primera%20llamada.mkv"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E08_El%20sue%C3%B1o%20de%20vivir.mkv"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E09_Camino%20a%20la%20fama.mkv"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E10_La%20Luna%20ya%20se%20metio.mkv"
+            },
+            {
+                "nombre": "11",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E11_Se%20acabo%20el%20despues.mkv"
+            },
+            {
+                "nombre": "12",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E13_El%20Divo.mkv"
+            },
+            {
+                "nombre": "13",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E14_En%20la%20voz%20de%20Juan%20Gabriel.mkv"
+            },
+            {
+                "nombre": "14",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E15_El%20mas%20triste%20recuerdo.mkv"
+            },
+            {
+                "nombre": "15",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conoci_S01E16_La%20ultima%20entrevista.mkv"
+            },
+            {
+                "nombre": "16",
+                "url": "https://tad-series.b-cdn.net/Hasta%20que%20te%20conoci/Hasta%20que%20te%20conocii_S01E12_Hasta%20que%20te%20conoci.mkv"
+            }
+        ]
+    },
+    {
+        "id": "bienvenidos_a_derry_t1",
+        "titulo": "It: Bienvenidos a Derry. Temporada 1",
+        "genero": "Terror",
+        "plataforma": "HBO Max",
+        "sinopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
+        "puntuacion": 8.2,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w1280/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/aeTIvkuXmoC28CfU9cOtK0hXs3l.jpg",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x07.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Bienvenidos%20a%20Derry%20T1/IT%20Bienvenidos%20a%20Derry%201x08.mp4"
+            }
+        ]
+    },
+    {
         "id": "31387",
         "titulo": "Las muñecas de la mafia: Temporada 1",
         "genero": "Drama",
@@ -2160,6 +1510,656 @@
             {
                 "nombre": "58",
                 "url": "https://tad-series.b-cdn.net/Las%20mu%C3%B1ecas%20de%20la%20mafia%20(2009)%20Temportada%201/Las%20mu%C3%B1ecas%20de%20la%20mafia%20-%20S01E58.mkv"
+            }
+        ]
+    },
+    {
+        "id": "tony_y_ziva_t1",
+        "titulo": "NCIS: Tony & Ziva",
+        "genero": "Acción",
+        "plataforma": "Paramount+",
+        "sinopsis": "Tras la aparente muerte de Ziva, Tony cría a la hija de ambos, Tali. Años después, Ziva regresa y se reúne con Tony. La empresa de Tony es atacada y la familia viaja a Europa, intentando averiguar quién les persigue y volver a confiar el uno en el otro.",
+        "puntuacion": 7.9,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w1280/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/8ok0zRYh9Mrm8JUi8NXPHnHXcMM.jpg",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x07.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x08.mp4"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x09.mp4"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/Tony%20y%20Zina%20T1/Tony%20%26%20Ziva%201x10.mp4"
+            }
+        ]
+    },
+    {
+        "id": "operativo_lioness",
+        "titulo": "Operativo: Lioness",
+        "genero": "Drama",
+        "plataforma": "Paramount+",
+        "sinopsis": "Joe intenta equilibrar su vida personal y profesional como punta de lanza de la CIA en la guerra contra el terrorismo. El Programa Lioness recluta a Cruz para que opere de incógnito junto a Joe entre los poderosos del terrorismo de Estado.",
+        "puntuacion": 8.0,
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w500/d0r0rxI9UjMVvD5Krc5oET2O0gU.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/r0Zg70jpcDAD7IMDhVqajSnG9vb.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/operativo_lioness.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E07.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Operaciones%20Especiales%20Lioness/Operativo_S01E08.mp4"
+            }
+        ]
+    },
+    {
+        "id": "43348",
+        "titulo": "Pablo Escobar: El Patrón del Mal",
+        "genero": "Crimen",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Esta fascinante serie narra la vida del infame Pablo Escobar, desde sus días como ratero hasta convertirse en el jefe de un imperio del narcotráfico.",
+        "puntuacion": 7.6,
+        "year": "2012",
+        "poster": "https://image.tmdb.org/t/p/w500/jZqm7HFuxfH9P0LFjQZ8nzrCUHP.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/1QcHCReXoEIV7WKGaPSUk6ZfK17.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/43348.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e1.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e10.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e11.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e12.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e13.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e14.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e15.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e16.mp4"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e17.mp4"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e18.mp4"
+            },
+            {
+                "nombre": "11",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e19.mp4"
+            },
+            {
+                "nombre": "12",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e2.mp4"
+            },
+            {
+                "nombre": "13",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e20.mp4"
+            },
+            {
+                "nombre": "14",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e21.mp4"
+            },
+            {
+                "nombre": "15",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e22.mp4"
+            },
+            {
+                "nombre": "16",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e23.mp4"
+            },
+            {
+                "nombre": "17",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e24.mp4"
+            },
+            {
+                "nombre": "18",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e25.mp4"
+            },
+            {
+                "nombre": "19",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e26.mp4"
+            },
+            {
+                "nombre": "20",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e27.mp4"
+            },
+            {
+                "nombre": "21",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e28.mp4"
+            },
+            {
+                "nombre": "22",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e29.mp4"
+            },
+            {
+                "nombre": "23",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e3.mp4"
+            },
+            {
+                "nombre": "24",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e30.mp4"
+            },
+            {
+                "nombre": "25",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e31.mp4"
+            },
+            {
+                "nombre": "26",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e32.mp4"
+            },
+            {
+                "nombre": "27",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e33.mp4"
+            },
+            {
+                "nombre": "28",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e34.mp4"
+            },
+            {
+                "nombre": "29",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e35.mp4"
+            },
+            {
+                "nombre": "30",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e36.mp4"
+            },
+            {
+                "nombre": "31",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e37.mp4"
+            },
+            {
+                "nombre": "32",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e38.mp4"
+            },
+            {
+                "nombre": "33",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e39.mp4"
+            },
+            {
+                "nombre": "34",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e4.mp4"
+            },
+            {
+                "nombre": "35",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e40.mp4"
+            },
+            {
+                "nombre": "36",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e41.mp4"
+            },
+            {
+                "nombre": "37",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e42.mp4"
+            },
+            {
+                "nombre": "38",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e43.mp4"
+            },
+            {
+                "nombre": "39",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e44.mp4"
+            },
+            {
+                "nombre": "40",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e45.mp4"
+            },
+            {
+                "nombre": "41",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e46.mp4"
+            },
+            {
+                "nombre": "42",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e47.mp4"
+            },
+            {
+                "nombre": "43",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e48.mp4"
+            },
+            {
+                "nombre": "44",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e49.mp4"
+            },
+            {
+                "nombre": "45",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e5.mp4"
+            },
+            {
+                "nombre": "46",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e50.mp4"
+            },
+            {
+                "nombre": "47",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e51.mp4"
+            },
+            {
+                "nombre": "48",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e52.mp4"
+            },
+            {
+                "nombre": "49",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e53.mp4"
+            },
+            {
+                "nombre": "50",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e54.mp4"
+            },
+            {
+                "nombre": "51",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e55.mp4"
+            },
+            {
+                "nombre": "52",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e56.mp4"
+            },
+            {
+                "nombre": "53",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e57.mp4"
+            },
+            {
+                "nombre": "54",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e58.mp4"
+            },
+            {
+                "nombre": "55",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e59.mp4"
+            },
+            {
+                "nombre": "56",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e6.mp4"
+            },
+            {
+                "nombre": "57",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e60.mp4"
+            },
+            {
+                "nombre": "58",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e61.mp4"
+            },
+            {
+                "nombre": "59",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e62.mp4"
+            },
+            {
+                "nombre": "60",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e63.mp4"
+            },
+            {
+                "nombre": "61",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e64.mp4"
+            },
+            {
+                "nombre": "62",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e65.mp4"
+            },
+            {
+                "nombre": "63",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e66.mp4"
+            },
+            {
+                "nombre": "64",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e67.mp4"
+            },
+            {
+                "nombre": "65",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e68.mp4"
+            },
+            {
+                "nombre": "66",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e69.mp4"
+            },
+            {
+                "nombre": "67",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e7.mp4"
+            },
+            {
+                "nombre": "68",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e70.mp4"
+            },
+            {
+                "nombre": "69",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e71.mp4"
+            },
+            {
+                "nombre": "70",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e72.mp4"
+            },
+            {
+                "nombre": "71",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e73.mp4"
+            },
+            {
+                "nombre": "72",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e74.mp4"
+            },
+            {
+                "nombre": "73",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e8.mp4"
+            },
+            {
+                "nombre": "74",
+                "url": "https://tad-series.b-cdn.net/Pablo%20Escobar%2C%20El%20Patron%20del%20mal/S01e9.mp4"
+            }
+        ]
+    },
+    {
+        "id": "pluribus_1",
+        "titulo": "Pluribus. temporada 1",
+        "genero": "Drama",
+        "plataforma": "Apple TV",
+        "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
+        "puntuacion": 8,
+        "year": "2025",
+        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1.jpg",
+        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1_bg.jpg",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x07.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x08.mp4"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/Pluribus%20T1/Pluribus%201x09.mp4"
+            }
+        ]
+    },
+    {
+        "id": "stranger_things_5",
+        "titulo": "Stranger Things. temporada 5",
+        "genero": "Ciencia Ficción",
+        "plataforma": "Netflix",
+        "sinopsis": "Otoño de 1987. Hawkins está marcado por la apertura de las Grietas, y nuestros héroes están unidos por un solo objetivo: encontrar y matar a Vecna. Pero él desapareció; su paradero y sus planes son un misterio. Para complicar más las cosas, el gobierno puso a la ciudad bajo cuarentena militar e intensificó la cacería de Once, obligándola a esconderse otra vez. A medida que se acerca el aniversario de la desaparición de Will, también lo hace un terror pesado y familiar. La batalla final acecha, y con ella, una oscuridad más poderosa y letal que cualquier cosa que hayan enfrentado antes. Para terminar con esta pesadilla, van a necesitar a todos, al equipo completo, unidos por última vez.",
+        "puntuacion": 9.8,
+        "year": "2025",
+        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5.jpg",
+        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5_bd.jpg",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x07.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Stranger%20Things%20T5/Stranger%20Things%205x08.mp4"
+            }
+        ]
+    },
+    {
+        "id": "task",
+        "titulo": "Task",
+        "genero": "Suspenso",
+        "plataforma": "HBO Max",
+        "sinopsis": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
+        "puntuacion": 8.0,
+        "year": "2025",
+        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task.jpg",
+        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task_bd.jpg",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Task/Task%201x01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Task/Task%201x02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Task/Task%201x03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Task/Task%201x04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Task/Task%201x05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Task/Task%201x06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Task/Task%201x07.mp4"
+            }
+        ]
+    },
+    {
+        "id": "the_studio",
+        "titulo": "The Studio",
+        "genero": "Comedia",
+        "plataforma": "Apple TV",
+        "sinopsis": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
+        "puntuacion": 8.1,
+        "year": "2025",
+        "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio.jpg",
+        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio_bd.jpg",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x07.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x08.mp4"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x09.mp4"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/The%20Studio/El%20Estudio%201x10.mp4"
+            }
+        ]
+    },
+    {
+        "id": "tulsa_king_t3",
+        "titulo": "Tulsa King. Temporada 3",
+        "genero": "Drama",
+        "plataforma": "Paramount+",
+        "sinopsis": "Tulsa King: Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Dwight construye lentamente un nuevo imperio criminal en Tulsa.",
+        "puntuacion": 8.3,
+        "year": "2025",
+        "poster": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%20T3.jpg",
+        "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/tulsat3v2.jpg",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x01.mp4"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x02.mp4"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x03.mp4"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x04.mp4"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x05.mp4"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x06.mp4"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x07.mp4"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x08.mp4"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x09.mp4"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x10.mp4"
             }
         ]
     }

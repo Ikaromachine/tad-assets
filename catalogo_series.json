@@ -1145,6 +1145,44 @@
         ]
     },
     {
+        "id": "226362",
+        "titulo": "El Eternauta",
+        "genero": "Drama",
+        "plataforma": "Netflix",
+        "sinopsis": "Después de una nevada mortal que acaba con gran parte de la población, Juan Salvo y un grupo de sobrevivientes en Buenos Aires deben resistir a una amenaza de otro planeta.",
+        "puntuacion": 7.5,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w500/9Krv5NvKa5a3Q3b1l2B3rP9Bj8E.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/yMjGzK7L4gwzpQNNtFKDeG79upo.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/226362.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/El%20Eternauta%20(2025)/The%20Eternaut%20-%20S01E01.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/El%20Eternauta%20(2025)/The%20Eternaut%20-%20S01E02.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/El%20Eternauta%20(2025)/The%20Eternaut%20-%20S01E03.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/El%20Eternauta%20(2025)/The%20Eternaut%20-%20S01E04.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/El%20Eternauta%20(2025)/The%20Eternaut%20-%20S01E05.mkv"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/El%20Eternauta%20(2025)/The%20Eternaut%20-%20S01E06.mkv"
+            }
+        ]
+    },
+    {
         "id": "815426",
         "titulo": "Hasta que te conocí",
         "genero": "Drama",
@@ -2058,6 +2096,98 @@
         ]
     },
     {
+        "id": "tlou",
+        "titulo": "The Last of Us. Temporada 1",
+        "genero": "Drama",
+        "plataforma": "HBO Max",
+        "sinopsis": "Año 2023, veinte años después del comienzo de una plaga mundial que infectó a población con un hongo mutado transformando a las personas en unas criaturas caníbales, el contrabandista Joel tiene la misión de escoltar a la adolescente Ellie por un mundo postapocalíptico en el nada va a ser fácil para los viajeros. Joel todavía vive atormentado por el recuerdo de su única hija. Ellie es portadora de algo que podría cambiar el destino de la humanidad ¿Conseguirán sobrevivir los dos?",
+        "puntuacion": 8.5,
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w1280/tNQWO6cNzQYCyvw36mUcAQQyf5F.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/nGkWO0QrPbcn49BYxeG3QEXf6eX.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/tlou.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E01.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E02.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E03.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E04.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E05.mkv"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E06.mkv"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E07.mkv"
+            },
+            {
+                "nombre": "8",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E08.mkv"
+            },
+            {
+                "nombre": "9",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20%20(2023)/The%20Last%20of%20Us%20-%20S01E09.mkv"
+            }
+        ]
+    },
+    {
+        "id": "tlou2",
+        "titulo": "The Last of Us. Temporada 2",
+        "genero": "Drama",
+        "plataforma": "HBO Max",
+        "sinopsis": "The Last of Us Temporada 2 se desarrolla cinco años después de los eventos de la primera temporada, en un mundo aún más peligroso e impredecible.  Joel y Ellie, ahora establecidos en Jackson, Wyoming, comienzan a distanciarse tras las consecuencias del pasado, especialmente tras la decisión de Joel de matar a las Luciérnagas para salvar a Ellie. Este pasado los alcanza cuando Abby, hija del médico que Joel asesinó, inicia una cruzada de venganza contra él.",
+        "puntuacion": 8.5,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/original/w4FhlFo0WDK1oVyBTawkS5G6IAx.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/kQdyZtEo4iBjoJ82SX5oTCoRwjR.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/tlou2.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20(2025)/The%20Last%20of%20Us%20-%20S02E01.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20(2025)/The%20Last%20of%20Us%20-%20S02E02.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20(2025)/The%20Last%20of%20Us%20-%20S02E03.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20(2025)/The%20Last%20of%20Us%20-%20S02E04.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20(2025)/The%20Last%20of%20Us%20-%20S02E05.mkv"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20(2025)/The%20Last%20of%20Us%20-%20S02E06.mkv"
+            },
+            {
+                "nombre": "7",
+                "url": "https://tad-series.b-cdn.net/The%20Last%20of%20Us%20(2025)/The%20Last%20of%20Us%20-%20S02E07.mkv"
+            }
+        ]
+    },
+    {
         "id": "the_studio",
         "titulo": "The Studio",
         "genero": "Comedia",
@@ -2160,6 +2290,40 @@
             {
                 "nombre": "10",
                 "url": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%203x10.mp4"
+            }
+        ]
+    },
+    {
+        "id": "yiya",
+        "titulo": "Yiya",
+        "genero": "Drama",
+        "plataforma": "TAD Origins",
+        "sinopsis": "En la actualidad, un periodista reconstruye a través de una investigación los hechos que antecedieron a los asesinatos cometidos por Yiya Murano hacia sus tres amigas, a las cuales invitó a tomar el té y las terminó envenenado con cianuro.",
+        "puntuacion": 7.0,
+        "year": "2025",
+        "poster": "https://image.tmdb.org/t/p/w1280/8E8FlEdVZzS1tuItZKGgvv8kpQc.jpg",
+        "backdrop": "/h2Fh75yu9CSRs8FVftu2vs3KG1M.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/yiya.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tad-series.b-cdn.net/Yiya%20(2025)/Yiya%20-%20S01E01.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tad-series.b-cdn.net/Yiya%20(2025)/Yiya%20-%20S01E02.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tad-series.b-cdn.net/Yiya%20(2025)/Yiya%20-%20S01E03.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tad-series.b-cdn.net/Yiya%20(2025)/Yiya%20-%20S01E04.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tad-series.b-cdn.net/Yiya%20(2025)/Yiya%20-%20S01E05.mkv"
             }
         ]
     }

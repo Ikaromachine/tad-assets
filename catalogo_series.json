@@ -7,6 +7,7 @@
         "sinopsis": "Cuando un asteroide se precipita hacia la Tierra de forma irrefrenable, una profesora lucha por mantener a salvo a sus antiguos alumnos... cueste lo que cueste.",
         "puntuacion": 6.0,
         "year": "2024",
+        "trailer": "https://tad-trailers.b-cdn.net/adios,_tierra_t1.mp4",
         "poster": "https://image.tmdb.org/t/p/w1280/zXkIeLMpe9anRYicyO3F0WvDzEJ.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/nZB9cHrPZlZ1GzNKQMfiqfy8N1t.jpg",
         "capitulos": [
@@ -68,6 +69,7 @@
         "sinopsis": "El mundo de una familia se pone patas arriba cuando Jamie Miller, de 13 años, es arrestado y acusado de asesinar a una compañera de clase. Los cargos contra su hijo les obliga a enfrentarse a la peor pesadilla de cualquier padre.",
         "puntuacion": 7.8,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/adolescencia_serie.mp4",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/adolescencia.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/adolescencia_bd.jpg",
         "capitulos": [
@@ -97,6 +99,7 @@
         "sinopsis": "Andor Stern, único sobreviviente brasileño del Holocausto, revive su deportación a Auschwitz a los 16 años. Regresó al campo y a su barrio en Budapest, y ahora vive con su familia en São Paulo.",
         "puntuacion": 8.0,
         "year": "2022",
+        "trailer": "https://tad-trailers.b-cdn.net/andor_t1.mp4",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andor.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andor_bd.jpg",
         "capitulos": [
@@ -158,6 +161,7 @@
         "sinopsis": "Precuela de Rogue One: Una historia de Star Wars, con las aventuras de Cassian Andor durante sus años de formación con La Rebelión.",
         "puntuacion": 8.6,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/andor_t2.mp4",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andort2.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/andort2_bd.jpg",
         "capitulos": [
@@ -219,6 +223,7 @@
         "sinopsis": "El dueño de un restaurante de moda se ve arrastrado al hampa neoyorquina cuando su hermano, un imán para los problemas, vuelve a la ciudad con unos usureros pisándole los talones.",
         "puntuacion": 7.0,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/black_rabbit_t1.mp4",
         "poster": "https://image.tmdb.org/t/p/w1280/nfMTaiBqK9arbep6V7Lo27aBpt0.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/efbDkbMBPcHAfnsvJ9SXCdHgMBw.jpg",
         "capitulos": [
@@ -520,7 +525,7 @@
         "year": "2010",
         "poster": "https://image.tmdb.org/t/p/original/kMXkXfURZVbP8z8p0TUan95FAWJ.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/ecdls2.jpg",
-        "trailer": "",
+        "trailer": "https://tad-trailers.b-cdn.net/ecdls_laguerra.mp4",
         "capitulos": [
             {
                 "nombre": "1",
@@ -734,7 +739,7 @@
         "year": "2017",
         "poster": "https://image.tmdb.org/t/p/w1280/2ClXk4PoOGmkk676y4q6T26GJOb.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/xWCERh8E2KSuXquZhybJ4cNOTMo.jpg",
-        "trailer": "",
+        "trailer": "https://tad-trailers.b-cdn.net/chapo_season1.mp4",
         "capitulos": [
             {
                 "nombre": "1",
@@ -784,7 +789,7 @@
         "year": "2017",
         "poster": "https://image.tmdb.org/t/p/original/8GsHCu5DLzPnlgF1rRFxClcTnGT.jpg",
         "backdrop": "",
-        "trailer": "",
+        "trailer": "https://tad-trailers.b-cdn.net/chapo_season2.mp4",
         "capitulos": [
             {
                 "nombre": "1",
@@ -846,7 +851,7 @@
         "year": "2018",
         "poster": "https://image.tmdb.org/t/p/original/AsnqNe8Jy5rKcDqdGV5Wlb6BEKt.jpg",
         "backdrop": "",
-        "trailer": "",
+        "trailer": "https://tad-trailers.b-cdn.net/chapo_season3.mp4",
         "capitulos": [
             {
                 "nombre": "1",
@@ -1268,6 +1273,7 @@
         "sinopsis": "Precuela de las películas de 'IT' basadas en las novelas de Stephen King. Comienza en la década de 1960, en la época previa a los acontecimientos de la película de 2017, y cuenta los orígenes del payaso Pennywise.",
         "puntuacion": 8.2,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/bienvenidos_a_derry_t1.mp4",
         "poster": "https://image.tmdb.org/t/p/w1280/2titW404dPYOzK5NElQoAJ2ivK5.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/aeTIvkuXmoC28CfU9cOtK0hXs3l.jpg",
         "capitulos": [
@@ -1315,7 +1321,7 @@
         "year": "2009",
         "poster": "https://image.tmdb.org/t/p/w500/pbfAC5bYLeO86MsjFm9XIMOI455.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/2k80poUEvqF9W9EYclZygZ6DzNq.jpg",
-        "trailer": "",
+        "trailer": "https://tad-trailers.b-cdn.net/31387.mp4",
         "capitulos": [
             {
                 "nombre": "1",
@@ -1559,6 +1565,7 @@
         "sinopsis": "Tras la aparente muerte de Ziva, Tony cría a la hija de ambos, Tali. Años después, Ziva regresa y se reúne con Tony. La empresa de Tony es atacada y la familia viaja a Europa, intentando averiguar quién les persigue y volver a confiar el uno en el otro.",
         "puntuacion": 7.9,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/tony_y_ziva_t1.mp4",
         "poster": "https://image.tmdb.org/t/p/w1280/zNIANQsAs2kbxbzbTTe5dTBzhKe.jpg",
         "backdrop": "https://image.tmdb.org/t/p/original/8ok0zRYh9Mrm8JUi8NXPHnHXcMM.jpg",
         "capitulos": [
@@ -1968,6 +1975,7 @@
         "sinopsis": "La persona más desgraciada de la Tierra tiene que salvar al mundo de la felicidad.",
         "puntuacion": 8,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/pluribus_1.mp4",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/Pluribus%20T1_bg.jpg",
         "capitulos": [
@@ -2017,6 +2025,7 @@
         "sinopsis": "Otoño de 1987. Hawkins está marcado por la apertura de las Grietas, y nuestros héroes están unidos por un solo objetivo: encontrar y matar a Vecna. Pero él desapareció; su paradero y sus planes son un misterio. Para complicar más las cosas, el gobierno puso a la ciudad bajo cuarentena militar e intensificó la cacería de Once, obligándola a esconderse otra vez. A medida que se acerca el aniversario de la desaparición de Will, también lo hace un terror pesado y familiar. La batalla final acecha, y con ella, una oscuridad más poderosa y letal que cualquier cosa que hayan enfrentado antes. Para terminar con esta pesadilla, van a necesitar a todos, al equipo completo, unidos por última vez.",
         "puntuacion": 9.8,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/stranger_things_5.mp4",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/stranger_things_t5_bd.jpg",
         "capitulos": [
@@ -2062,6 +2071,7 @@
         "sinopsis": "Tiene lugar en los suburbios obreros de Filadelfia y sigue a un agente del FBI al mando de un grupo especial. Su objetivo es poner fin a una cadena de robos en casas de drogas protagonizados por un incauto cabeza de familia.",
         "puntuacion": 8.0,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/Task.mp4",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/task_bd.jpg",
         "capitulos": [
@@ -2195,6 +2205,7 @@
         "sinopsis": "Desesperados por gustar a las celebrities, el nuevo director de un estudio de cine y su equipo buscan el equilibro entre las exigencias corporativas y las aspiraciones creativas para poder seguir haciendo pelis atractivas.",
         "puntuacion": 8.1,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/the_studio.mp4",
         "poster": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/series/thestudio_bd.jpg",
         "capitulos": [
@@ -2248,6 +2259,7 @@
         "sinopsis": "Tulsa King: Después de cumplir 25 años en prisión, Dwight Manfredi es exiliado por su jefe de la mafia para establecer una tienda en Oklahoma. Dwight construye lentamente un nuevo imperio criminal en Tulsa.",
         "puntuacion": 8.3,
         "year": "2025",
+        "trailer": "https://tad-trailers.b-cdn.net/tulsa_king_t3.mp4",
         "poster": "https://tad-series.b-cdn.net/Tulsa%20King%20T3/Tulsa%20King%20T3.jpg",
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/tulsat3v2.jpg",
         "capitulos": [

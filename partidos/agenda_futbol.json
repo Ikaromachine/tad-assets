@@ -1,29 +1,5 @@
 [
     {
-        "partido": "Barracas Ctral vs Dep Riestra",
-        "fecha_display": "Dom 01/02 | 17:00 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Ctral_vs_Dep_Riestra.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Boca Juniors vs Newells",
-        "fecha_display": "Dom 01/02 | 19:15 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Newells.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Rosario Central vs River Plate",
-        "fecha_display": "Dom 01/02 | 21:30 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Rosario_Central_vs_River_Plate.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
         "partido": "Gimnasia LP vs Aldosivi",
         "fecha_display": "Lun 02/02 | 17:30 HS",
         "canal": "TNT Sports",

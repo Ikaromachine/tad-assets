@@ -1,5 +1,5 @@
 {
-  "versionCode": 3,
-  "url": "https://tad-descargas.b-cdn.net/tadv1.2_mobile.apk",
-  "cambios": "Versión inicial Mobile con Zapping, correcion en touch en partidos en vivo."
+  "versionCode": 4,
+  "url": "https://tad-descargas.b-cdn.net/tadv1.3_mobileHASH.apk",
+  "cambios": "Agregado de lectura de token para peliculas y series."
 }

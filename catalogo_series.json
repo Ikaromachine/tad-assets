@@ -2338,5 +2338,99 @@
                 "url": "https://tad-series.b-cdn.net/Yiya%20(2025)/Yiya%20-%20S01E05.mkv"
             }
         ]
+    },
+    {
+        "id": "dbdaima",
+        "titulo": "Dragon Ball Daima",
+        "genero": "Animación",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Goku, Vegeta, Bulma y el resto se convierten en niños, y Goten y Trunks vuelven a ser bebés. Parece que un deseo de Shenron provocó que se produjera el cambio, y dependerá de Goku y sus amigos luchar contra las nuevas amenazas que aparezcan.",
+        "puntuacion": 8.1,
+        "year": "2024",
+        "poster": "https://image.tmdb.org/t/p/w1280/brd9Bp1MlH8oK2nzR6VV9imY46k.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/9Y5Jnvdq59DQi4tazdocxF3npgV.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/dbdaima.mp4",
+        "capitulos": [
+            {
+                "nombre": "01",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E01.mkv"
+            },
+            {
+                "nombre": "02",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E02.mkv"
+            },
+            {
+                "nombre": "03",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E03.mkv"
+            },
+            {
+                "nombre": "04",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E04.mkv"
+            },
+            {
+                "nombre": "05",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E05.mkv"
+            },
+            {
+                "nombre": "06",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E06.mkv"
+            },
+            {
+                "nombre": "07",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E07.mkv"
+            },
+            {
+                "nombre": "08",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E08.mkv"
+            },
+            {
+                "nombre": "09",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E09.mkv"
+            },
+            {
+                "nombre": "10",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E10.mkv"
+            },
+            {
+                "nombre": "11",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E11.mkv"
+            },
+            {
+                "nombre": "12",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E12.mkv"
+            },
+            {
+                "nombre": "13",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E13.mkv"
+            },
+            {
+                "nombre": "14",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E14.mkv"
+            },
+            {
+                "nombre": "15",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E15.mkv"
+            },
+            {
+                "nombre": "16",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E16.mkv"
+            },
+            {
+                "nombre": "17",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E17.mkv"
+            },
+            {
+                "nombre": "18",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E18.mkv"
+            },
+            {
+                "nombre": "19",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E19.mkv"
+            },
+            {
+                "nombre": "20",
+                "url": "https://tad-series.b-cdn.net/Dragon%20Ball%20Daima%20Temporada%201%20(2024)/Dragon%20Ball%20Daima%20-%20S01E20.mkv"
+            }
+        ]
     }
 ]

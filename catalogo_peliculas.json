@@ -3471,16 +3471,16 @@
         "video": "https://tad-peliculas.b-cdn.net/La%20Trampa%20Del%20Diablo%20%282024%29/La%20Trampa%20Del%20Diablo%20%282024%29.mkv"
     },
     {
-        "id": "44052",
-        "titulo": "La viuda negra",
-        "genero": "Misterio",
+        "id": "black_widow",
+        "titulo": "Black Widow",
+        "genero": "Acción",
         "plataforma": "Disney+",
-        "sinopsis": "Un productor de Broadway contrata a una escritora. Cuando ella aparece muerta en su apartamento, todas las sospechas recaen sobre él.",
-        "puntuacion": 6.3,
-        "year": "1954",
-        "poster": "https://image.tmdb.org/t/p/w500/6u1ynJxGhqhKpFMvDmPk1OWQ5FW.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/kWg5zRFTXRt531DD8ZlP0gQkI0T.jpg",
-        "trailer": "https://tad-trailers.b-cdn.net/44052.mp4",
+        "sinopsis": "Natasha Romanoff, alias Viuda Negra, se enfrenta a las partes más oscuras de su historia cuando surge una peligrosa conspiración con vínculos con su pasado. Perseguida por una fuerza que no se detendrá ante nada para acabar con ella, Natasha debe enfrentarse a su historia como espía y a las relaciones rotas que dejó a su paso mucho antes de convertirse en una Vengadora.",
+        "puntuacion": 7.2,
+        "year": "2021",
+        "poster": "https://image.tmdb.org/t/p/w1280/rjnciyF6Rj2fwZ7mtrj88RB0z8u.jpg",
+        "backdrop": "/dq18nCTTLpy9PmtzZI6Y2yAgdw5.jpg",
+        "trailer": "https://tad-trailers.b-cdn.net/black_widow.mp4",
         "video": "https://tad-peliculas.b-cdn.net/Viuda%20Negra/Viuda%20Negra.mp4"
     },
     {

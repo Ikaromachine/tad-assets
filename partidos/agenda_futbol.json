@@ -1,29 +1,5 @@
 [
     {
-        "partido": "C. Cordoba vs Union",
-        "fecha_display": "Vie 06/02 | 21:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/C._Cordoba_vs_Union.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Aldosivi vs Rosario Central",
-        "fecha_display": "Sab 07/02 | 17:00 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_Rosario_Central.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Racing vs Argentinos Jr",
-        "fecha_display": "Sab 07/02 | 18:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Argentinos_Jr.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
         "partido": "River Plate vs Tigre",
         "fecha_display": "Sab 07/02 | 20:00 HS",
         "canal": "ESPN Premium",

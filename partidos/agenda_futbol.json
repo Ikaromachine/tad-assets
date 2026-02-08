@@ -1,29 +1,5 @@
 [
     {
-        "partido": "River Plate vs Tigre",
-        "fecha_display": "Sab 07/02 | 20:00 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Tigre.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Newells vs Def y Justicia",
-        "fecha_display": "Sab 07/02 | 22:15 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Newells_vs_Def_y_Justicia.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "Belgrano vs Banfield",
-        "fecha_display": "Sab 07/02 | 22:15 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Belgrano_vs_Banfield.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
-        "vivo": false
-    },
-    {
         "partido": "Platense vs Independiente",
         "fecha_display": "Dom 08/02 | 17:00 HS",
         "canal": "ESPN Premium",

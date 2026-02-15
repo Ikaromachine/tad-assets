@@ -5908,20 +5908,6 @@
         "logo": "https://image.tmdb.org/t/p/original/eZwZCmxED2niS2gvakcalxw97Sl.png"
     },
     {
-        "id": "469967",
-        "titulo": "TRAILERS",
-        "genero": "Ciencia Ficción",
-        "plataforma": "TAD Origins",
-        "sinopsis": "Sinopsis no disponible.",
-        "puntuacion": 5.5,
-        "year": "2016",
-        "poster": "https://image.tmdb.org/t/p/w500/7IMCnSQ2BqslgFeUXBXKdFe3Sta.jpg",
-        "backdrop": "https://image.tmdb.org/t/p/original/x7UUvrvMDWpKPGflbJQX4KG9gfg.jpg",
-        "trailer": "https://tadplay.b-cdn.net/Trailers/469967.mp4",
-        "video": "https://tadplay.b-cdn.net/Peliculas/trailers/1001311.mp4",
-        "logo": ""
-    },
-    {
         "id": "138092",
         "titulo": "¡Atraco!",
         "genero": "Suspenso",
@@ -5976,5 +5962,47 @@
         "trailer": "https://tadplay.b-cdn.net/Trailers/7305.mp4",
         "video": "https://tadplay.b-cdn.net/Peliculas/¡Viven! (1993)/¡Viven! (1993).mp4",
         "logo": "https://image.tmdb.org/t/p/original/dAlsCkBXqUCvOVgVJoEt4DiEwh6.png"
+        "reparto": [
+            {
+                "nombre": "Josh Hamilton",
+                "personaje": "Roberto Canessa",
+                "foto": "https://image.tmdb.org/t/p/w185/7nuAUPd7E8iOE5lhUcNpogS2akP.jpg"
+            },
+            {
+                "nombre": "Bruce Ramsay",
+                "personaje": "Carlitos Páez",
+                "foto": "https://image.tmdb.org/t/p/w185/xvVbXMzHqZ0kMs77EScQ76S4gWH.jpg"
+            },
+            {
+                "nombre": "Ethan Hawke",
+                "personaje": "Nando Parrado",
+                "foto": "https://image.tmdb.org/t/p/w185/2LoTr6x0TEM7L5em4kSx1VmGDgG.jpg"
+            },
+            {
+                "nombre": "Vincent Spano",
+                "personaje": "Antonio Balbi",
+                "foto": "https://image.tmdb.org/t/p/w185/ani7dv9xRTwgvbRUl6llciyh48K.jpg"
+            },
+            {
+                "nombre": "John Newton",
+                "personaje": "Antonio Vizintín",
+                "foto": "https://image.tmdb.org/t/p/w185/5OR0f5MBhggh95h2Ux7xBxIDDrW.jpg"
+            },
+            {
+                "nombre": "David Kriegel",
+                "personaje": "Gustavo Zerbino",
+                "foto": "https://image.tmdb.org/t/p/w185/ZaFsIbsB9Tt9ReoB7vLPNzBeaX.jpg"
+            },
+            {
+                "nombre": "Kevin Breznahan",
+                "personaje": "Roy Harley",
+                "foto": "https://image.tmdb.org/t/p/w185/jKKkDdDSHptbwUVkfel77p922Ai.jpg"
+            },
+            {
+                "nombre": "Sam Behrens",
+                "personaje": "Javier Methol",
+                "foto": "https://image.tmdb.org/t/p/w185/dJG0sODnS2iUnEpck0v6gKq8KTs.jpg"
+            }
+        ]
     }
 ]

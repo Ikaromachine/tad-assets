@@ -24671,6 +24671,23 @@
         "trailer": "https://tadplay.b-cdn.net/Trailers/1473267.mp4",
         "video": "https://tadplay.b-cdn.net/Peliculas/Toxico Narcisista (2024)/Toxico Narcisista (2024).mp4",
         "logo": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/logotoxiconarcisista.png"
+        "reparto": [
+            {
+                "nombre": "Nicolas Quindt",
+                "personaje": "Sebastian",
+                "foto": "https://image.tmdb.org/t/p/w200/6uQlF0RdwLGaWezFsn9429HE6zu.jpg"
+            },
+            {
+                "nombre": "Zoe Bertona",
+                "personaje": "Carolina",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/toxico2.png"
+            },
+            {
+                "nombre": "Eugenia Valenzuela",
+                "personaje": "Sandra",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/toxico3.png"
+            },
+        ]
     },
     {
         "id": "1180831",

@@ -2167,35 +2167,35 @@
         "capitulos": [
             {
                 "nombre": "1",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E01.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E01.mkv"
             },
             {
                 "nombre": "2",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E02.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E02.mkv"
             },
             {
                 "nombre": "3",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E03.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E03.mkv"
             },
             {
                 "nombre": "4",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E04.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E04.mkv"
             },
             {
                 "nombre": "5",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E05.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E05.mkv"
             },
             {
                 "nombre": "6",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E06.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E06.mkv"
             },
             {
                 "nombre": "7",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E07.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E07.mkv"
             },
             {
                 "nombre": "8",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 1 (2025)/En El Barro - S01E08.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 1 (2025)/En El Barro - S01E08.mkv"
             }
         ]
     },
@@ -2213,35 +2213,136 @@
         "capitulos": [
             {
                 "nombre": "1",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E01.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E01.mkv"
             },
             {
                 "nombre": "2",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E02.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E02.mkv"
             },
             {
                 "nombre": "3",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E03.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E03.mkv"
             },
             {
                 "nombre": "4",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E04.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E04.mkv"
             },
             {
                 "nombre": "5",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E05.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E05.mkv"
             },
             {
                 "nombre": "6",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E06.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E06.mkv"
             },
             {
                 "nombre": "7",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E07.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E07.mkv"
             },
             {
                 "nombre": "8",
-                "url": "https://tadplay.b-cdn.net/Series/En El Barro Temporada 2 (2026)/En el barro - S02E08.mkv"
+                "url": "https://tadplay.b-cdn.net/En El Barro Temporada 2 (2026)/En el barro - S02E08.mkv"
+            }
+        ]
+    },
+    {
+        "id": "97970",
+        "titulo": "Narcosantos",
+        "genero": "Crimen",
+        "plataforma": "Netflix",
+        "sinopsis": "Basado en la historia real de un hombre coreano que se convierte en narcotraficante en Surinam, un país de Sudamérica.",
+        "puntuacion": 7.7,
+        "year": "2022",
+        "poster": "https://image.tmdb.org/t/p/w500/fYIPopwvxvL6xwQqiEZ7qltjtFe.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/haIqIHTTZPebqPTz3ktte1VEUDL.jpg",
+        "logo": "https://image.tmdb.org/t/p/original/cCk45zKj7k0a3VSlpEGdXWf5zgg.png",
+        "reparto": [
+            {
+                "nombre": "하정우",
+                "personaje": "Kang In-gu",
+                "foto": "https://image.tmdb.org/t/p/w200/9KINm0XIwbt4Qql4oZX55krzKxg.jpg"
+            },
+            {
+                "nombre": "황정민",
+                "personaje": "Jeon Yo-hwan",
+                "foto": "https://image.tmdb.org/t/p/w200/8WMT3zV5DBPgbMFm8vbCNcLTXvb.jpg"
+            },
+            {
+                "nombre": "박해수",
+                "personaje": "Choi Chang-ho",
+                "foto": "https://image.tmdb.org/t/p/w200/hFt7Cj8sx1VYIwm18lYmq5kS7Pw.jpg"
+            },
+            {
+                "nombre": "조우진",
+                "personaje": "Byun Ki-tae",
+                "foto": "https://image.tmdb.org/t/p/w200/7yoOqi1yV4q9MBLOLMfQDFqbYc7.jpg"
+            },
+            {
+                "nombre": "유연석",
+                "personaje": "David Park",
+                "foto": "https://image.tmdb.org/t/p/w200/cB95no6uPnMu5FdlVWK3cO9k5xR.jpg"
+            },
+            {
+                "nombre": "추자현",
+                "personaje": "Hye-jin",
+                "foto": "https://image.tmdb.org/t/p/w200/iyDFZehw7cbQLZc2MHRxzJdgLZZ.jpg"
+            },
+            {
+                "nombre": "현봉식",
+                "personaje": "Park Eung-soo",
+                "foto": "https://image.tmdb.org/t/p/w200/6NS02ljZ2ssoFyxEM0Jp2SpWYC5.jpg"
+            },
+            {
+                "nombre": "이봉련",
+                "personaje": "Deaconess Jung",
+                "foto": "https://image.tmdb.org/t/p/w200/AkpzrUGpT0JvRY9Zk6qceKm937l.jpg"
+            },
+            {
+                "nombre": "張震",
+                "personaje": "Chen Zhen",
+                "foto": "https://image.tmdb.org/t/p/w200/4BOQ5pJXdsArkMHvyVhrV8Ditnr.jpg"
+            },
+            {
+                "nombre": "김강빈",
+                "personaje": "Lee Sang-jun",
+                "foto": "https://image.tmdb.org/t/p/w200/qBOxRyaXPfshr60QZfNHCLgC1oj.jpg"
+            },
+            {
+                "nombre": "Park Sun-im",
+                "personaje": "Si Hyeon",
+                "foto": "https://image.tmdb.org/t/p/w200/3vq7gINtRKwfaBgr98U2xL3xak0.jpg"
+            },
+            {
+                "nombre": "고건한",
+                "personaje": "Dong Woo",
+                "foto": "https://image.tmdb.org/t/p/w200/x9wPSUH71He1brPS4dsrcfN9flo.jpg"
+            }
+        ],
+        "trailer": "https://tadplay.b-cdn.net/Trailers/97970.mp4",
+        "capitulos": [
+            {
+                "nombre": "1",
+                "url": "https://tadplay.b-cdn.net/Series/Narcosantos (2022)/Narcosantos - S01E01.mkv"
+            },
+            {
+                "nombre": "2",
+                "url": "https://tadplay.b-cdn.net/Series/Narcosantos (2022)/Narcosantos - S01E02.mkv"
+            },
+            {
+                "nombre": "3",
+                "url": "https://tadplay.b-cdn.net/Series/Narcosantos (2022)/Narcosantos - S01E03.mkv"
+            },
+            {
+                "nombre": "4",
+                "url": "https://tadplay.b-cdn.net/Series/Narcosantos (2022)/Narcosantos - S01E04.mkv"
+            },
+            {
+                "nombre": "5",
+                "url": "https://tadplay.b-cdn.net/Series/Narcosantos (2022)/Narcosantos - S01E05.mkv"
+            },
+            {
+                "nombre": "6",
+                "url": "https://tadplay.b-cdn.net/Series/Narcosantos (2022)/Narcosantos - S01E06.mkv"
             }
         ]
     }

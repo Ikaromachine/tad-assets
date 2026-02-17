@@ -1,14 +1,54 @@
 {
-  "titulo_seccion": "LIGA ARGENTINA 🏆 FECHA 5",
+  "titulo_seccion": "COPA ARGENTINA 🏆 32AVOS",
   "partidos": [
     {
-        "partido": "Dep Riestra vs Newells",
-        "fecha_display": "Lun 16/02 | 20:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Dep_Riestra_vs_Newells.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "partido": "Aldosivi vs San Miguel",
+        "fecha_display": "Mar 17/02 | 17:00 HS",
+        "canal": "TyC Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Aldosivi_vs_San_Miguel.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_tychd/mpegts",
         "vivo": false
-      }
+    },
+    {
+        "partido": "Tigre vs Claypole",
+        "fecha_display": "Mar 17/02 | 19:45 HS",
+        "canal": "TyC Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Claypole.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_tychd/mpegts",
+        "vivo": false
+    },
+    {
+        "partido": "River Plate vs Cdad de Bolivar",
+        "fecha_display": "Mar 17/02 | 22:00 HS",
+        "canal": "TyC Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Cdad_de_Bolivar.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_tychd/mpegts",
+        "vivo": false
+    },
+    {
+        "partido": "Lanus vs Real Pilar",
+        "fecha_display": "Mie 18/02 | 17:00 HS",
+        "canal": "TyC Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Real_Pilar.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_tychd/mpegts",
+        "vivo": false
+    },
+    {
+        "partido": "Gimnasia LP vs Excursionistas",
+        "fecha_display": "Mie 18/02 | 19:15 HS",
+        "canal": "TyC Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Excursionistas.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_tychd/mpegts",
+        "vivo": false
+    },
+    {
+        "partido": "Racing vs Ituzaingo",
+        "fecha_display": "Mie 18/02 | 21:30 HS",
+        "canal": "TyC Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Ituzaingo.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_tychd/mpegts",
+        "vivo": false
+    }
     ]
   }
   

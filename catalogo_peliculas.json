@@ -6512,27 +6512,37 @@
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/Cuando%20Lo%20Peor%20Haya%20Pasado2.jpg",
         "trailer": "https://tadplay.b-cdn.net/Trailers/956003.mp4",
         "video": "https://tadplay.b-cdn.net/Peliculas/Cuando Lo Peor Haya Pasado (2023)/Cuando Lo Peor Haya Pasado (2023).mp4",
-        "logo": "",
+        "logo": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeorlogo.png",
         "reparto": [
             {
-                "nombre": "Vittorio Bestoso",
-                "personaje": "(voice)",
-                "foto": "https://image.tmdb.org/t/p/w200/kVl9R3sujKM9gHEcw26b7laMhQG.jpg"
+                "nombre": "Nicolas Quindt",
+                "personaje": "Alessandro",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor1.png"
             },
             {
-                "nombre": "Oliviero Corbetta",
-                "personaje": "(voice)",
-                "foto": "https://image.tmdb.org/t/p/w200/mcaeWbDwFthj8FJ9lWDeTXGzAh9.jpg"
+                "nombre": "Lestly Carrera",
+                "personaje": "Valeria",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor2.png"
             },
             {
-                "nombre": "Michele Di Mauro",
-                "personaje": "(voice)",
-                "foto": "https://image.tmdb.org/t/p/w200/nWmUjpK9HhZpgXmycOYMWKxUNUj.jpg"
+                "nombre": "Romina Bolatti",
+                "personaje": "Cintia",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor3.png"
+            },
+              {
+                "nombre": "Diego Badin",
+                "personaje": "Enzo",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor4.png"
+            },
+              {
+                "nombre": "Juliana Musicco",
+                "personaje": "Loreley",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor5.png"
             },
             {
-                "nombre": "Francesca Vettori",
-                "personaje": "(voice)",
-                "foto": "https://image.tmdb.org/t/p/w200/aorjfZ9pa9jnm4fGiydZ3EKOU8C.jpg"
+                "nombre": "Zoe Bertona",
+                "personaje": "Julieta",
+                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor6.png"
             }
         ]
     },

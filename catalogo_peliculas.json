@@ -6512,37 +6512,27 @@
         "backdrop": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/Cuando%20Lo%20Peor%20Haya%20Pasado2.jpg",
         "trailer": "https://tadplay.b-cdn.net/Trailers/956003.mp4",
         "video": "https://tadplay.b-cdn.net/Peliculas/Cuando Lo Peor Haya Pasado (2023)/Cuando Lo Peor Haya Pasado (2023).mp4",
-        "logo": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeorlogo.png",
+        "logo": "",
         "reparto": [
             {
-                "nombre": "Nicolas Quindt",
-                "personaje": "Alessandro",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor1.png"
+                "nombre": "Vittorio Bestoso",
+                "personaje": "(voice)",
+                "foto": "https://image.tmdb.org/t/p/w200/kVl9R3sujKM9gHEcw26b7laMhQG.jpg"
             },
             {
-                "nombre": "Lestly Carrera",
-                "personaje": "Valeria",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor2.png"
+                "nombre": "Oliviero Corbetta",
+                "personaje": "(voice)",
+                "foto": "https://image.tmdb.org/t/p/w200/mcaeWbDwFthj8FJ9lWDeTXGzAh9.jpg"
             },
             {
-                "nombre": "Romina Bolatti",
-                "personaje": "Cintia",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor3.png"
-            },
-              {
-                "nombre": "Diego Badin",
-                "personaje": "Enzo",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor4.png"
-            },
-              {
-                "nombre": "Juliana Musicco",
-                "personaje": "Loreley",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor5.png"
+                "nombre": "Michele Di Mauro",
+                "personaje": "(voice)",
+                "foto": "https://image.tmdb.org/t/p/w200/nWmUjpK9HhZpgXmycOYMWKxUNUj.jpg"
             },
             {
-                "nombre": "Zoe Bertona",
-                "personaje": "Julieta",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/cuandolopeor6.png"
+                "nombre": "Francesca Vettori",
+                "personaje": "(voice)",
+                "foto": "https://image.tmdb.org/t/p/w200/aorjfZ9pa9jnm4fGiydZ3EKOU8C.jpg"
             }
         ]
     },
@@ -24680,24 +24670,7 @@
         "backdrop": "/hPANjOhWGI81RUT5Iq4L5zL5zJ0.jpg",
         "trailer": "https://tadplay.b-cdn.net/Trailers/1473267.mp4",
         "video": "https://tadplay.b-cdn.net/Peliculas/Toxico Narcisista (2024)/Toxico Narcisista (2024).mp4",
-        "logo": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/logotoxiconarcisista.png",
-        "reparto": [
-            {
-                "nombre": "Nicolas Quindt",
-                "personaje": "Sebastian",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/toxico1.jpg"
-            },
-            {
-                "nombre": "Zoe Bertona",
-                "personaje": "Carolina",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/toxico2.jpg"
-            },
-            {
-                "nombre": "Eugenia Valenzuela",
-                "personaje": "Sandra",
-                "foto": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/cine/poster/toxico3.jpg"
-            }
-        ]
+        "logo": ""
     },
     {
         "id": "1180831",
@@ -26532,5 +26505,178 @@
                 "foto": "https://image.tmdb.org/t/p/w200/gB89s2gEp2NL0vcYwegyxvV2oBn.jpg"
             }
         ]
+    },
+    {
+        "id": "1318668",
+        "titulo": "500 Días de Escobar: la vertiginosa caída del capo",
+        "genero": "Documental",
+        "plataforma": "Netflix",
+        "sinopsis": "Esta película narra, a través de una mirada detallada, los hechos que llevaron a la caída de Escobar. A partir de una exhaustiva búsqueda, de imágenes de archivo y entrevistas, veremos la cacería del capo, hasta su muerte 500 días después.",
+        "puntuacion": 7.3,
+        "year": "2023",
+        "poster": "https://image.tmdb.org/t/p/w500/AoEl04jghs9APnpBKzDg37nZQnc.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/5z0rFwwX4wmyOCaEUA4fmnwt1QD.jpg",
+        "logo": "https://image.tmdb.org/t/p/original/mbbbFcEAQRv1lYMeUfRElhDiZ7w.png",
+        "reparto": [
+            {
+                "nombre": "Pablo Escobar",
+                "personaje": "Self (archive footage)",
+                "foto": "https://image.tmdb.org/t/p/w200/hu5RKQ3hDWQlZiAwKrkAuhjGQLs.jpg"
+            }
+        ],
+        "trailer": "https://tadplay.b-cdn.net/Trailers/1318668.mp4",
+        "video": "https://tadplay.b-cdn.net/Peliculas/500 Días de Escobar la vertiginosa caída del capo (2023)/500 Días de Escobar - la vertiginosa caída del capo (2023).mkv"
+    },
+    {
+        "id": "284279",
+        "titulo": "Børning",
+        "genero": "Acción",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Roy es un fanático de los coches que vive lejos de su hija, quien está a punto de ir a pasar las vacaciones con él. Justo en ese momento, Roy es retado a una carrera ilegal que discurrirá por toda Noruega.",
+        "puntuacion": 6.4,
+        "year": "2014",
+        "poster": "https://image.tmdb.org/t/p/w500/vEjOaUbG3AtNlfnS1UIWa13WtlG.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/3cWLsIHku2MNDwaqmsQVTZg1YJi.jpg",
+        "logo": "",
+        "reparto": [
+            {
+                "nombre": "Anders Baasmo Christiansen",
+                "personaje": "Roy",
+                "foto": "https://image.tmdb.org/t/p/w200/lscnOAUqyja8BHQACtjWCOTOKG7.jpg"
+            },
+            {
+                "nombre": "Ida Husøy",
+                "personaje": "Nina",
+                "foto": "https://image.tmdb.org/t/p/w200/3BSfG9D6JHGjw4wQMzO37F2v1ZZ.jpg"
+            },
+            {
+                "nombre": "Sven Nordin",
+                "personaje": "Doffen",
+                "foto": "https://image.tmdb.org/t/p/w200/sG1XzoM9UtxgbObA3tX7el30VfO.jpg"
+            },
+            {
+                "nombre": "Otto Jespersen",
+                "personaje": "Nybakken",
+                "foto": "https://image.tmdb.org/t/p/w200/5O5DgCs0kOy9kgxZJEAKULvgbOA.jpg"
+            },
+            {
+                "nombre": "Jenny Skavlan",
+                "personaje": "Sylvia",
+                "foto": "https://image.tmdb.org/t/p/w200/rHQ5lMEdczx6M2OHFWYcsMxHv7E.jpg"
+            },
+            {
+                "nombre": "Henrik Mestad",
+                "personaje": "Philip Mørk",
+                "foto": "https://image.tmdb.org/t/p/w200/uhUKVFGEPP4168ulWUsz3GISn4a.jpg"
+            },
+            {
+                "nombre": "Trond Halbo",
+                "personaje": "TT",
+                "foto": "https://image.tmdb.org/t/p/w200/rEs21vQywtwjkJywRw18JMgYGta.jpg"
+            },
+            {
+                "nombre": "Oskar Sandven Lundevold",
+                "personaje": "Jimmy",
+                "foto": "https://image.tmdb.org/t/p/w200/ZJyTlq4jSYh6x7LyHMUfQ2pQfQ.jpg"
+            },
+            {
+                "nombre": "Camilla Frey",
+                "personaje": "Linda",
+                "foto": "https://image.tmdb.org/t/p/w200/dI6ERrNg542fXK2qDFkk2yd8mMR.jpg"
+            },
+            {
+                "nombre": "Marie Blokhus",
+                "personaje": "Ingrid Lykke",
+                "foto": "https://image.tmdb.org/t/p/w200/eifQ9Sa5x4bbeDhcwuELniU8AdV.jpg"
+            },
+            {
+                "nombre": "Anitra Eriksen",
+                "personaje": "Hanne Gundersen",
+                "foto": "https://image.tmdb.org/t/p/w200/lLrNOIhP4sJJkkhrbYMYd2nuAr4.jpg"
+            },
+            {
+                "nombre": "Steinar Sagen",
+                "personaje": "Politibetjent Steinar",
+                "foto": "https://image.tmdb.org/t/p/w200/pXiFZfd0JLKcuvZ04ID1Z3t4eYw.jpg"
+            }
+        ],
+        "trailer": "https://tadplay.b-cdn.net/Trailers/284279.mp4",
+        "video": "https://tadplay.b-cdn.net/Peliculas/Borning A todo gas (2014)/Borning A todo gas (2014).mkv"
+    },
+    {
+        "id": "417503",
+        "titulo": "Børning 2",
+        "genero": "Comedia",
+        "plataforma": "TAD Origins",
+        "sinopsis": "Después de pasar dos años en prisión por participar en una carrera callejera ilegal, Roy rechaza la propuesta de una nueva carrera ilegal que se va a celebrar en el gélido norte de Rusia. Pero luego se entera de que su hija participará con su novio...",
+        "puntuacion": 6.3,
+        "year": "2016",
+        "poster": "https://image.tmdb.org/t/p/w500/gkR15HZB5C5pZuMmyhusQVGSmjy.jpg",
+        "backdrop": "https://image.tmdb.org/t/p/original/74sVVy7XKPx74JplMszhtZ78fbj.jpg",
+        "logo": "",
+        "reparto": [
+            {
+                "nombre": "Anders Baasmo Christiansen",
+                "personaje": "Roy Gundersen",
+                "foto": "https://image.tmdb.org/t/p/w200/lscnOAUqyja8BHQACtjWCOTOKG7.jpg"
+            },
+            {
+                "nombre": "Ida Husøy",
+                "personaje": "Nina",
+                "foto": "https://image.tmdb.org/t/p/w200/3BSfG9D6JHGjw4wQMzO37F2v1ZZ.jpg"
+            },
+            {
+                "nombre": "Jonas Hoff Oftebro",
+                "personaje": "Charley",
+                "foto": "https://image.tmdb.org/t/p/w200/xK84F6JmW6pauOZCs47DNGR7PCE.jpg"
+            },
+            {
+                "nombre": "Sven Nordin",
+                "personaje": "Doffen",
+                "foto": "https://image.tmdb.org/t/p/w200/sG1XzoM9UtxgbObA3tX7el30VfO.jpg"
+            },
+            {
+                "nombre": "Otto Jespersen",
+                "personaje": "Nybakken",
+                "foto": "https://image.tmdb.org/t/p/w200/5O5DgCs0kOy9kgxZJEAKULvgbOA.jpg"
+            },
+            {
+                "nombre": "Vegar Hoel",
+                "personaje": "Kayser",
+                "foto": "https://image.tmdb.org/t/p/w200/9wzMs9gVGAPcJA0wdCPYhWHuHxT.jpg"
+            },
+            {
+                "nombre": "Henrik Mestad",
+                "personaje": "Philip Mørk",
+                "foto": "https://image.tmdb.org/t/p/w200/uhUKVFGEPP4168ulWUsz3GISn4a.jpg"
+            },
+            {
+                "nombre": "Stig Frode Henriksen",
+                "personaje": "Petter'n",
+                "foto": "https://image.tmdb.org/t/p/w200/fJIFhe2gXh2akRiSXPSCGmTOaP7.jpg"
+            },
+            {
+                "nombre": "Mikkel Gaup",
+                "personaje": "Mikkel",
+                "foto": "https://image.tmdb.org/t/p/w200/pStE5P1zBvElRWQdHK1cMCJ3H7m.jpg"
+            },
+            {
+                "nombre": "Arthur Berning",
+                "personaje": "Kenneth",
+                "foto": "https://image.tmdb.org/t/p/w200/k2yRmu46KllJhr4FEJY0xzxtUmm.jpg"
+            },
+            {
+                "nombre": "Jenny Skavlan",
+                "personaje": "Sylvia",
+                "foto": "https://image.tmdb.org/t/p/w200/rHQ5lMEdczx6M2OHFWYcsMxHv7E.jpg"
+            },
+            {
+                "nombre": "Robert Skjærstad",
+                "personaje": "Arne Roger",
+                "foto": "https://image.tmdb.org/t/p/w200/k40GVPxRoSjZ7BOPqmZZVB1OKp1.jpg"
+            }
+        ],
+        "trailer": "https://tadplay.b-cdn.net/Trailers/417503.mp4",
+        "video": "https://tadplay.b-cdn.net/Peliculas/Borning Más rápido, más peligroso (2016)/Borning Más rápido, más peligroso (2016).mkv"
     }
 ]

@@ -10,66 +10,58 @@
         "vivo": false
     },
     {
-        "partido": "Tigre vs San Lorenzo",
-        "fecha_display": "Sab 21/02 | 19:15 HS",
+        "partido": "Platense vs Barracas Ctral",
+        "fecha_display": "Sab 21/02 | 17:00 HS",
         "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_San_Lorenzo.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Platense_vs_Barracas_Ctral.jpg",
         "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Belgrano vs Sarmiento",
+        "partido": "Banfield vs Newells",
         "fecha_display": "Sab 21/02 | 19:15 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Belgrano_vs_Sarmiento.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Huracan vs Newells",
-        "fecha_display": "Sab 21/02 | 21:30 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Huracan_vs_Newells.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Union vs Platense",
-        "fecha_display": "Sab 21/02 | 21:30 HS",
         "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Union_vs_Platense.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Newells.jpg",
         "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Gimnasia LP vs Rosario Central",
+        "partido": "Dep Riestra vs Huracan",
+        "fecha_display": "Sab 21/02 | 19:15 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Dep_Riestra_vs_Huracan.jpg",
+        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "C. Cordoba vs Tigre",
+        "fecha_display": "Sab 21/02 | 21:30 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/C._Cordoba_vs_Tigre.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "San Lorenzo vs Estudiantes RC",
         "fecha_display": "Dom 22/02 | 17:00 HS",
         "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Rosario_Central.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/San_Lorenzo_vs_Estudiantes_RC.jpg",
         "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Riestra vs Atl Tucuman",
-        "fecha_display": "Dom 22/02 | 17:15 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Riestra_vs_Atl_Tucuman.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "River Plate vs Banfield",
+        "partido": "Velez vs River Plate",
         "fecha_display": "Dom 22/02 | 19:15 HS",
         "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Banfield.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_River_Plate.jpg",
         "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Lanus vs Boca Juniors",
+        "partido": "Union vs Aldosivi",
         "fecha_display": "Dom 22/02 | 21:30 HS",
         "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Boca_Juniors.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Union_vs_Aldosivi.jpg",
         "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
         "vivo": false
     }

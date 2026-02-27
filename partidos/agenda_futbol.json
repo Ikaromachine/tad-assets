@@ -1,68 +1,116 @@
 {
-  "titulo_seccion": "LIGA ARGENTINA 🏆 FECHA 7",
+  "titulo_seccion": "LIGA ARGENTINA 🏆 FECHA 8",
   "partidos": [
     {
-        "partido": "Gimnasia LP vs Rosario Central",
-        "fecha_display": "Mie 25/02 | 17:00 HS",
+        "partido": "Boca Juniors vs Gimnasia Mza",
+        "fecha_display": "Sab 28/02 | 17:45 HS",
         "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Rosario_Central.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Gimnasia_Mza.jpg",
         "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Barracas Ctral vs Tigre",
-        "fecha_display": "Mie 25/02 | 17:00 HS",
+        "partido": "Independiente vs C. Cordoba",
+        "fecha_display": "Sab 28/02 | 20:00 HS",
         "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Barracas_Ctral_vs_Tigre.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Independiente_vs_C._Cordoba.jpg",
         "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Newells vs Estudiantes",
-        "fecha_display": "Mie 25/02 | 19:30 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Newells_vs_Estudiantes.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Velez vs Dep Riestra",
-        "fecha_display": "Mie 25/02 | 19:30 HS",
+        "partido": "Talleres vs San Lorenzo",
+        "fecha_display": "Sab 28/02 | 22:15 HS",
         "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_Dep_Riestra.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Talleres_vs_San_Lorenzo.jpg",
         "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Sarmiento vs Union",
-        "fecha_display": "Jue 26/02 | 17:15 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Union.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Racing vs Ind Rivadavia",
-        "fecha_display": "Jue 26/02 | 17:15 HS",
+        "partido": "Newells vs Rosario Central",
+        "fecha_display": "Dom 01/03 | 17:00 HS",
         "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Ind_Rivadavia.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Newells_vs_Rosario_Central.jpg",
         "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "River Plate vs Banfield",
-        "fecha_display": "Jue 26/02 | 19:30 HS",
+        "partido": "Argentinos Jr vs Barracas Ctral",
+        "fecha_display": "Dom 01/03 | 19:15 HS",
         "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Banfield.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Argentinos_Jr_vs_Barracas_Ctral.jpg",
         "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
         "vivo": false
     },
     {
-        "partido": "Estudiantes RC vs Huracan",
-        "fecha_display": "Jue 26/02 | 19:30 HS",
+        "partido": "Instituto vs Union",
+        "fecha_display": "Dom 01/03 | 19:15 HS",
         "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_RC_vs_Huracan.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Instituto_vs_Union.jpg",
         "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Tigre vs Gimnasia LP",
+        "fecha_display": "Dom 01/03 | 21:30 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Tigre_vs_Gimnasia_LP.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Def y Justicia vs Lanus",
+        "fecha_display": "Dom 01/03 | 21:30 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Def_y_Justicia_vs_Lanus.jpg",
+        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Ind Rivadavia vs River Plate",
+        "fecha_display": "Lun 02/03 | 21:30 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Ind_Rivadavia_vs_River_Plate.jpg",
+        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Banfield vs Aldosivi",
+        "fecha_display": "Lun 02/03 | 21:30 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Banfield_vs_Aldosivi.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Estudiantes vs Velez",
+        "fecha_display": "Lun 02/03 | 19:15 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_Velez.jpg",
+        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Dep Riestra vs Platense",
+        "fecha_display": "Lun 02/03 | 19:15 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Dep_Riestra_vs_Platense.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Sarmiento vs Estudiantes RC",
+        "fecha_display": "Mar 03/03 | 19:00 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Estudiantes_RC.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Atl Tucuman vs Racing",
+        "fecha_display": "Mar 03/03 | 21:15 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Atl_Tucuman_vs_Racing.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
         "vivo": false
     }
     ]

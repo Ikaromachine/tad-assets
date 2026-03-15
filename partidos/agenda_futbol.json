@@ -2,22 +2,6 @@
   "titulo_seccion": "LIGA ARGENTINA 🏆 FECHA 11",
   "partidos": [
     {
-        "partido": "Platense vs Velez",
-        "fecha_display": "Sab 14/03 | 19:00 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Platense_vs_Velez.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Rosario Central vs Banfield",
-        "fecha_display": "Sab 14/03 | 21:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Rosario_Central_vs_Banfield.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
-        "vivo": false
-    },
-    {
         "partido": "Gimnasia LP vs Ind Rivadavia",
         "fecha_display": "Dom 15/03 | 15:15 HS",
         "canal": "TNT Sports",

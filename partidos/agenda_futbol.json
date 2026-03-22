@@ -1,7 +1,62 @@
 {
   "titulo_seccion": "LIGA ARGENTINA 🏆 FECHA 11",
   "partidos": [
-    
+    {
+        "partido": "Sarmiento vs Aldosivi",
+        "fecha_display": "Dom 22/03 | 15:30 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Sarmiento_vs_Aldosivi.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Estudiantes RC vs River Plate",
+        "fecha_display": "Dom 22/03 | 17:45 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_RC_vs_River_Plate.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Boca Juniors vs Instituto",
+        "fecha_display": "Dom 22/03 | 20:00 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Boca_Juniors_vs_Instituto.jpg",
+        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Ind Rivadavia vs Rosario Central",
+        "fecha_display": "Dom 22/03 | 22:15 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Ind_Rivadavia_vs_Rosario_Central.jpg",
+        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Argentinos Jr vs Platense",
+        "fecha_display": "Dom 22/03 | 22:15 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Argentinos_Jr_vs_Platense.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Estudiantes vs C. Cordoba",
+        "fecha_display": "Lun 23/03 | 19:00 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_C._Cordoba.jpg",
+        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "vivo": false
+    },
+    {
+        "partido": "Huracan vs Barracas Ctral",
+        "fecha_display": "Lun 23/03 | 21:15 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Huracan_vs_Barracas_Ctral.jpg",
+        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "vivo": false
+    }
     ]
   }
   

@@ -2,46 +2,6 @@
   "titulo_seccion": "LIGA ARGENTINA 🏆 FECHA 11",
   "partidos": [
     {
-        "partido": "Gimnasia LP vs Barracas Ctral",
-        "fecha_display": "Vie 20/03 | 19:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Gimnasia_LP_vs_Barracas_Ctral.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Union vs Ind Rivadavia",
-        "fecha_display": "Vie 20/03 | 21:15 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Union_vs_Ind_Rivadavia.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "San Lorenzo vs Banfield",
-        "fecha_display": "Sab 21/03 | 17:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/San_Lorenzo_vs_Banfield.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Lanus vs Independiente",
-        "fecha_display": "Sab 21/03 | 19:15 HS",
-        "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Lanus_vs_Independiente.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
-        "vivo": false
-    },
-    {
-        "partido": "Racing vs Boca Juniors",
-        "fecha_display": "Sab 21/03 | 21:30 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Racing_vs_Boca_Juniors.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
-        "vivo": false
-    },
-    {
         "partido": "Gimnasia Mza vs Argentinos Jr",
         "fecha_display": "Dom 22/03 | 15:00 HS",
         "canal": "ESPN Premium",

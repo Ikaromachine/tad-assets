@@ -4,25 +4,25 @@
     {
         "partido": "Estudiantes vs Racing",
         "fecha_display": "Dom 10/05 | 17:00 HS",
-        "canal": "ESPN Premium",
+        "canal": "TNT Sports",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_Racing.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
+        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
         "vivo": false
     },
     {
         "partido": "River Plate vs San Lorenzo",
         "fecha_display": "Dom 10/05 | 19:00 HS",
-        "canal": "TNT Sports",
+        "canal": "ESPN Premium",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_San_Lorenzo.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
+        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
         "vivo": false
     },
     {
         "partido": "Velez vs Gimnasia LP",
         "fecha_display": "Dom 10/05 | 21:30 HS",
-        "canal": "ESPN Premium",
+        "canal": "TNT Sports",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_Gimnasia_LP.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
+        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
         "vivo": false
     }
     ]

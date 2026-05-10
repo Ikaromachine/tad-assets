@@ -2,19 +2,11 @@
   "titulo_seccion": "LIGA ARGENTINA 🏆 OCTAVOS DE FINAL",
   "partidos": [
     {
-        "partido": "Rosario Central vs Independiente",
-        "fecha_display": "Dom 10/05 | 15:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Rosario_Central_vs_Independiente.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
-        "vivo": false
-    },
-    {
         "partido": "Estudiantes vs Racing",
         "fecha_display": "Dom 10/05 | 17:00 HS",
         "canal": "ESPN Premium",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_Racing.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
         "vivo": false
     },
     {
@@ -22,7 +14,7 @@
         "fecha_display": "Dom 10/05 | 19:00 HS",
         "canal": "TNT Sports",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_San_Lorenzo.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
         "vivo": false
     },
     {
@@ -30,7 +22,7 @@
         "fecha_display": "Dom 10/05 | 21:30 HS",
         "canal": "ESPN Premium",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_Gimnasia_LP.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
         "vivo": false
     }
     ]

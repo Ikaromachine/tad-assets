@@ -1,27 +1,35 @@
 {
-  "titulo_seccion": "LIGA ARGENTINA 🏆 OCTAVOS DE FINAL",
+  "titulo_seccion": "LIGA ARGENTINA 🏆 CUARTOS DE FINAL",
   "partidos": [
     {
-        "partido": "Estudiantes vs Racing",
-        "fecha_display": "Dom 10/05 | 17:00 HS",
-        "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Estudiantes_vs_Racing.jpg",
-        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
-        "vivo": false
-    },
-    {
-        "partido": "River Plate vs San Lorenzo",
-        "fecha_display": "Dom 10/05 | 19:00 HS",
+        "partido": "Belgrano vs Union",
+        "fecha_display": "Mar 12/05 | 19:00 HS",
         "canal": "ESPN Premium",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_San_Lorenzo.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Belgrano_vs_Union.jpg",
         "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
         "vivo": false
     },
     {
-        "partido": "Velez vs Gimnasia LP",
-        "fecha_display": "Dom 10/05 | 21:30 HS",
+        "partido": "Argentinos Jr vs Huracan",
+        "fecha_display": "Mar 12/05 | 21:30 HS",
         "canal": "TNT Sports",
-        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Velez_vs_Gimnasia_LP.jpg",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Argentinos_Jr_vs_Huracan.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
+        "vivo": false
+    },
+    {
+        "partido": "Rosario Central vs Racing",
+        "fecha_display": "Mie 13/05 | 18:45 HS",
+        "canal": "ESPN Premium",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Rosario_Central_vs_Racing.jpg",
+        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
+        "vivo": false
+    },
+    {
+        "partido": "River Plate vs Gimnasia LP",
+        "fecha_display": "Mie 13/05 | 21:30 HS",
+        "canal": "TNT Sports",
+        "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Gimnasia_LP.jpg",
         "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
         "vivo": false
     }

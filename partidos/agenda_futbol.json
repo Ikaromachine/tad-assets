@@ -1,12 +1,12 @@
 {
-  "titulo_seccion": "LIGA ARGENTINA 🏆 CUARTOS DE FINAL",
+  "titulo_seccion": "LIGA ARGENTINA 🏆 SEMI FINALES",
   "partidos": [
     {
         "partido": "Belgrano vs Argentinos Jr",
         "fecha_display": "Dom 17/05 | 17:00 HS",
         "canal": "ESPN Premium",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/Belgrano_vs_Argentinos_Jr.jpg",
-        "stream_url": "http://46.225.94.157/hls/espn/index.m3u8",
+        "stream_url": "http://200.112.174.230/mtcast_espnpremiumhd/mpegts",
         "vivo": false
     },
     {
@@ -14,7 +14,7 @@
         "fecha_display": "Sab 16/05 | 19:30 HS",
         "canal": "TNT Sports",
         "img_url": "https://raw.githubusercontent.com/Ikaromachine/tad-assets/main/partidos/River_Plate_vs_Rosario_Central.jpg",
-        "stream_url": "http://46.225.94.157/hls/tnt/index.m3u8",
+        "stream_url": "http://200.112.174.230/mtcast_tntsportshd/mpegts",
         "vivo": false
     }
     ]
